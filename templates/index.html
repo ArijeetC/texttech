@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv='cache-control' content='no-cache'>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <style>
+        * {
+            font-family: monospace;
+        }
+        .inputs, .results {
+            text-align: center;
+        }
+
+        .inpfield {
+            padding: 5px;
+        }
+
+        label {
+            display: inline-block;
+            width: 100px;
+            text-align: left;
+            margin-bottom: 15px;
+        }
+
+        .result {
+            border: 1px solid #666666;
+            border-spacing: 10px;
+            margin-bottom: 10px;
+            margin-top: 10px;
+            text-align: justify;
+            padding-left: 25px;
+            padding-right: 25px;
+        }
+    </style>
+</head>
+<body>
+    <div class="inputs">
+        <div class="block">
+            <label for="query">Choose a query:</label>
+            <select id="query">
+                <option value="q1">Query 1 - Positive and percentage greater than 60</option>
+                <option value="q2">Query 2 - Positive and percentage lesser than 60</option>
+                <option value="q3">Query 3 - Negative and percentage greater than 60</option>
+                <option value="q4">Query 4 - Negative and percentage lesser than 60</option>
+                <option value="q5">Query 5 - Word count of positive reviews</option>
+                <option value="q6">Query 6 - Word count of negative reviews</option>
+            </select>
+            <button id="submitButton"  type="button">Submit</button>
+        </div>
+    </div>
+
+    <div class="results"></div>
+<script>
+
+    $(document).ready(function(){
+        
+        console.log("document loaded");
+        
+        function loadXMLDoc(filename)
+        {
+            xhttp = new XMLHttpRequest();
+            xhttp.open("GET", "static/" + filename, false);
+            try {xhttp.responseType = "msxml-document"} catch(err) {} // Helping IE11
+            xhttp.setRequestHeader("Cache-Control", "no-cache, no-store, max-age=0");
+            xhttp.send("");
+            return xhttp.responseXML;
+        }
+
+        $('#submitButton').click(function(){
+            var query = $("#query").val();
+            var xml_filename;
+            var xsl_filename;
+            switch(query) {
+                case "q1":
+                        xml_filename = "pos_movs.xml"; 
+                        xsl_filename = "q1.xsl";
+                        break;
+                case "q2":
+                        xml_filename = "pos_movs.xml"; 
+                        xsl_filename = "q2.xsl";
+                        break;
+                case "q3": 
+                        xml_filename = "neg_movs.xml";
+                        xsl_filename = "q3.xsl";
+                        break;
+                case "q4": 
+                        xml_filename = "neg_movs.xml";
+                        xsl_filename = "q4.xsl";
+                        break;
+                case "q5": 
+                        xml_filename = "wordcount_pos.xml";
+                        xsl_filename = "q_count.xsl";
+                        break;
+                case "q6": 
+                        xml_filename = "wordcount_neg.xml";
+                        xsl_filename = "q_count.xsl";
+                        break;
+            }
+
+            xml = loadXMLDoc(xml_filename);
+            xsl = loadXMLDoc(xsl_filename);
+            
+            // code for Chrome, Firefox, Opera, etc.
+            xsltProcessor = new XSLTProcessor();
+            xsltProcessor.importStylesheet(xsl);
+            resultDocument = xsltProcessor.transformToFragment(xml, document);
+            // document.getElementById("result").appendChild(resultDocument);
+            $(".results").html(resultDocument);
+        });
+    });
+</script>
+</body>
+
+</html>

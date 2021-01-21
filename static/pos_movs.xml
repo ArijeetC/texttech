@@ -1,0 +1,2922 @@
+<?xml version="1.0" encoding="utf-8"?>
+<movies>
+	<movie>
+		<title>The Hateful Eight (Roadshow 70mm Cut)</title>
+		<num_comments>3960</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>53.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>The Big Short</title>
+		<num_comments>1091</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>58.08823529411765</percentage>
+	</movie>
+	<movie>
+		<title>The Ridiculous 6</title>
+		<num_comments>499</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>63.41463414634146</percentage>
+	</movie>
+	<movie>
+		<title>A Very Murray Christmas</title>
+		<num_comments>108</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>57.692307692307686</percentage>
+	</movie>
+	<movie>
+		<title>Chi-Raq</title>
+		<num_comments>49</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.54545454545454</percentage>
+	</movie>
+	<movie>
+		<title>Room</title>
+		<num_comments>490</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>60.67415730337079</percentage>
+	</movie>
+	<movie>
+		<title>Brooklyn</title>
+		<num_comments>164</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>93.02325581395348</percentage>
+	</movie>
+	<movie>
+		<title>The Good Dinosaur</title>
+		<num_comments>477</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>53.57142857142857</percentage>
+	</movie>
+	<movie>
+		<title>Creed</title>
+		<num_comments>1213</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>73.33333333333333</percentage>
+	</movie>
+	<movie>
+		<title>Spotlight</title>
+		<num_comments>349</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>70.11494252873564</percentage>
+	</movie>
+	<movie>
+		<title>The Night Before</title>
+		<num_comments>248</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>73.58490566037736</percentage>
+	</movie>
+	<movie>
+		<title>The Peanuts Movie</title>
+		<num_comments>263</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>86.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>Bone Tomahawk</title>
+		<num_comments>216</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>60.0</percentage>
+	</movie>
+	<movie>
+		<title>Scouts Guide to the Zombie Apocalypse</title>
+		<num_comments>91</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>61.53846153846154</percentage>
+	</movie>
+	<movie>
+		<title>The Last Witch Hunter</title>
+		<num_comments>210</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>63.1578947368421</percentage>
+	</movie>
+	<movie>
+		<title>Steve Jobs</title>
+		<num_comments>573</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>63.63636363636363</percentage>
+	</movie>
+	<movie>
+		<title>Beasts of No Nation</title>
+		<num_comments>723</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>57.377049180327866</percentage>
+	</movie>
+	<movie>
+		<title>Goosebumps</title>
+		<num_comments>229</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>Bridge of Spies</title>
+		<num_comments>281</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>55.55555555555556</percentage>
+	</movie>
+	<movie>
+		<title>Crimson Peak</title>
+		<num_comments>703</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>51.85185185185185</percentage>
+	</movie>
+	<movie>
+		<title>Sicario</title>
+		<num_comments>1392</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>63.888888888888886</percentage>
+	</movie>
+	<movie>
+		<title>The Walk</title>
+		<num_comments>107</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>63.1578947368421</percentage>
+	</movie>
+	<movie>
+		<title>Everest</title>
+		<num_comments>279</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>65.625</percentage>
+	</movie>
+	<movie>
+		<title>The Visit</title>
+		<num_comments>763</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>59.67741935483871</percentage>
+	</movie>
+	<movie>
+		<title>Z for Zachariah</title>
+		<num_comments>177</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>63.1578947368421</percentage>
+	</movie>
+	<movie>
+		<title>No Escape</title>
+		<num_comments>303</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.166666666666664</percentage>
+	</movie>
+	<movie>
+		<title>American Ultra</title>
+		<num_comments>312</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>60.71428571428571</percentage>
+	</movie>
+	<movie>
+		<title>The End of the Tour</title>
+		<num_comments>27</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>90.0</percentage>
+	</movie>
+	<movie>
+		<title>Cop Car</title>
+		<num_comments>59</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>63.63636363636363</percentage>
+	</movie>
+	<movie>
+		<title>The Man from U.N.C.L.E.</title>
+		<num_comments>403</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>69.23076923076923</percentage>
+	</movie>
+	<movie>
+		<title>Straight Outta Compton</title>
+		<num_comments>1197</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>62.37623762376238</percentage>
+	</movie>
+	<movie>
+		<title>The Gift</title>
+		<num_comments>627</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>57.14285714285714</percentage>
+	</movie>
+	<movie>
+		<title>Shaun the Sheep Movie</title>
+		<num_comments>139</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>70.83333333333334</percentage>
+	</movie>
+	<movie>
+		<title>Mission: Impossible - Rogue Nation</title>
+		<num_comments>1248</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>66.66666666666666</percentage>
+	</movie>
+	<movie>
+		<title>Vacation</title>
+		<num_comments>382</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>61.29032258064516</percentage>
+	</movie>
+	<movie>
+		<title>Paper Towns</title>
+		<num_comments>164</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>60.0</percentage>
+	</movie>
+	<movie>
+		<title>Ant-Man</title>
+		<num_comments>3728</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>Me and Earl and the Dying Girl</title>
+		<num_comments>87</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>85.71428571428571</percentage>
+	</movie>
+	<movie>
+		<title>Magic Mike XXL</title>
+		<num_comments>40</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>90.9090909090909</percentage>
+	</movie>
+	<movie>
+		<title>Ted 2</title>
+		<num_comments>390</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>56.36363636363636</percentage>
+	</movie>
+	<movie>
+		<title>Dope</title>
+		<num_comments>184</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.83870967741935</percentage>
+	</movie>
+	<movie>
+		<title>Inside Out</title>
+		<num_comments>2347</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>64.66666666666666</percentage>
+	</movie>
+	<movie>
+		<title>Spy</title>
+		<num_comments>459</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>56.00000000000001</percentage>
+	</movie>
+	<movie>
+		<title>Entourage</title>
+		<num_comments>304</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>62.857142857142854</percentage>
+	</movie>
+	<movie>
+		<title>Mad Max: Fury Road</title>
+		<num_comments>5883</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>59.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>Ex Machina</title>
+		<num_comments>2388</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>56.470588235294116</percentage>
+	</movie>
+	<movie>
+		<title>True Story</title>
+		<num_comments>66</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>66.66666666666666</percentage>
+	</movie>
+	<movie>
+		<title>The Longest Ride</title>
+		<num_comments>30</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>75.0</percentage>
+	</movie>
+	<movie>
+		<title>The Interstellar (1994)</title>
+		<num_comments>42</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>55.55555555555556</percentage>
+	</movie>
+	<movie>
+		<title>Band of Merry F***wads</title>
+		<num_comments>69</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>Run All Night</title>
+		<num_comments>44</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>71.42857142857143</percentage>
+	</movie>
+	<movie>
+		<title>Cinderella</title>
+		<num_comments>282</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>89.58333333333334</percentage>
+	</movie>
+	<movie>
+		<title>Unfinished Business</title>
+		<num_comments>47</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>Chappie</title>
+		<num_comments>1615</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>52.88461538461539</percentage>
+	</movie>
+	<movie>
+		<title>Citizenfour</title>
+		<num_comments>69</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>61.53846153846154</percentage>
+	</movie>
+	<movie>
+		<title>Kingsman: The Secret Service</title>
+		<num_comments>1852</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.83870967741935</percentage>
+	</movie>
+	<movie>
+		<title>Selma</title>
+		<num_comments>239</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>62.06896551724138</percentage>
+	</movie>
+	<movie>
+		<title>Inherent Vice</title>
+		<num_comments>633</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>55.172413793103445</percentage>
+	</movie>
+	<movie>
+		<title>Big Eyes</title>
+		<num_comments>118</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>66.66666666666666</percentage>
+	</movie>
+	<movie>
+		<title>Lion</title>
+		<num_comments>389</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>53.84615384615385</percentage>
+	</movie>
+	<movie>
+		<title>Jackie</title>
+		<num_comments>172</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>60.3448275862069</percentage>
+	</movie>
+	<movie>
+		<title>Why Him?</title>
+		<num_comments>234</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>51.35135135135135</percentage>
+	</movie>
+	<movie>
+		<title>Sing</title>
+		<num_comments>236</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>61.904761904761905</percentage>
+	</movie>
+	<movie>
+		<title>La La Land</title>
+		<num_comments>3195</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>65.33333333333333</percentage>
+	</movie>
+	<movie>
+		<title>Rogue One: A Star Wars Story</title>
+		<num_comments>20953</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>Spectral</title>
+		<num_comments>362</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.74626865671642</percentage>
+	</movie>
+	<movie>
+		<title>Manchester by the Sea</title>
+		<num_comments>1327</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>52.666666666666664</percentage>
+	</movie>
+	<movie>
+		<title>Moonlight</title>
+		<num_comments>1339</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>63.33333333333333</percentage>
+	</movie>
+	<movie>
+		<title>Moana</title>
+		<num_comments>1890</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>66.66666666666666</percentage>
+	</movie>
+	<movie>
+		<title>The Edge of Seventeen</title>
+		<num_comments>223</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>70.0</percentage>
+	</movie>
+	<movie>
+		<title>Arrival</title>
+		<num_comments>9860</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>55.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>Hacksaw Ridge</title>
+		<num_comments>1337</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.0</percentage>
+	</movie>
+	<movie>
+		<title>Doctor Strange</title>
+		<num_comments>4313</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>52.0</percentage>
+	</movie>
+	<movie>
+		<title>Ouija: Origin of Evil</title>
+		<num_comments>336</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>60.526315789473685</percentage>
+	</movie>
+	<movie>
+		<title>The Accountant</title>
+		<num_comments>1046</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>52.23880597014925</percentage>
+	</movie>
+	<movie>
+		<title>Shin Godzilla</title>
+		<num_comments>298</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>68.75</percentage>
+	</movie>
+	<movie>
+		<title>Batman: Return of the Caped Crusaders</title>
+		<num_comments>60</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>58.82352941176471</percentage>
+	</movie>
+	<movie>
+		<title>Deepwater Horizon</title>
+		<num_comments>270</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>82.05128205128204</percentage>
+	</movie>
+	<movie>
+		<title>General September 30, 2016 Releases</title>
+		<num_comments>51</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>75.0</percentage>
+	</movie>
+	<movie>
+		<title>Masterminds</title>
+		<num_comments>66</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>The Magnificent Seven</title>
+		<num_comments>733</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>58.2089552238806</percentage>
+	</movie>
+	<movie>
+		<title>Snowden</title>
+		<num_comments>330</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>53.84615384615385</percentage>
+	</movie>
+	<movie>
+		<title>The Light Between Oceans</title>
+		<num_comments>105</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>73.68421052631578</percentage>
+	</movie>
+	<movie>
+		<title>Hell or High Water</title>
+		<num_comments>508</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>67.10526315789474</percentage>
+	</movie>
+	<movie>
+		<title>War Dogs</title>
+		<num_comments>434</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>51.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>Kubo and the Two Strings</title>
+		<num_comments>990</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>58.0952380952381</percentage>
+	</movie>
+	<movie>
+		<title>Pete's Dragon</title>
+		<num_comments>169</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>64.28571428571429</percentage>
+	</movie>
+	<movie>
+		<title>The Little Prince</title>
+		<num_comments>193</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>65.51724137931035</percentage>
+	</movie>
+	<movie>
+		<title>Nerve</title>
+		<num_comments>396</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>51.06382978723404</percentage>
+	</movie>
+	<movie>
+		<title>Star Trek Beyond</title>
+		<num_comments>2717</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.0</percentage>
+	</movie>
+	<movie>
+		<title>Mike and Dave Need Wedding Dates</title>
+		<num_comments>332</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>68.42105263157895</percentage>
+	</movie>
+	<movie>
+		<title>Swiss Army Man</title>
+		<num_comments>681</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>60.0</percentage>
+	</movie>
+	<movie>
+		<title>The Shallows</title>
+		<num_comments>596</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.929577464788736</percentage>
+	</movie>
+	<movie>
+		<title>The Neon Demon</title>
+		<num_comments>781</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>59.154929577464785</percentage>
+	</movie>
+	<movie>
+		<title>Central Intelligence</title>
+		<num_comments>277</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>59.25925925925925</percentage>
+	</movie>
+	<movie>
+		<title>Finding Dory</title>
+		<num_comments>1643</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>60.0</percentage>
+	</movie>
+	<movie>
+		<title>The Conjuring 2</title>
+		<num_comments>1546</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>51.63934426229508</percentage>
+	</movie>
+	<movie>
+		<title>Warcraft</title>
+		<num_comments>3806</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>60.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>Popstar: Never Stop Never Stopping</title>
+		<num_comments>445</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>66.66666666666666</percentage>
+	</movie>
+	<movie>
+		<title>The Do-Over</title>
+		<num_comments>236</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>70.83333333333334</percentage>
+	</movie>
+	<movie>
+		<title>The Angry Birds Movie</title>
+		<num_comments>97</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>82.35294117647058</percentage>
+	</movie>
+	<movie>
+		<title>The Nice Guys</title>
+		<num_comments>910</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>60.46511627906976</percentage>
+	</movie>
+	<movie>
+		<title>Green Room</title>
+		<num_comments>306</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>68.88888888888889</percentage>
+	</movie>
+	<movie>
+		<title>Captain America: Civil War</title>
+		<num_comments>13307</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>52.666666666666664</percentage>
+	</movie>
+	<movie>
+		<title>Keanu</title>
+		<num_comments>272</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>Criminal</title>
+		<num_comments>45</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.54545454545454</percentage>
+	</movie>
+	<movie>
+		<title>Barbershop: The Next Cut</title>
+		<num_comments>139</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>60.0</percentage>
+	</movie>
+	<movie>
+		<title>Everybody Wants Some!!</title>
+		<num_comments>241</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>82.75862068965517</percentage>
+	</movie>
+	<movie>
+		<title>The Jungle Book</title>
+		<num_comments>1353</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>62.121212121212125</percentage>
+	</movie>
+	<movie>
+		<title>Demolition</title>
+		<num_comments>39</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>62.5</percentage>
+	</movie>
+	<movie>
+		<title>Midnight Special</title>
+		<num_comments>276</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>56.52173913043478</percentage>
+	</movie>
+	<movie>
+		<title>Hardcore Henry</title>
+		<num_comments>847</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>61.1764705882353</percentage>
+	</movie>
+	<movie>
+		<title>Batman v Superman: Dawn of Justice (2016)</title>
+		<num_comments>34</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>Pee-wee's Big Holiday</title>
+		<num_comments>317</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>76.92307692307693</percentage>
+	</movie>
+	<movie>
+		<title>10 Cloverfield Lane</title>
+		<num_comments>4331</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.0</percentage>
+	</movie>
+	<movie>
+		<title>Whiskey Tango Foxtrot</title>
+		<num_comments>66</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.54545454545454</percentage>
+	</movie>
+	<movie>
+		<title>Zootopia</title>
+		<num_comments>1717</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>68.0</percentage>
+	</movie>
+	<movie>
+		<title>Eddie the Eagle</title>
+		<num_comments>49</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>100.0</percentage>
+	</movie>
+	<movie>
+		<title>Deadpool</title>
+		<num_comments>7225</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>53.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>Blue Mountain State: The Rise of Thadland</title>
+		<num_comments>263</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>56.81818181818182</percentage>
+	</movie>
+	<movie>
+		<title>What was the best film of 2015?</title>
+		<num_comments>970</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>81.63265306122449</percentage>
+	</movie>
+	<movie>
+		<title>What was the best performance in a 2015 film?</title>
+		<num_comments>373</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>81.81818181818183</percentage>
+	</movie>
+	<movie>
+		<title>Anomalisa</title>
+		<num_comments>235</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>53.84615384615385</percentage>
+	</movie>
+	<movie>
+		<title>Kung Fu Panda 3</title>
+		<num_comments>279</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>60.78431372549019</percentage>
+	</movie>
+	<movie>
+		<title>What was the best scene or moment from a 2015 film?</title>
+		<num_comments>401</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>64.44444444444444</percentage>
+	</movie>
+	<movie>
+		<title>What was the biggest film surprise for you of 2015?</title>
+		<num_comments>424</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>82.92682926829268</percentage>
+	</movie>
+	<movie>
+		<title>What was the best film score of 2015?</title>
+		<num_comments>301</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>61.53846153846154</percentage>
+	</movie>
+	<movie>
+		<title>The Boy</title>
+		<num_comments>180</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>56.00000000000001</percentage>
+	</movie>
+	<movie>
+		<title>Ip Man 3</title>
+		<num_comments>143</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>The Revenant</title>
+		<num_comments>4699</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>57.99999999999999</percentage>
+	</movie>
+	<movie>
+		<title>Carol</title>
+		<num_comments>182</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>75.0</percentage>
+	</movie>
+	<movie>
+		<title>Youth</title>
+		<num_comments>68</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>90.9090909090909</percentage>
+	</movie>
+	<movie>
+		<title>Darkest Hour</title>
+		<num_comments>509</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>57.57575757575758</percentage>
+	</movie>
+	<movie>
+		<title>All the Money in the World</title>
+		<num_comments>432</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>The Shape of Water</title>
+		<num_comments>2727</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>57.99999999999999</percentage>
+	</movie>
+	<movie>
+		<title>Bright</title>
+		<num_comments>6268</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>70.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>The Greatest Showman</title>
+		<num_comments>1090</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>72.0</percentage>
+	</movie>
+	<movie>
+		<title>Jumanji: Welcome to the Jungle</title>
+		<num_comments>1723</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>70.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>The Disaster Artist</title>
+		<num_comments>1735</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>66.0</percentage>
+	</movie>
+	<movie>
+		<title>Psych: The Movie</title>
+		<num_comments>210</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>52.63157894736842</percentage>
+	</movie>
+	<movie>
+		<title>Coco (US Release)</title>
+		<num_comments>2812</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>64.66666666666666</percentage>
+	</movie>
+	<movie>
+		<title>Lady Bird</title>
+		<num_comments>1506</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>75.33333333333333</percentage>
+	</movie>
+	<movie>
+		<title>The Florida Project</title>
+		<num_comments>956</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>52.800000000000004</percentage>
+	</movie>
+	<movie>
+		<title>Daddy's Home 2</title>
+		<num_comments>529</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>Thor: Ragnarok (US Release)</title>
+		<num_comments>8397</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>57.99999999999999</percentage>
+	</movie>
+	<movie>
+		<title>Coco (International Release)</title>
+		<num_comments>508</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>56.36363636363636</percentage>
+	</movie>
+	<movie>
+		<title>The Death of Stalin (International Thread)</title>
+		<num_comments>308</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>72.0</percentage>
+	</movie>
+	<movie>
+		<title>Thor: Rangarok (International Release)</title>
+		<num_comments>3063</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>52.666666666666664</percentage>
+	</movie>
+	<movie>
+		<title>Only The Brave</title>
+		<num_comments>241</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>81.81818181818183</percentage>
+	</movie>
+	<movie>
+		<title>1922</title>
+		<num_comments>353</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>59.375</percentage>
+	</movie>
+	<movie>
+		<title>Brawl in Cell Block 99</title>
+		<num_comments>543</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>53.48837209302325</percentage>
+	</movie>
+	<movie>
+		<title>Professor Marston and the Wonder Women</title>
+		<num_comments>192</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>The Meyerowitz Stories</title>
+		<num_comments>417</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>62.295081967213115</percentage>
+	</movie>
+	<movie>
+		<title>Happy Death Day</title>
+		<num_comments>1047</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.263565891472865</percentage>
+	</movie>
+	<movie>
+		<title>The Foreigner</title>
+		<num_comments>564</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>51.42857142857142</percentage>
+	</movie>
+	<movie>
+		<title>Blade Runner 2049</title>
+		<num_comments>19753</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>55.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>Stronger</title>
+		<num_comments>182</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>American Made (International Thread)</title>
+		<num_comments>192</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>62.5</percentage>
+	</movie>
+	<movie>
+		<title>Good Time</title>
+		<num_comments>442</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>66.66666666666666</percentage>
+	</movie>
+	<movie>
+		<title>Wind River</title>
+		<num_comments>1468</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>62.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>The Hitman's Bodyguard</title>
+		<num_comments>440</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>61.458333333333336</percentage>
+	</movie>
+	<movie>
+		<title>Logan Lucky</title>
+		<num_comments>1438</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>52.666666666666664</percentage>
+	</movie>
+	<movie>
+		<title>Atomic Blonde</title>
+		<num_comments>1398</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>62.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>Girls Trip</title>
+		<num_comments>664</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>60.60606060606061</percentage>
+	</movie>
+	<movie>
+		<title>Dunkirk</title>
+		<num_comments>10216</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>52.0</percentage>
+	</movie>
+	<movie>
+		<title>The Big Sick</title>
+		<num_comments>729</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>70.0</percentage>
+	</movie>
+	<movie>
+		<title>Spider-man: Homecoming</title>
+		<num_comments>13724</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.0</percentage>
+	</movie>
+	<movie>
+		<title>The House</title>
+		<num_comments>367</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>57.692307692307686</percentage>
+	</movie>
+	<movie>
+		<title>Okja</title>
+		<num_comments>2468</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>Cars 3</title>
+		<num_comments>871</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.054054054054056</percentage>
+	</movie>
+	<movie>
+		<title>Captain Underpants: The First Epic Movie</title>
+		<num_comments>353</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>57.14285714285714</percentage>
+	</movie>
+	<movie>
+		<title>Wonder Woman</title>
+		<num_comments>11377</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>56.00000000000001</percentage>
+	</movie>
+	<movie>
+		<title>King Arthur: Legend of the Sword</title>
+		<num_comments>1483</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>68.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>Guardians of the Galaxy Vol. 2</title>
+		<num_comments>10060</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>59.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>The Promise</title>
+		<num_comments>99</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>53.84615384615385</percentage>
+	</movie>
+	<movie>
+		<title>Free Fire</title>
+		<num_comments>288</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>59.42028985507246</percentage>
+	</movie>
+	<movie>
+		<title>T2 Trainspotting: Battle Across Time</title>
+		<num_comments>166</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>60.0</percentage>
+	</movie>
+	<movie>
+		<title>Your Name</title>
+		<num_comments>1058</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>74.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>The Star Wars Prequel Trilogy</title>
+		<num_comments>241</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>61.53846153846154</percentage>
+	</movie>
+	<movie>
+		<title>Power Rangers</title>
+		<num_comments>3120</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>66.0</percentage>
+	</movie>
+	<movie>
+		<title>Beauty and the Beast</title>
+		<num_comments>3097</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>57.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>Kong: Skull Island</title>
+		<num_comments>3525</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>57.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>Logan</title>
+		<num_comments>18797</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>62.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>Paterson</title>
+		<num_comments>145</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>76.47058823529412</percentage>
+	</movie>
+	<movie>
+		<title>I Don't Feel at Home in This World Anymore</title>
+		<num_comments>265</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>64.28571428571429</percentage>
+	</movie>
+	<movie>
+		<title>John Wick 2</title>
+		<num_comments>4955</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.0</percentage>
+	</movie>
+	<movie>
+		<title>20th Century Women</title>
+		<num_comments>115</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>83.33333333333334</percentage>
+	</movie>
+	<movie>
+		<title>T2 Trainspotting: Judgement Day (International Release)</title>
+		<num_comments>582</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>62.03703703703704</percentage>
+	</movie>
+	<movie>
+		<title>Split</title>
+		<num_comments>6028</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>The Founder</title>
+		<num_comments>284</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>Patriots Day</title>
+		<num_comments>476</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>64.47368421052632</percentage>
+	</movie>
+	<movie>
+		<title>Live by Night</title>
+		<num_comments>338</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>51.162790697674424</percentage>
+	</movie>
+	<movie>
+		<title>Silence</title>
+		<num_comments>1125</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>55.172413793103445</percentage>
+	</movie>
+	<movie>
+		<title>Hidden Figures</title>
+		<num_comments>452</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>71.15384615384616</percentage>
+	</movie>
+	<movie>
+		<title>A Monster Calls</title>
+		<num_comments>246</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>65.45454545454545</percentage>
+	</movie>
+	<movie>
+		<title>The House that Jack Built</title>
+		<num_comments>242</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>56.86274509803921</percentage>
+	</movie>
+	<movie>
+		<title>Bumblebee</title>
+		<num_comments>1305</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>56.00000000000001</percentage>
+	</movie>
+	<movie>
+		<title>They Shall Not Grow Old (US Release)</title>
+		<num_comments>335</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>57.57575757575758</percentage>
+	</movie>
+	<movie>
+		<title>Spider-Man: Into the Spider-Verse</title>
+		<num_comments>7351</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>68.0</percentage>
+	</movie>
+	<movie>
+		<title>The Favourite</title>
+		<num_comments>1070</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>67.33333333333333</percentage>
+	</movie>
+	<movie>
+		<title>Roma</title>
+		<num_comments>1710</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>70.0</percentage>
+	</movie>
+	<movie>
+		<title>Aquaman (International Thread)</title>
+		<num_comments>2743</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>64.66666666666666</percentage>
+	</movie>
+	<movie>
+		<title>Bodied</title>
+		<num_comments>125</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>51.42857142857142</percentage>
+	</movie>
+	<movie>
+		<title>Can You Ever Forgive Me?</title>
+		<num_comments>39</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>87.5</percentage>
+	</movie>
+	<movie>
+		<title>Green Book</title>
+		<num_comments>573</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>61.76470588235294</percentage>
+	</movie>
+	<movie>
+		<title>Instant Family</title>
+		<num_comments>112</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>80.0</percentage>
+	</movie>
+	<movie>
+		<title>Creed II</title>
+		<num_comments>1627</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>56.666666666666664</percentage>
+	</movie>
+	<movie>
+		<title>They Shall Not Grow Old (UK Release)</title>
+		<num_comments>126</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>The Ballad of Buster Scruggs</title>
+		<num_comments>2492</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.666666666666664</percentage>
+	</movie>
+	<movie>
+		<title>Outlaw King</title>
+		<num_comments>1077</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>58.666666666666664</percentage>
+	</movie>
+	<movie>
+		<title>Overlord</title>
+		<num_comments>1708</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>62.0</percentage>
+	</movie>
+	<movie>
+		<title>The Other Side of the Wind</title>
+		<num_comments>131</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>70.96774193548387</percentage>
+	</movie>
+	<movie>
+		<title>Beautiful Boy</title>
+		<num_comments>152</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>Nobody's Fool</title>
+		<num_comments>43</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>Bohemian Rhapsody</title>
+		<num_comments>2333</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>66.0</percentage>
+	</movie>
+	<movie>
+		<title>Johnny English Strikes Again</title>
+		<num_comments>100</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>63.33333333333333</percentage>
+	</movie>
+	<movie>
+		<title>Mid90s</title>
+		<num_comments>1145</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>57.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>The Old Man &amp; the Gun</title>
+		<num_comments>80</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>83.33333333333334</percentage>
+	</movie>
+	<movie>
+		<title>The Hate U Give</title>
+		<num_comments>506</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.09836065573771</percentage>
+	</movie>
+	<movie>
+		<title>Bad Times at the El Royale</title>
+		<num_comments>2325</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.0</percentage>
+	</movie>
+	<movie>
+		<title>First Man</title>
+		<num_comments>2477</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>57.99999999999999</percentage>
+	</movie>
+	<movie>
+		<title>A Star is Born</title>
+		<num_comments>4177</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>56.666666666666664</percentage>
+	</movie>
+	<movie>
+		<title>Smallfoot</title>
+		<num_comments>156</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>51.85185185185185</percentage>
+	</movie>
+	<movie>
+		<title>The House with as Clock in Its Walls</title>
+		<num_comments>461</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>52.32558139534884</percentage>
+	</movie>
+	<movie>
+		<title>Mandy</title>
+		<num_comments>1813</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>57.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>Searching</title>
+		<num_comments>2491</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>55.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>Alpha</title>
+		<num_comments>384</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>64.86486486486487</percentage>
+	</movie>
+	<movie>
+		<title>Crazy Rich Asians</title>
+		<num_comments>3170</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>69.33333333333334</percentage>
+	</movie>
+	<movie>
+		<title>BlacKkKlansman</title>
+		<num_comments>3491</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>58.666666666666664</percentage>
+	</movie>
+	<movie>
+		<title>Eighth Grade</title>
+		<num_comments>1360</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>60.0</percentage>
+	</movie>
+	<movie>
+		<title>Christopher Robin</title>
+		<num_comments>760</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>74.0</percentage>
+	</movie>
+	<movie>
+		<title>Blindspotting</title>
+		<num_comments>326</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>72.0</percentage>
+	</movie>
+	<movie>
+		<title>Teen Titans! Go To The Movies</title>
+		<num_comments>815</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>70.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>Mission: Impossible - Fallout</title>
+		<num_comments>7185</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>61.33333333333333</percentage>
+	</movie>
+	<movie>
+		<title>Mamma Mia! Here We Go Again</title>
+		<num_comments>747</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>72.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>Hotel Transylvania 3: Summer Vacation</title>
+		<num_comments>67</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>66.66666666666666</percentage>
+	</movie>
+	<movie>
+		<title>Ant Man and The Wasp (SPOILERS)</title>
+		<num_comments>7533</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.666666666666664</percentage>
+	</movie>
+	<movie>
+		<title>Won't You Be My Neighbor?</title>
+		<num_comments>351</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>76.69902912621359</percentage>
+	</movie>
+	<movie>
+		<title>Tag</title>
+		<num_comments>817</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>First Reformed</title>
+		<num_comments>441</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>58.75</percentage>
+	</movie>
+	<movie>
+		<title>Upgrade</title>
+		<num_comments>1523</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>67.33333333333333</percentage>
+	</movie>
+	<movie>
+		<title>The Tale</title>
+		<num_comments>135</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>65.625</percentage>
+	</movie>
+	<movie>
+		<title>Revenge</title>
+		<num_comments>202</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>57.49999999999999</percentage>
+	</movie>
+	<movie>
+		<title>Deadpool 2</title>
+		<num_comments>13255</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>Tully</title>
+		<num_comments>641</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>51.578947368421055</percentage>
+	</movie>
+	<movie>
+		<title>You Were Never Really Here</title>
+		<num_comments>582</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>51.78571428571429</percentage>
+	</movie>
+	<movie>
+		<title>Avengers: Infinity War</title>
+		<num_comments>11824</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>52.666666666666664</percentage>
+	</movie>
+	<movie>
+		<title>Super Troopers 2</title>
+		<num_comments>702</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>59.310344827586206</percentage>
+	</movie>
+	<movie>
+		<title>Isle of Dogs</title>
+		<num_comments>1428</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>65.33333333333333</percentage>
+	</movie>
+	<movie>
+		<title>Blockers</title>
+		<num_comments>847</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>55.833333333333336</percentage>
+	</movie>
+	<movie>
+		<title>Tyler Perry's Acrimony</title>
+		<num_comments>37</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>Thoroughbreds</title>
+		<num_comments>366</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>62.5</percentage>
+	</movie>
+	<movie>
+		<title>Love, Simon</title>
+		<num_comments>1107</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>76.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>The Death of Stalin (US Release)</title>
+		<num_comments>508</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>68.68686868686868</percentage>
+	</movie>
+	<movie>
+		<title>Gringo</title>
+		<num_comments>116</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>60.0</percentage>
+	</movie>
+	<movie>
+		<title>Game Night</title>
+		<num_comments>1168</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>68.0</percentage>
+	</movie>
+	<movie>
+		<title>A Futile and Stupid Gesture</title>
+		<num_comments>253</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>63.934426229508205</percentage>
+	</movie>
+	<movie>
+		<title>Hostiles</title>
+		<num_comments>736</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>59.64912280701754</percentage>
+	</movie>
+	<movie>
+		<title>Call Me By Your Name</title>
+		<num_comments>1419</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>66.0</percentage>
+	</movie>
+	<movie>
+		<title>Phantom Thread</title>
+		<num_comments>1027</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.25531914893617</percentage>
+	</movie>
+	<movie>
+		<title>Paddington 2</title>
+		<num_comments>430</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>73.21428571428571</percentage>
+	</movie>
+	<movie>
+		<title>I, Tonya</title>
+		<num_comments>1054</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>66.66666666666666</percentage>
+	</movie>
+	<movie>
+		<title>Spies in Disguise</title>
+		<num_comments>199</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>61.702127659574465</percentage>
+	</movie>
+	<movie>
+		<title>Little Women</title>
+		<num_comments>2010</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>57.99999999999999</percentage>
+	</movie>
+	<movie>
+		<title>John Mulaney &amp; The Sack Lunch Bunch</title>
+		<num_comments>310</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>61.53846153846154</percentage>
+	</movie>
+	<movie>
+		<title>Togo</title>
+		<num_comments>244</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>65.625</percentage>
+	</movie>
+	<movie>
+		<title>The Two Popes</title>
+		<num_comments>405</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>65.38461538461539</percentage>
+	</movie>
+	<movie>
+		<title>Jumanji: The Next Level</title>
+		<num_comments>1249</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>59.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>Waves</title>
+		<num_comments>304</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>60.0</percentage>
+	</movie>
+	<movie>
+		<title>The Report</title>
+		<num_comments>118</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>64.70588235294117</percentage>
+	</movie>
+	<movie>
+		<title>Marriage Story</title>
+		<num_comments>3469</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>60.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>Knives Out</title>
+		<num_comments>7364</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>60.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>The Irishman</title>
+		<num_comments>6563</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>51.33333333333333</percentage>
+	</movie>
+	<movie>
+		<title>A Beautiful Day in the Neighborhood</title>
+		<num_comments>635</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>65.85365853658537</percentage>
+	</movie>
+	<movie>
+		<title>21 Bridges</title>
+		<num_comments>267</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.847457627118644</percentage>
+	</movie>
+	<movie>
+		<title>Klaus</title>
+		<num_comments>456</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>83.33333333333334</percentage>
+	</movie>
+	<movie>
+		<title>Noelle</title>
+		<num_comments>208</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>51.85185185185185</percentage>
+	</movie>
+	<movie>
+		<title>Ford v Ferrari</title>
+		<num_comments>2016</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>72.0</percentage>
+	</movie>
+	<movie>
+		<title>Last Christmas</title>
+		<num_comments>543</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>55.64516129032258</percentage>
+	</movie>
+	<movie>
+		<title>Doctor Sleep</title>
+		<num_comments>2564</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>65.33333333333333</percentage>
+	</movie>
+	<movie>
+		<title>Motherless Brooklyn</title>
+		<num_comments>222</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>66.66666666666666</percentage>
+	</movie>
+	<movie>
+		<title>The King</title>
+		<num_comments>1409</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>66.66666666666666</percentage>
+	</movie>
+	<movie>
+		<title>Jojo Rabbit</title>
+		<num_comments>3079</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>68.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>The Current War</title>
+		<num_comments>98</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>52.94117647058824</percentage>
+	</movie>
+	<movie>
+		<title>Dolemite is My Name</title>
+		<num_comments>585</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>76.19047619047619</percentage>
+	</movie>
+	<movie>
+		<title>Zombieland: Double Tap</title>
+		<num_comments>1427</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>57.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>Little Monsters</title>
+		<num_comments>108</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>51.724137931034484</percentage>
+	</movie>
+	<movie>
+		<title>Mister America</title>
+		<num_comments>36</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>66.66666666666666</percentage>
+	</movie>
+	<movie>
+		<title>Judy</title>
+		<num_comments>73</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>55.172413793103445</percentage>
+	</movie>
+	<movie>
+		<title>El Camino: A Breaking Bad Movie</title>
+		<num_comments>6468</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.0</percentage>
+	</movie>
+	<movie>
+		<title>The Addams Family</title>
+		<num_comments>161</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>53.84615384615385</percentage>
+	</movie>
+	<movie>
+		<title>Downton Abbey</title>
+		<num_comments>324</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>63.793103448275865</percentage>
+	</movie>
+	<movie>
+		<title>Hustlers</title>
+		<num_comments>831</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>53.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>Peanut Butter Falcon</title>
+		<num_comments>452</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>71.73913043478261</percentage>
+	</movie>
+	<movie>
+		<title>Ready or Not</title>
+		<num_comments>1558</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>56.666666666666664</percentage>
+	</movie>
+	<movie>
+		<title>Angel Has Fallen</title>
+		<num_comments>394</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.79365079365079</percentage>
+	</movie>
+	<movie>
+		<title>Invader Zim: Enter the Florpus</title>
+		<num_comments>829</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.666666666666664</percentage>
+	</movie>
+	<movie>
+		<title>Good Boys</title>
+		<num_comments>959</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>57.99999999999999</percentage>
+	</movie>
+	<movie>
+		<title>Blinded by the Light</title>
+		<num_comments>188</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>69.38775510204081</percentage>
+	</movie>
+	<movie>
+		<title>The Angry Birds Movie 2</title>
+		<num_comments>67</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>71.42857142857143</percentage>
+	</movie>
+	<movie>
+		<title>Dora and the Lost City of Gold</title>
+		<num_comments>429</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>61.95652173913043</percentage>
+	</movie>
+	<movie>
+		<title>The Art of Racing in the Rain</title>
+		<num_comments>148</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>55.55555555555556</percentage>
+	</movie>
+	<movie>
+		<title>The Farewell</title>
+		<num_comments>593</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>62.601626016260155</percentage>
+	</movie>
+	<movie>
+		<title>The Art of Self-Defense</title>
+		<num_comments>356</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>57.14285714285714</percentage>
+	</movie>
+	<movie>
+		<title>Once Upon a Time in Hollywood</title>
+		<num_comments>21751</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>56.666666666666664</percentage>
+	</movie>
+	<movie>
+		<title>The Last Black Man in San Francisco</title>
+		<num_comments>147</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>75.0</percentage>
+	</movie>
+	<movie>
+		<title>Stuber</title>
+		<num_comments>292</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>66.66666666666666</percentage>
+	</movie>
+	<movie>
+		<title>Spider-Man: Far From Home</title>
+		<num_comments>14028</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>59.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>Annabelle Comes Home</title>
+		<num_comments>585</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>Toy Story 4</title>
+		<num_comments>5258</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>Child's Play</title>
+		<num_comments>1106</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>60.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>Justice League: Part Two</title>
+		<num_comments>61</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>78.57142857142857</percentage>
+	</movie>
+	<movie>
+		<title>Shaft</title>
+		<num_comments>287</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.41176470588235</percentage>
+	</movie>
+	<movie>
+		<title>Late Night</title>
+		<num_comments>118</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>55.88235294117647</percentage>
+	</movie>
+	<movie>
+		<title>Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese</title>
+		<num_comments>72</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>68.42105263157895</percentage>
+	</movie>
+	<movie>
+		<title>Always Be My Maybe</title>
+		<num_comments>350</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>74.19354838709677</percentage>
+	</movie>
+	<movie>
+		<title>Rocketman</title>
+		<num_comments>1211</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>74.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>Booksmart</title>
+		<num_comments>1531</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>72.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>Aladdin</title>
+		<num_comments>2892</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.666666666666664</percentage>
+	</movie>
+	<movie>
+		<title>Tolkien</title>
+		<num_comments>160</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>55.55555555555556</percentage>
+	</movie>
+	<movie>
+		<title>Long Shot</title>
+		<num_comments>452</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>72.58064516129032</percentage>
+	</movie>
+	<movie>
+		<title>Avengers: Endgame</title>
+		<num_comments>89684</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>55.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>Under the Silver Lake</title>
+		<num_comments>363</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>55.55555555555556</percentage>
+	</movie>
+	<movie>
+		<title>Missing Link</title>
+		<num_comments>178</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>70.27027027027027</percentage>
+	</movie>
+	<movie>
+		<title>The Man Who Killed Don Quixote</title>
+		<num_comments>238</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.166666666666664</percentage>
+	</movie>
+	<movie>
+		<title>Unicorn Store</title>
+		<num_comments>322</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>57.49999999999999</percentage>
+	</movie>
+	<movie>
+		<title>Avengers: Endgame (Official Theories Thread)</title>
+		<num_comments>366</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>The Highwaymen</title>
+		<num_comments>298</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>66.66666666666666</percentage>
+	</movie>
+	<movie>
+		<title>Dragged Across Concrete</title>
+		<num_comments>758</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>59.32203389830508</percentage>
+	</movie>
+	<movie>
+		<title>The Dirt</title>
+		<num_comments>582</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.36893203883495</percentage>
+	</movie>
+	<movie>
+		<title>Wonder Park</title>
+		<num_comments>62</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.54545454545454</percentage>
+	</movie>
+	<movie>
+		<title>Apollo 11</title>
+		<num_comments>293</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>76.19047619047619</percentage>
+	</movie>
+	<movie>
+		<title>Arctic</title>
+		<num_comments>212</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>Fighting With My Family</title>
+		<num_comments>432</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>56.060606060606055</percentage>
+	</movie>
+	<movie>
+		<title>Happy Death Day 2U</title>
+		<num_comments>620</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>53.04347826086957</percentage>
+	</movie>
+	<movie>
+		<title>Isn't It Romantic</title>
+		<num_comments>206</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>65.51724137931035</percentage>
+	</movie>
+	<movie>
+		<title>Alita: Battle Angel</title>
+		<num_comments>4640</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>70.0</percentage>
+	</movie>
+	<movie>
+		<title>What Men Want</title>
+		<num_comments>74</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>62.5</percentage>
+	</movie>
+	<movie>
+		<title>The LEGO Movie 2: The Second Part</title>
+		<num_comments>1034</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>53.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>Polar</title>
+		<num_comments>803</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>The Kid Who Would Be King</title>
+		<num_comments>112</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>68.96551724137932</percentage>
+	</movie>
+	<movie>
+		<title>Dragon Ball Super: Broly</title>
+		<num_comments>1779</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>67.33333333333333</percentage>
+	</movie>
+	<movie>
+		<title>Glass</title>
+		<num_comments>4951</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>52.0</percentage>
+	</movie>
+	<movie>
+		<title>The Upside</title>
+		<num_comments>232</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>66.66666666666666</percentage>
+	</movie>
+	<movie>
+		<title>On the Basis of Sex</title>
+		<num_comments>127</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>62.5</percentage>
+	</movie>
+	<movie>
+		<title>If Beale Street Could Talk</title>
+		<num_comments>272</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>65.15151515151516</percentage>
+	</movie>
+	<movie>
+		<title>The Croods 2</title>
+		<num_comments>39</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>91.66666666666666</percentage>
+	</movie>
+	<movie>
+		<title>News of the World</title>
+		<num_comments>54</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>We Can Be Heroes</title>
+		<num_comments>180</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>56.41025641025641</percentage>
+	</movie>
+	<movie>
+		<title>Promising Young Woman</title>
+		<num_comments>719</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>51.21951219512195</percentage>
+	</movie>
+	<movie>
+		<title>Soul</title>
+		<num_comments>4829</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>69.33333333333334</percentage>
+	</movie>
+	<movie>
+		<title>Another Round</title>
+		<num_comments>206</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>75.60975609756098</percentage>
+	</movie>
+	<movie>
+		<title>Ma Rainey's Black Bottom</title>
+		<num_comments>279</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>62.295081967213115</percentage>
+	</movie>
+	<movie>
+		<title>Let Them All Talk</title>
+		<num_comments>98</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>66.66666666666666</percentage>
+	</movie>
+	<movie>
+		<title>Wolfwalkers</title>
+		<num_comments>99</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>78.26086956521739</percentage>
+	</movie>
+	<movie>
+		<title>Godmothered</title>
+		<num_comments>48</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>62.5</percentage>
+	</movie>
+	<movie>
+		<title>Black Bear</title>
+		<num_comments>152</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>52.63157894736842</percentage>
+	</movie>
+	<movie>
+		<title>Sound of Metal</title>
+		<num_comments>589</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>72.72727272727273</percentage>
+	</movie>
+	<movie>
+		<title>Small Axe: Lover's Rock</title>
+		<num_comments>46</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>78.57142857142857</percentage>
+	</movie>
+	<movie>
+		<title>Superintelligence</title>
+		<num_comments>36</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>66.66666666666666</percentage>
+	</movie>
+	<movie>
+		<title>Fatman</title>
+		<num_comments>188</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>73.17073170731707</percentage>
+	</movie>
+	<movie>
+		<title>Small Axe: Mangrove</title>
+		<num_comments>40</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>73.33333333333333</percentage>
+	</movie>
+	<movie>
+		<title>Run</title>
+		<num_comments>331</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>62.5</percentage>
+	</movie>
+	<movie>
+		<title>Freaky</title>
+		<num_comments>174</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>69.6969696969697</percentage>
+	</movie>
+	<movie>
+		<title>Let Him Go</title>
+		<num_comments>71</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>72.22222222222221</percentage>
+	</movie>
+	<movie>
+		<title>Bad Hair</title>
+		<num_comments>40</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>Over The Moon</title>
+		<num_comments>139</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.54545454545454</percentage>
+	</movie>
+	<movie>
+		<title>David Byrne's American Utopia</title>
+		<num_comments>53</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>85.71428571428571</percentage>
+	</movie>
+	<movie>
+		<title>The Wolf of Snow Hollow</title>
+		<num_comments>199</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>Love and Monsters</title>
+		<num_comments>428</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>79.66101694915254</percentage>
+	</movie>
+	<movie>
+		<title>The Trial of the Chicago 7</title>
+		<num_comments>1241</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>67.33333333333333</percentage>
+	</movie>
+	<movie>
+		<title>Spontaneous</title>
+		<num_comments>41</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>77.77777777777779</percentage>
+	</movie>
+	<movie>
+		<title>Hubie Halloween</title>
+		<num_comments>354</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>56.75675675675676</percentage>
+	</movie>
+	<movie>
+		<title>Save Yourselves!</title>
+		<num_comments>58</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.54545454545454</percentage>
+	</movie>
+	<movie>
+		<title>The Devil All the Time</title>
+		<num_comments>2470</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>56.00000000000001</percentage>
+	</movie>
+	<movie>
+		<title>The Babysitter: Killer Queen</title>
+		<num_comments>512</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>52.68817204301075</percentage>
+	</movie>
+	<movie>
+		<title>Unpregnant</title>
+		<num_comments>72</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>63.63636363636363</percentage>
+	</movie>
+	<movie>
+		<title>The Personal History of David Copperfield</title>
+		<num_comments>52</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>57.89473684210527</percentage>
+	</movie>
+	<movie>
+		<title>Phineas and Ferb The Movie: Candace Against the Universe</title>
+		<num_comments>74</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>63.1578947368421</percentage>
+	</movie>
+	<movie>
+		<title>Bill and Ted Face the Music</title>
+		<num_comments>1551</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>60.40268456375839</percentage>
+	</movie>
+	<movie>
+		<title>The One and Only Ivan</title>
+		<num_comments>29</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.54545454545454</percentage>
+	</movie>
+	<movie>
+		<title>Black is King</title>
+		<num_comments>311</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>51.85185185185185</percentage>
+	</movie>
+	<movie>
+		<title>Yes God Yes</title>
+		<num_comments>113</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>55.88235294117647</percentage>
+	</movie>
+	<movie>
+		<title>First Cow</title>
+		<num_comments>75</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>64.70588235294117</percentage>
+	</movie>
+	<movie>
+		<title>Palm Springs</title>
+		<num_comments>2688</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>61.33333333333333</percentage>
+	</movie>
+	<movie>
+		<title>Greyhound</title>
+		<num_comments>676</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.90196078431373</percentage>
+	</movie>
+	<movie>
+		<title>Hamilton</title>
+		<num_comments>2577</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>71.33333333333334</percentage>
+	</movie>
+	<movie>
+		<title>My Spy</title>
+		<num_comments>39</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>83.33333333333334</percentage>
+	</movie>
+	<movie>
+		<title>Eurovision Song Contest: The Story of Fire Saga</title>
+		<num_comments>1095</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>70.0</percentage>
+	</movie>
+	<movie>
+		<title>The King of Staten Island</title>
+		<num_comments>866</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>68.0</percentage>
+	</movie>
+	<movie>
+		<title>Shirley</title>
+		<num_comments>37</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>The Lovebirds</title>
+		<num_comments>212</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.70422535211267</percentage>
+	</movie>
+	<movie>
+		<title>Bad Education</title>
+		<num_comments>223</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>55.55555555555556</percentage>
+	</movie>
+	<movie>
+		<title>The Willoughbys</title>
+		<num_comments>70</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>True History of the Kelly Gang</title>
+		<num_comments>27</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>Extraction</title>
+		<num_comments>1903</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>60.0</percentage>
+	</movie>
+	<movie>
+		<title>Swallow</title>
+		<num_comments>60</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>75.0</percentage>
+	</movie>
+	<movie>
+		<title>Trolls World Tour</title>
+		<num_comments>299</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>52.38095238095239</percentage>
+	</movie>
+	<movie>
+		<title>Never Rarely Sometimes Always</title>
+		<num_comments>71</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>76.19047619047619</percentage>
+	</movie>
+	<movie>
+		<title>Blow the Man Down</title>
+		<num_comments>67</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>57.14285714285714</percentage>
+	</movie>
+	<movie>
+		<title>The Jesus Rolls</title>
+		<num_comments>45</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>The Hunt</title>
+		<num_comments>1160</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>53.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>The Way Back</title>
+		<num_comments>269</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>66.66666666666666</percentage>
+	</movie>
+	<movie>
+		<title>Onward</title>
+		<num_comments>1357</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>67.33333333333333</percentage>
+	</movie>
+	<movie>
+		<title>Emma</title>
+		<num_comments>262</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>78.87323943661971</percentage>
+	</movie>
+	<movie>
+		<title>Portrait of a Lady on Fire</title>
+		<num_comments>516</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>63.70370370370371</percentage>
+	</movie>
+	<movie>
+		<title>The Invisible Man</title>
+		<num_comments>5131</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>56.00000000000001</percentage>
+	</movie>
+	<movie>
+		<title>The Call of the Wild</title>
+		<num_comments>363</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.83870967741935</percentage>
+	</movie>
+	<movie>
+		<title>Sonic the Hedgehog</title>
+		<num_comments>2737</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>60.0</percentage>
+	</movie>
+	<movie>
+		<title>The Photograph</title>
+		<num_comments>73</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>61.111111111111114</percentage>
+	</movie>
+	<movie>
+		<title>The Last Full Measure</title>
+		<num_comments>38</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>The Gentlemen</title>
+		<num_comments>1217</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>58.666666666666664</percentage>
+	</movie>
+	<movie>
+		<title>Weathering With You</title>
+		<num_comments>506</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>50.63291139240506</percentage>
+	</movie>
+	<movie>
+		<title>Bad Boys for Life</title>
+		<num_comments>1306</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>55.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>Underwater</title>
+		<num_comments>1233</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>54.0</percentage>
+	</movie>
+	<movie>
+		<title>Just Mercy</title>
+		<num_comments>221</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>68.62745098039215</percentage>
+	</movie>
+	<movie>
+		<title>1917</title>
+		<num_comments>6518</num_comments>
+		<year>2020</year>
+		<label>Positive</label>
+		<percentage>60.0</percentage>
+	</movie>
+</movies>
