@@ -39,12 +39,36 @@
         <div class="block">
             <label for="query">Choose a query:</label>
             <select id="query">
-                <option value="q1">Query 1 - Positive and percentage greater than 60</option>
-                <option value="q2">Query 2 - Positive and percentage lesser than 60</option>
-                <option value="q3">Query 3 - Negative and percentage greater than 60</option>
-                <option value="q4">Query 4 - Negative and percentage lesser than 60</option>
-                <option value="q5">Query 5 - Word count of positive reviews</option>
-                <option value="q6">Query 6 - Word count of negative reviews</option>
+                <option value="q1">Query 1 - Positive and percentage greater than 80</option>
+                <option value="q2">Query 2 - Negative and percentage greater than 80</option>
+                <option value="q3">Query 3 - </option>
+                <option value="q4">Query 4 - </option>
+                <option value="q5">Query 5 - </option>
+                <option value="q6">Query 6 - </option>
+                <option value="q7">Query 7 - </option>
+                <option value="q8">Query 8 - </option>
+                <option value="q9">Query 9 - </option>
+                <option value="q10">Query 10 - </option>
+                <option value="q11">Query 11 - </option>
+                <option value="q12">Query 12 - </option>
+                <option value="q13">Query 13 - </option>
+                <option value="q14">Query 14 - </option>
+                <option value="q15">Query 15 - </option>
+                <option value="q16">Query 16 - </option>
+                <option value="q17">Query 17 - </option>
+                <option value="q18">Query 18 - </option>
+                <option value="q19">Query 19 - </option>
+                <option value="q20">Query 20 - </option>
+                <option value="q21">Query 21 - </option>
+                <option value="q22">Query 22 - </option>
+                <option value="q23">Query 23 - </option>
+                <option value="q24">Query 24 - </option>
+                <option value="q25">Query 25 - </option>
+                <option value="q26">Query 26 - </option>
+                <option value="q27">Query 27 - </option>
+                <option value="q28">Query 28 - </option>
+                <option value="q29">Query 29 - Word count of positive reviews</option>
+                <option value="q30">Query 30 - Word count of negative reviews</option>
             </select>
             <button id="submitButton"  type="button">Submit</button>
         </div>
@@ -74,26 +98,122 @@
             switch(query) {
                 case "q1":
                         xml_filename = "pos_movs.xml"; 
-                        xsl_filename = "q1.xsl";
+                        xsl_filename = "q1_pos_80.xsl";
                         break;
                 case "q2":
+                        xml_filename = "neg_movs.xml"; 
+                        xsl_filename = "q2_neg_80.xsl";
+                        break;
+                case "q3":
                         xml_filename = "pos_movs.xml"; 
-                        xsl_filename = "q2.xsl";
+                        xsl_filename = "q3_y20_top10_pos.xsl";
                         break;
-                case "q3": 
-                        xml_filename = "neg_movs.xml";
-                        xsl_filename = "q3.xsl";
+                case "q4":
+                        xml_filename = "neg_movs.xml"; 
+                        xsl_filename = "q4_y20_top10_neg.xsl";
                         break;
-                case "q4": 
-                        xml_filename = "neg_movs.xml";
-                        xsl_filename = "q4.xsl";
+                case "q5":
+                        xml_filename = "pos_movs.xml"; 
+                        xsl_filename = "q5_y19_top10_pos.xsl";
                         break;
-                case "q5": 
-                        xml_filename = "wordcount_pos.xml";
+                case "q6":
+                        xml_filename = "neg_movs.xml"; 
+                        xsl_filename = "q6_y19_top10_neg.xsl";
+                        break;
+                case "q7":
+                        xml_filename = "pos_movs.xml"; 
+                        xsl_filename = "q7_y18_top10_pos.xsl";
+                        break;
+                case "q8":
+                        xml_filename = "neg_movs.xml"; 
+                        xsl_filename = "q8_y18_top10_neg.xsl";
+                        break;
+                case "q9":
+                        xml_filename = "pos_movs.xml"; 
+                        xsl_filename = "q9_y17_top10_pos.xsl";
+                        break;
+                case "q10":
+                        xml_filename = "neg_movs.xml"; 
+                        xsl_filename = "q10_y17_top10_neg.xsl";
+                        break;
+                case "q11":
+                        xml_filename = "pos_movs.xml"; 
+                        xsl_filename = "q11_y16_top10_pos.xsl";
+                        break;
+                case "q12":
+                        xml_filename = "neg_movs.xml"; 
+                        xsl_filename = "q12_y16_top10_neg.xsl";
+                        break;
+                case "q13":
+                        xml_filename = "pos_movs.xml"; 
+                        xsl_filename = "q13_y15_top10_pos.xsl";
+                        break;
+                case "q14":
+                        xml_filename = "neg_movs.xml"; 
+                        xsl_filename = "q14_y15_top10_neg.xsl";
+                        break;
+                case "q15":
+                        xml_filename = "pos_movs.xml"; 
+                        xsl_filename = "q15_romantic_pos.xsl";
+                        break;
+                case "q16":
+                        xml_filename = "neg_movs.xml"; 
+                        xsl_filename = "q16_romatic_neg.xsl";
+                        break;
+                case "q17":
+                        xml_filename = "pos_movs.xml"; 
+                        xsl_filename = "q17_action_pos.xsl";
+                        break;
+                case "q18":
+                        xml_filename = "neg_movs.xml"; 
+                        xsl_filename = "q18_action_neg.xsl";
+                        break;
+                case "q19":
+                        xml_filename = "pos_movs.xml"; 
+                        xsl_filename = "q19_sci_pos.xsl";
+                        break;
+                case "q20":
+                        xml_filename = "neg_movs.xml"; 
+                        xsl_filename = "q20_sci_neg.xsl";
+                        break;
+                case "q21":
+                        xml_filename = "pos_movs.xml"; 
+                        xsl_filename = "q21_thriller_pos.xsl";
+                        break;
+                case "q22":
+                        xml_filename = "neg_movs.xml"; 
+                        xsl_filename = "q22_thriller_neg.xsl";
+                        break;
+                case "q23":
+                        xml_filename = "pos_movs.xml"; 
+                        xsl_filename = "q23_drama_pos.xsl";
+                        break;
+                case "q24":
+                        xml_filename = "neg_movs.xml"; 
+                        xsl_filename = "q24_drama_neg.xsl";
+                        break;
+                case "q25":
+                        xml_filename = "pos_movs.xml"; 
+                        xsl_filename = "q25_animation_pos.xsl";
+                        break;
+                case "q26":
+                        xml_filename = "neg_movs.xml"; 
+                        xsl_filename = "q26_animation_neg.xsl";
+                        break;
+                case "q27":
+                        xml_filename = "pos_movs.xml"; 
+                        xsl_filename = "q27_comedy_pos.xsl";
+                        break;
+                case "q28":
+                        xml_filename = "neg_movs.xml"; 
+                        xsl_filename = "q28_comedy_neg.xsl";
+                        break;
+                case "q29":
+                        xml_filename = "wordcount_pos.xml"; 
                         xsl_filename = "q_count.xsl";
                         break;
-                case "q6": 
-                        xml_filename = "wordcount_neg.xml";
+                case "q30":
+                        xml_filename = "wordcount_neg.xml"; 
                         xsl_filename = "q_count.xsl";
                         break;
             }

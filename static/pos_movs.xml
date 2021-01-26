@@ -3,2597 +3,3627 @@
 	<movie>
 		<title>The Hateful Eight (Roadshow 70mm Cut)</title>
 		<num_comments>3960</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Drama, Mystery, Thriller, Comedy, Crime, Western </genre>
+		<director>Quentin Tarantino </director>
 		<label>Positive</label>
-		<percentage>53.333333333333336</percentage>
+		<percentage>55.333333333333336</percentage>
 	</movie>
 	<movie>
 		<title>The Big Short</title>
 		<num_comments>1091</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Biography, Drama, Comedy </genre>
+		<director>Adam McKay </director>
 		<label>Positive</label>
-		<percentage>58.08823529411765</percentage>
+		<percentage>60.150375939849624</percentage>
+	</movie>
+	<movie>
+		<title>Sisters</title>
+		<num_comments>165</num_comments>
+		<year>2015</year>
+		<genre>Comedy </genre>
+		<director>Jason Moore </director>
+		<label>Positive</label>
+		<percentage>51.515151515151516</percentage>
 	</movie>
 	<movie>
 		<title>The Ridiculous 6</title>
 		<num_comments>499</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Comedy, Western </genre>
+		<director>Frank Coraci </director>
 		<label>Positive</label>
-		<percentage>63.41463414634146</percentage>
+		<percentage>73.17073170731707</percentage>
 	</movie>
 	<movie>
 		<title>A Very Murray Christmas</title>
 		<num_comments>108</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Comedy, Variety Shows, Events &amp; Specials, Music </genre>
+		<director>NULL</director>
 		<label>Positive</label>
-		<percentage>57.692307692307686</percentage>
+		<percentage>60.0</percentage>
 	</movie>
 	<movie>
 		<title>Chi-Raq</title>
 		<num_comments>49</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Drama, Comedy, Crime, Musical </genre>
+		<director>Spike Lee </director>
 		<label>Positive</label>
-		<percentage>54.54545454545454</percentage>
+		<percentage>63.63636363636363</percentage>
+	</movie>
+	<movie>
+		<title>Trumbo</title>
+		<num_comments>102</num_comments>
+		<year>2015</year>
+		<genre>Biography, Drama </genre>
+		<director>Jay Roach </director>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>Krampus</title>
+		<num_comments>776</num_comments>
+		<year>2015</year>
+		<genre>Fantasy, Horror, Comedy </genre>
+		<director>Michael Dougherty </director>
+		<label>Positive</label>
+		<percentage>50.588235294117645</percentage>
 	</movie>
 	<movie>
 		<title>Room</title>
 		<num_comments>490</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Drama </genre>
+		<director>Lenny Abrahamson </director>
 		<label>Positive</label>
-		<percentage>60.67415730337079</percentage>
+		<percentage>62.5</percentage>
 	</movie>
 	<movie>
 		<title>Brooklyn</title>
 		<num_comments>164</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Drama, Comedy, Romance </genre>
+		<director>John Crowley </director>
 		<label>Positive</label>
-		<percentage>93.02325581395348</percentage>
+		<percentage>92.85714285714286</percentage>
 	</movie>
 	<movie>
 		<title>The Good Dinosaur</title>
 		<num_comments>477</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Adventure, Fantasy, Comedy, Animation, Family </genre>
+		<director>Peter Sohn </director>
 		<label>Positive</label>
-		<percentage>53.57142857142857</percentage>
+		<percentage>56.25</percentage>
 	</movie>
 	<movie>
 		<title>Creed</title>
 		<num_comments>1213</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Drama, Sport </genre>
+		<director>Ryan Coogler </director>
 		<label>Positive</label>
-		<percentage>73.33333333333333</percentage>
+		<percentage>76.66666666666667</percentage>
 	</movie>
 	<movie>
 		<title>Spotlight</title>
 		<num_comments>349</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Biography, Drama, History, Thriller </genre>
+		<director>Thomas McCarthy </director>
 		<label>Positive</label>
-		<percentage>70.11494252873564</percentage>
+		<percentage>72.28915662650603</percentage>
 	</movie>
 	<movie>
 		<title>The Night Before</title>
 		<num_comments>248</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Comedy </genre>
+		<director>Jonathan Levine </director>
 		<label>Positive</label>
-		<percentage>73.58490566037736</percentage>
+		<percentage>78.43137254901961</percentage>
+	</movie>
+	<movie>
+		<title>The Hunger Games: Mockingjay Part 2</title>
+		<num_comments>62</num_comments>
+		<year>2015</year>
+		<genre>NULL</genre>
+		<director>NULL</director>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
 	</movie>
 	<movie>
 		<title>The Peanuts Movie</title>
 		<num_comments>263</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Adventure, Comedy, Animation, Family </genre>
+		<director>Steve Martino </director>
 		<label>Positive</label>
-		<percentage>86.66666666666667</percentage>
+		<percentage>85.1063829787234</percentage>
 	</movie>
 	<movie>
 		<title>Bone Tomahawk</title>
 		<num_comments>216</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Adventure, Drama, Thriller, Horror, Western </genre>
+		<director>S. Craig Zahler </director>
 		<label>Positive</label>
 		<percentage>60.0</percentage>
 	</movie>
 	<movie>
 		<title>Scouts Guide to the Zombie Apocalypse</title>
 		<num_comments>91</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Horror, Comedy </genre>
+		<director>Christopher B. Landon </director>
 		<label>Positive</label>
-		<percentage>61.53846153846154</percentage>
+		<percentage>72.72727272727273</percentage>
 	</movie>
 	<movie>
 		<title>The Last Witch Hunter</title>
 		<num_comments>210</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Action, Adventure, Fantasy </genre>
+		<director>Breck Eisner </director>
 		<label>Positive</label>
-		<percentage>63.1578947368421</percentage>
+		<percentage>60.0</percentage>
 	</movie>
 	<movie>
 		<title>Steve Jobs</title>
 		<num_comments>573</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Biography, Drama </genre>
+		<director>Danny Boyle </director>
 		<label>Positive</label>
-		<percentage>63.63636363636363</percentage>
+		<percentage>68.08510638297872</percentage>
 	</movie>
 	<movie>
 		<title>Beasts of No Nation</title>
 		<num_comments>723</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Drama, War </genre>
+		<director>Cary Fukunaga </director>
 		<label>Positive</label>
-		<percentage>57.377049180327866</percentage>
+		<percentage>59.67741935483871</percentage>
 	</movie>
 	<movie>
 		<title>Goosebumps</title>
 		<num_comments>229</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Action, Adventure, Fantasy, Horror, Comedy </genre>
+		<director>Rob Letterman </director>
 		<label>Positive</label>
-		<percentage>50.0</percentage>
+		<percentage>54.54545454545454</percentage>
 	</movie>
 	<movie>
 		<title>Bridge of Spies</title>
 		<num_comments>281</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Biography, Drama, History, Thriller </genre>
+		<director>Steven Spielberg </director>
 		<label>Positive</label>
-		<percentage>55.55555555555556</percentage>
+		<percentage>63.63636363636363</percentage>
 	</movie>
 	<movie>
 		<title>Crimson Peak</title>
 		<num_comments>703</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Drama, Mystery, Thriller, Fantasy, Horror, Romance </genre>
+		<director>Guillermo del Toro </director>
 		<label>Positive</label>
-		<percentage>51.85185185185185</percentage>
+		<percentage>53.70370370370371</percentage>
 	</movie>
 	<movie>
 		<title>Sicario</title>
 		<num_comments>1392</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Action, Drama, Mystery, Thriller, Crime </genre>
+		<director>Denis Villeneuve </director>
 		<label>Positive</label>
-		<percentage>63.888888888888886</percentage>
+		<percentage>65.21739130434783</percentage>
 	</movie>
 	<movie>
 		<title>The Walk</title>
 		<num_comments>107</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Adventure, Biography, Drama, Thriller </genre>
+		<director>Robert Zemeckis </director>
 		<label>Positive</label>
 		<percentage>63.1578947368421</percentage>
 	</movie>
 	<movie>
 		<title>Everest</title>
 		<num_comments>279</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Adventure, Biography, Drama, History, Thriller </genre>
+		<director>Baltasar Kormákur </director>
 		<label>Positive</label>
-		<percentage>65.625</percentage>
+		<percentage>66.66666666666666</percentage>
 	</movie>
 	<movie>
 		<title>The Visit</title>
 		<num_comments>763</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Thriller, Horror, Comedy </genre>
+		<director>M. Night Shyamalan </director>
 		<label>Positive</label>
-		<percentage>59.67741935483871</percentage>
+		<percentage>60.9375</percentage>
 	</movie>
 	<movie>
 		<title>Z for Zachariah</title>
 		<num_comments>177</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Sci-Fi, Drama, Thriller </genre>
+		<director>Craig Zobel </director>
 		<label>Positive</label>
-		<percentage>63.1578947368421</percentage>
+		<percentage>66.66666666666666</percentage>
 	</movie>
 	<movie>
 		<title>No Escape</title>
 		<num_comments>303</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Action, Thriller </genre>
+		<director>John Erick Dowdle </director>
 		<label>Positive</label>
-		<percentage>54.166666666666664</percentage>
+		<percentage>56.52173913043478</percentage>
 	</movie>
 	<movie>
 		<title>American Ultra</title>
 		<num_comments>312</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Action, Comedy </genre>
+		<director>Nima Nourizadeh </director>
 		<label>Positive</label>
-		<percentage>60.71428571428571</percentage>
+		<percentage>57.692307692307686</percentage>
 	</movie>
 	<movie>
 		<title>The End of the Tour</title>
 		<num_comments>27</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Drama </genre>
+		<director>James Ponsoldt </director>
 		<label>Positive</label>
-		<percentage>90.0</percentage>
+		<percentage>88.88888888888889</percentage>
 	</movie>
 	<movie>
 		<title>Cop Car</title>
 		<num_comments>59</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Thriller </genre>
+		<director>Jon Watts </director>
 		<label>Positive</label>
-		<percentage>63.63636363636363</percentage>
+		<percentage>66.66666666666666</percentage>
 	</movie>
 	<movie>
 		<title>The Man from U.N.C.L.E.</title>
 		<num_comments>403</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Action, Adventure, Comedy </genre>
+		<director>Guy Ritchie </director>
 		<label>Positive</label>
-		<percentage>69.23076923076923</percentage>
+		<percentage>73.58490566037736</percentage>
 	</movie>
 	<movie>
 		<title>Straight Outta Compton</title>
 		<num_comments>1197</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Biography, Drama, Music </genre>
+		<director>F. Gary Gray </director>
 		<label>Positive</label>
 		<percentage>62.37623762376238</percentage>
 	</movie>
 	<movie>
 		<title>The Gift</title>
 		<num_comments>627</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Mystery, Thriller, Horror </genre>
+		<director>Joel Edgerton </director>
 		<label>Positive</label>
-		<percentage>57.14285714285714</percentage>
+		<percentage>60.86956521739131</percentage>
 	</movie>
 	<movie>
 		<title>Shaun the Sheep Movie</title>
 		<num_comments>139</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Adventure, Comedy, Animation, Family </genre>
+		<director>Mark Burton and Richard Starzak </director>
 		<label>Positive</label>
-		<percentage>70.83333333333334</percentage>
+		<percentage>77.27272727272727</percentage>
 	</movie>
 	<movie>
 		<title>Mission: Impossible - Rogue Nation</title>
 		<num_comments>1248</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Action, Adventure, Thriller </genre>
+		<director>Christopher McQuarrie </director>
 		<label>Positive</label>
 		<percentage>66.66666666666666</percentage>
 	</movie>
 	<movie>
 		<title>Vacation</title>
 		<num_comments>382</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Adventure, Comedy </genre>
+		<director>John Francis Daley and Jonathan M. Goldstein </director>
 		<label>Positive</label>
-		<percentage>61.29032258064516</percentage>
+		<percentage>62.06896551724138</percentage>
 	</movie>
 	<movie>
 		<title>Paper Towns</title>
 		<num_comments>164</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Adventure, Drama, Mystery, Romance </genre>
+		<director>Jake Schreier </director>
 		<label>Positive</label>
 		<percentage>60.0</percentage>
 	</movie>
 	<movie>
+		<title>Southpaw</title>
+		<num_comments>334</num_comments>
+		<year>2015</year>
+		<genre>Action, Drama, Sport, Thriller </genre>
+		<director>Antoine Fuqua </director>
+		<label>Positive</label>
+		<percentage>51.724137931034484</percentage>
+	</movie>
+	<movie>
 		<title>Ant-Man</title>
 		<num_comments>3728</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Action, Adventure, Sci-Fi, Thriller, Comedy </genre>
+		<director>Peyton Reed </director>
 		<label>Positive</label>
-		<percentage>50.0</percentage>
+		<percentage>54.0</percentage>
 	</movie>
 	<movie>
 		<title>Me and Earl and the Dying Girl</title>
 		<num_comments>87</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Drama, Comedy </genre>
+		<director>Alfonso Gomez-Rejon </director>
 		<label>Positive</label>
 		<percentage>85.71428571428571</percentage>
 	</movie>
 	<movie>
 		<title>Magic Mike XXL</title>
 		<num_comments>40</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Drama, Comedy, Music </genre>
+		<director>Gregory Jacobs </director>
 		<label>Positive</label>
 		<percentage>90.9090909090909</percentage>
 	</movie>
 	<movie>
 		<title>Ted 2</title>
 		<num_comments>390</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Comedy </genre>
+		<director>Seth MacFarlane </director>
 		<label>Positive</label>
-		<percentage>56.36363636363636</percentage>
+		<percentage>58.82352941176471</percentage>
 	</movie>
 	<movie>
 		<title>Dope</title>
 		<num_comments>184</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Drama, Comedy, Crime </genre>
+		<director>Rick Famuyiwa </director>
 		<label>Positive</label>
-		<percentage>54.83870967741935</percentage>
+		<percentage>57.14285714285714</percentage>
 	</movie>
 	<movie>
 		<title>Inside Out</title>
 		<num_comments>2347</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Adventure, Drama, Fantasy, Comedy, Animation, Family </genre>
+		<director>Pete Docter and Ronaldo Del Carmen </director>
 		<label>Positive</label>
-		<percentage>64.66666666666666</percentage>
+		<percentage>69.33333333333334</percentage>
 	</movie>
 	<movie>
 		<title>Spy</title>
 		<num_comments>459</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Action, Comedy, Crime </genre>
+		<director>Paul Feig </director>
 		<label>Positive</label>
-		<percentage>56.00000000000001</percentage>
+		<percentage>60.416666666666664</percentage>
 	</movie>
 	<movie>
 		<title>Entourage</title>
 		<num_comments>304</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Comedy </genre>
+		<director>Doug Ellin </director>
 		<label>Positive</label>
-		<percentage>62.857142857142854</percentage>
+		<percentage>64.70588235294117</percentage>
 	</movie>
 	<movie>
 		<title>Mad Max: Fury Road</title>
-		<num_comments>5883</num_comments>
-		<year>2020</year>
+		<num_comments>5882</num_comments>
+		<year>2015</year>
+		<genre>Action, Adventure, Sci-Fi, Thriller </genre>
+		<director>George Miller </director>
 		<label>Positive</label>
-		<percentage>59.333333333333336</percentage>
+		<percentage>62.66666666666667</percentage>
 	</movie>
 	<movie>
 		<title>Ex Machina</title>
 		<num_comments>2388</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Sci-Fi, Drama, Thriller </genre>
+		<director>Alex Garland </director>
 		<label>Positive</label>
-		<percentage>56.470588235294116</percentage>
+		<percentage>57.14285714285714</percentage>
 	</movie>
 	<movie>
-		<title>True Story</title>
-		<num_comments>66</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>66.66666666666666</percentage>
-	</movie>
-	<movie>
-		<title>The Longest Ride</title>
-		<num_comments>30</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>75.0</percentage>
-	</movie>
-	<movie>
-		<title>The Interstellar (1994)</title>
-		<num_comments>42</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>55.55555555555556</percentage>
-	</movie>
-	<movie>
-		<title>Band of Merry F***wads</title>
-		<num_comments>69</num_comments>
-		<year>2020</year>
+		<title>Child 44</title>
+		<num_comments>35</num_comments>
+		<year>2015</year>
+		<genre>Drama, Thriller </genre>
+		<director>Daniel Espinosa </director>
 		<label>Positive</label>
 		<percentage>50.0</percentage>
 	</movie>
 	<movie>
+		<title>True Story</title>
+		<num_comments>66</num_comments>
+		<year>2015</year>
+		<genre>Drama, Mystery, Thriller </genre>
+		<director>Rupert Goold </director>
+		<label>Positive</label>
+		<percentage>60.0</percentage>
+	</movie>
+	<movie>
+		<title>The Longest Ride</title>
+		<num_comments>30</num_comments>
+		<year>2015</year>
+		<genre>Drama, Romance </genre>
+		<director>George Tillman Jr </director>
+		<label>Positive</label>
+		<percentage>100.0</percentage>
+	</movie>
+	<movie>
+		<title>The Interstellar (1994)</title>
+		<num_comments>42</num_comments>
+		<year>2015</year>
+		<genre>NULL</genre>
+		<director>NULL</director>
+		<label>Positive</label>
+		<percentage>62.5</percentage>
+	</movie>
+	<movie>
+		<title>Band of Merry F***wads</title>
+		<num_comments>69</num_comments>
+		<year>2015</year>
+		<genre>NULL</genre>
+		<director>NULL</director>
+		<label>Positive</label>
+		<percentage>60.0</percentage>
+	</movie>
+	<movie>
 		<title>Run All Night</title>
 		<num_comments>44</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Action, Drama, Mystery, Thriller, Crime </genre>
+		<director>Jaume Collet-Serra </director>
 		<label>Positive</label>
 		<percentage>71.42857142857143</percentage>
 	</movie>
 	<movie>
 		<title>Cinderella</title>
 		<num_comments>282</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Adventure, Drama, Fantasy, Romance, Family </genre>
+		<director>Kenneth Branagh </director>
 		<label>Positive</label>
-		<percentage>89.58333333333334</percentage>
+		<percentage>87.75510204081633</percentage>
 	</movie>
 	<movie>
 		<title>Unfinished Business</title>
 		<num_comments>47</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Comedy </genre>
+		<director>Ken Scott </director>
 		<label>Positive</label>
-		<percentage>50.0</percentage>
+		<percentage>55.55555555555556</percentage>
 	</movie>
 	<movie>
 		<title>Chappie</title>
 		<num_comments>1615</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Action, Sci-Fi, Thriller, Comedy </genre>
+		<director>Neill Blomkamp </director>
 		<label>Positive</label>
-		<percentage>52.88461538461539</percentage>
+		<percentage>56.52173913043478</percentage>
+	</movie>
+	<movie>
+		<title>The Lazarus Effect</title>
+		<num_comments>79</num_comments>
+		<year>2015</year>
+		<genre>Thriller, Horror </genre>
+		<director>David Gelb </director>
+		<label>Positive</label>
+		<percentage>53.84615384615385</percentage>
 	</movie>
 	<movie>
 		<title>Citizenfour</title>
 		<num_comments>69</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Documentary </genre>
+		<director>Laura Poitras </director>
 		<label>Positive</label>
 		<percentage>61.53846153846154</percentage>
 	</movie>
 	<movie>
 		<title>Kingsman: The Secret Service</title>
-		<num_comments>1852</num_comments>
-		<year>2020</year>
+		<num_comments>1851</num_comments>
+		<year>2015</year>
+		<genre>Action, Adventure, Thriller, Comedy, Crime </genre>
+		<director>Matthew Vaughn </director>
 		<label>Positive</label>
-		<percentage>54.83870967741935</percentage>
+		<percentage>56.19834710743802</percentage>
 	</movie>
 	<movie>
 		<title>Selma</title>
 		<num_comments>239</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Biography, Drama, History </genre>
+		<director>Ava DuVernay </director>
 		<label>Positive</label>
-		<percentage>62.06896551724138</percentage>
+		<percentage>66.66666666666666</percentage>
 	</movie>
 	<movie>
 		<title>Inherent Vice</title>
 		<num_comments>633</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Drama, Mystery, Comedy, Romance, Crime </genre>
+		<director>Paul Thomas Anderson </director>
 		<label>Positive</label>
-		<percentage>55.172413793103445</percentage>
+		<percentage>54.23728813559322</percentage>
 	</movie>
 	<movie>
 		<title>Big Eyes</title>
 		<num_comments>118</num_comments>
-		<year>2020</year>
+		<year>2015</year>
+		<genre>Biography, Drama </genre>
+		<director>Tim Burton </director>
 		<label>Positive</label>
-		<percentage>66.66666666666666</percentage>
+		<percentage>73.33333333333333</percentage>
 	</movie>
 	<movie>
 		<title>Lion</title>
 		<num_comments>389</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Drama </genre>
+		<director>Garth Davis </director>
 		<label>Positive</label>
-		<percentage>53.84615384615385</percentage>
+		<percentage>53.03030303030303</percentage>
 	</movie>
 	<movie>
 		<title>Jackie</title>
 		<num_comments>172</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Biography, Drama </genre>
+		<director>Pablo Larraín </director>
 		<label>Positive</label>
-		<percentage>60.3448275862069</percentage>
-	</movie>
-	<movie>
-		<title>Why Him?</title>
-		<num_comments>234</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>51.35135135135135</percentage>
+		<percentage>61.016949152542374</percentage>
 	</movie>
 	<movie>
 		<title>Sing</title>
 		<num_comments>236</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Drama, Comedy, Music, Animation, Family, Musical </genre>
+		<director>Christophe Lourdelet and Garth Jennings </director>
 		<label>Positive</label>
-		<percentage>61.904761904761905</percentage>
+		<percentage>59.523809523809526</percentage>
 	</movie>
 	<movie>
 		<title>La La Land</title>
 		<num_comments>3195</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Drama, Comedy, Romance, Musical </genre>
+		<director>Damien Chazelle </director>
 		<label>Positive</label>
-		<percentage>65.33333333333333</percentage>
+		<percentage>67.33333333333333</percentage>
 	</movie>
 	<movie>
 		<title>Rogue One: A Star Wars Story</title>
-		<num_comments>20953</num_comments>
-		<year>2020</year>
+		<num_comments>20950</num_comments>
+		<year>2016</year>
+		<genre>Action, Adventure, Sci-Fi, Fantasy, War </genre>
+		<director>Gareth Edwards </director>
 		<label>Positive</label>
-		<percentage>50.0</percentage>
+		<percentage>51.33333333333333</percentage>
 	</movie>
 	<movie>
 		<title>Spectral</title>
 		<num_comments>362</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>NULL</genre>
+		<director>NULL</director>
 		<label>Positive</label>
-		<percentage>50.74626865671642</percentage>
+		<percentage>54.41176470588235</percentage>
 	</movie>
 	<movie>
 		<title>Manchester by the Sea</title>
 		<num_comments>1327</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Drama </genre>
+		<director>Kenneth Lonergan </director>
 		<label>Positive</label>
-		<percentage>52.666666666666664</percentage>
+		<percentage>54.666666666666664</percentage>
 	</movie>
 	<movie>
 		<title>Moonlight</title>
 		<num_comments>1339</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>63.33333333333333</percentage>
-	</movie>
-	<movie>
-		<title>Moana</title>
-		<num_comments>1890</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Drama </genre>
+		<director>Barry Jenkins </director>
 		<label>Positive</label>
 		<percentage>66.66666666666666</percentage>
 	</movie>
 	<movie>
-		<title>The Edge of Seventeen</title>
-		<num_comments>223</num_comments>
-		<year>2020</year>
+		<title>Moana</title>
+		<num_comments>1890</num_comments>
+		<year>2016</year>
+		<genre>Action, Adventure, Fantasy, Comedy, Animation, Family, Musical </genre>
+		<director>Chris Williams and Don Hall and John Musker and Ron Clements </director>
 		<label>Positive</label>
 		<percentage>70.0</percentage>
 	</movie>
 	<movie>
+		<title>The Edge of Seventeen</title>
+		<num_comments>223</num_comments>
+		<year>2016</year>
+		<genre>Drama, Comedy </genre>
+		<director>Kelly Fremon Craig </director>
+		<label>Positive</label>
+		<percentage>69.64285714285714</percentage>
+	</movie>
+	<movie>
 		<title>Arrival</title>
 		<num_comments>9860</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Sci-Fi, Drama, Mystery, Thriller </genre>
+		<director>Denis Villeneuve </director>
 		<label>Positive</label>
-		<percentage>55.333333333333336</percentage>
+		<percentage>59.333333333333336</percentage>
 	</movie>
 	<movie>
 		<title>Hacksaw Ridge</title>
 		<num_comments>1337</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Biography, Drama, History, Romance, War </genre>
+		<director>Mel Gibson </director>
 		<label>Positive</label>
-		<percentage>54.0</percentage>
+		<percentage>55.333333333333336</percentage>
 	</movie>
 	<movie>
 		<title>Doctor Strange</title>
 		<num_comments>4313</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Action, Adventure, Sci-Fi, Fantasy </genre>
+		<director>Scott Derrickson </director>
 		<label>Positive</label>
-		<percentage>52.0</percentage>
+		<percentage>53.333333333333336</percentage>
 	</movie>
 	<movie>
 		<title>Ouija: Origin of Evil</title>
-		<num_comments>336</num_comments>
-		<year>2020</year>
+		<num_comments>335</num_comments>
+		<year>2016</year>
+		<genre>Thriller, Horror </genre>
+		<director>Mike Flanagan </director>
 		<label>Positive</label>
-		<percentage>60.526315789473685</percentage>
+		<percentage>58.536585365853654</percentage>
 	</movie>
 	<movie>
 		<title>The Accountant</title>
 		<num_comments>1046</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Action, Drama, Thriller, Crime </genre>
+		<director>Gavin O'Connor and Gavin O'Connor </director>
 		<label>Positive</label>
-		<percentage>52.23880597014925</percentage>
+		<percentage>54.61538461538461</percentage>
 	</movie>
 	<movie>
 		<title>Shin Godzilla</title>
 		<num_comments>298</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Action, Adventure, Sci-Fi, Drama, Horror </genre>
+		<director>Hideaki Anno and Shinji Higuchi </director>
 		<label>Positive</label>
 		<percentage>68.75</percentage>
 	</movie>
 	<movie>
 		<title>Batman: Return of the Caped Crusaders</title>
 		<num_comments>60</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Action, Adventure, Sci-Fi, Comedy, Crime, Animation </genre>
+		<director>Rick Morales </director>
 		<label>Positive</label>
 		<percentage>58.82352941176471</percentage>
 	</movie>
 	<movie>
 		<title>Deepwater Horizon</title>
 		<num_comments>270</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Action, Drama, Thriller </genre>
+		<director>Peter Berg </director>
 		<label>Positive</label>
-		<percentage>82.05128205128204</percentage>
+		<percentage>88.88888888888889</percentage>
 	</movie>
 	<movie>
 		<title>General September 30, 2016 Releases</title>
 		<num_comments>51</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>NULL</genre>
+		<director>NULL</director>
 		<label>Positive</label>
 		<percentage>75.0</percentage>
 	</movie>
 	<movie>
 		<title>Masterminds</title>
 		<num_comments>66</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Action, Comedy, Crime </genre>
+		<director>Jared Hess </director>
 		<label>Positive</label>
 		<percentage>50.0</percentage>
 	</movie>
 	<movie>
 		<title>The Magnificent Seven</title>
 		<num_comments>733</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>58.2089552238806</percentage>
-	</movie>
-	<movie>
-		<title>Snowden</title>
-		<num_comments>330</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>53.84615384615385</percentage>
-	</movie>
-	<movie>
-		<title>The Light Between Oceans</title>
-		<num_comments>105</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>73.68421052631578</percentage>
-	</movie>
-	<movie>
-		<title>Hell or High Water</title>
-		<num_comments>508</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>67.10526315789474</percentage>
-	</movie>
-	<movie>
-		<title>War Dogs</title>
-		<num_comments>434</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>51.66666666666667</percentage>
-	</movie>
-	<movie>
-		<title>Kubo and the Two Strings</title>
-		<num_comments>990</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>58.0952380952381</percentage>
-	</movie>
-	<movie>
-		<title>Pete's Dragon</title>
-		<num_comments>169</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>64.28571428571429</percentage>
-	</movie>
-	<movie>
-		<title>The Little Prince</title>
-		<num_comments>193</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>65.51724137931035</percentage>
-	</movie>
-	<movie>
-		<title>Nerve</title>
-		<num_comments>396</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>51.06382978723404</percentage>
-	</movie>
-	<movie>
-		<title>Star Trek Beyond</title>
-		<num_comments>2717</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>54.0</percentage>
-	</movie>
-	<movie>
-		<title>Mike and Dave Need Wedding Dates</title>
-		<num_comments>332</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>68.42105263157895</percentage>
-	</movie>
-	<movie>
-		<title>Swiss Army Man</title>
-		<num_comments>681</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>60.0</percentage>
-	</movie>
-	<movie>
-		<title>The Shallows</title>
-		<num_comments>596</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Action, Adventure, Western </genre>
+		<director>Antoine Fuqua </director>
 		<label>Positive</label>
 		<percentage>54.929577464788736</percentage>
 	</movie>
 	<movie>
-		<title>The Neon Demon</title>
-		<num_comments>781</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>59.154929577464785</percentage>
-	</movie>
-	<movie>
-		<title>Central Intelligence</title>
-		<num_comments>277</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>59.25925925925925</percentage>
-	</movie>
-	<movie>
-		<title>Finding Dory</title>
-		<num_comments>1643</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>60.0</percentage>
-	</movie>
-	<movie>
-		<title>The Conjuring 2</title>
-		<num_comments>1546</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>51.63934426229508</percentage>
-	</movie>
-	<movie>
-		<title>Warcraft</title>
-		<num_comments>3806</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>60.66666666666667</percentage>
-	</movie>
-	<movie>
-		<title>Popstar: Never Stop Never Stopping</title>
-		<num_comments>445</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>66.66666666666666</percentage>
-	</movie>
-	<movie>
-		<title>The Do-Over</title>
-		<num_comments>236</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>70.83333333333334</percentage>
-	</movie>
-	<movie>
-		<title>The Angry Birds Movie</title>
-		<num_comments>97</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>82.35294117647058</percentage>
-	</movie>
-	<movie>
-		<title>The Nice Guys</title>
-		<num_comments>910</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>60.46511627906976</percentage>
-	</movie>
-	<movie>
-		<title>Green Room</title>
-		<num_comments>306</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>68.88888888888889</percentage>
-	</movie>
-	<movie>
-		<title>Captain America: Civil War</title>
-		<num_comments>13307</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>52.666666666666664</percentage>
-	</movie>
-	<movie>
-		<title>Keanu</title>
-		<num_comments>272</num_comments>
-		<year>2020</year>
+		<title>Snowden</title>
+		<num_comments>330</num_comments>
+		<year>2016</year>
+		<genre>Action, Biography, Drama, Thriller </genre>
+		<director>Oliver Stone </director>
 		<label>Positive</label>
 		<percentage>50.0</percentage>
 	</movie>
 	<movie>
-		<title>Criminal</title>
-		<num_comments>45</num_comments>
-		<year>2020</year>
+		<title>Sully</title>
+		<num_comments>507</num_comments>
+		<year>2016</year>
+		<genre>Biography, Drama </genre>
+		<director>Clint Eastwood </director>
+		<label>Positive</label>
+		<percentage>52.27272727272727</percentage>
+	</movie>
+	<movie>
+		<title>The Light Between Oceans</title>
+		<num_comments>105</num_comments>
+		<year>2016</year>
+		<genre>Drama, Romance </genre>
+		<director>Derek Cianfrance </director>
+		<label>Positive</label>
+		<percentage>77.77777777777779</percentage>
+	</movie>
+	<movie>
+		<title>Hell or High Water</title>
+		<num_comments>508</num_comments>
+		<year>2016</year>
+		<genre>Drama, Crime </genre>
+		<director>David Mackenzie </director>
+		<label>Positive</label>
+		<percentage>68.57142857142857</percentage>
+	</movie>
+	<movie>
+		<title>War Dogs</title>
+		<num_comments>434</num_comments>
+		<year>2016</year>
+		<genre>Drama, Thriller, Comedy, Crime, War </genre>
+		<director>Todd Phillips </director>
+		<label>Positive</label>
+		<percentage>53.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>Kubo and the Two Strings</title>
+		<num_comments>990</num_comments>
+		<year>2016</year>
+		<genre>Adventure, Fantasy, Animation, Family </genre>
+		<director>Travis Knight </director>
+		<label>Positive</label>
+		<percentage>61.0</percentage>
+	</movie>
+	<movie>
+		<title>Pete's Dragon</title>
+		<num_comments>169</num_comments>
+		<year>2016</year>
+		<genre>Adventure, Fantasy, Family </genre>
+		<director>David Lowery </director>
+		<label>Positive</label>
+		<percentage>64.0</percentage>
+	</movie>
+	<movie>
+		<title>The Little Prince</title>
+		<num_comments>193</num_comments>
+		<year>2016</year>
+		<genre>Adventure, Drama, Fantasy, Animation, Family </genre>
+		<director>Mark Osborne </director>
+		<label>Positive</label>
+		<percentage>73.07692307692307</percentage>
+	</movie>
+	<movie>
+		<title>Nerve</title>
+		<num_comments>396</num_comments>
+		<year>2016</year>
+		<genre>Adventure, Sci-Fi, Mystery, Thriller, Crime </genre>
+		<director>Ariel Schulman and Henry Joost </director>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>Star Trek Beyond</title>
+		<num_comments>2717</num_comments>
+		<year>2016</year>
+		<genre>Action, Adventure, Sci-Fi, Thriller </genre>
+		<director>Justin Lin </director>
+		<label>Positive</label>
+		<percentage>55.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>Mike and Dave Need Wedding Dates</title>
+		<num_comments>332</num_comments>
+		<year>2016</year>
+		<genre>Adventure, Comedy, Romance </genre>
+		<director>Jake Szymanski </director>
+		<label>Positive</label>
+		<percentage>69.23076923076923</percentage>
+	</movie>
+	<movie>
+		<title>The Legend of Tarzan</title>
+		<num_comments>166</num_comments>
+		<year>2016</year>
+		<genre>Action, Adventure, Drama, Romance </genre>
+		<director>David Yates </director>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>The BFG</title>
+		<num_comments>221</num_comments>
+		<year>2016</year>
+		<genre>Adventure, Fantasy, Family </genre>
+		<director>Steven Spielberg </director>
 		<label>Positive</label>
 		<percentage>54.54545454545454</percentage>
 	</movie>
 	<movie>
+		<title>Swiss Army Man</title>
+		<num_comments>681</num_comments>
+		<year>2016</year>
+		<genre>Adventure, Drama, Fantasy, Comedy, Romance, Musical </genre>
+		<director>Dan Kwan and Daniel Scheinert </director>
+		<label>Positive</label>
+		<percentage>62.19512195121951</percentage>
+	</movie>
+	<movie>
+		<title>The Shallows</title>
+		<num_comments>596</num_comments>
+		<year>2016</year>
+		<genre>Drama, Thriller, Horror </genre>
+		<director>Jaume Collet-Serra </director>
+		<label>Positive</label>
+		<percentage>55.55555555555556</percentage>
+	</movie>
+	<movie>
+		<title>Free State of Jones</title>
+		<num_comments>120</num_comments>
+		<year>2016</year>
+		<genre>Action, Biography, Drama, History, War </genre>
+		<director>Gary Ross </director>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>The Neon Demon</title>
+		<num_comments>781</num_comments>
+		<year>2016</year>
+		<genre>Drama, Thriller, Horror </genre>
+		<director>Nicolas Winding Refn </director>
+		<label>Positive</label>
+		<percentage>65.21739130434783</percentage>
+	</movie>
+	<movie>
+		<title>Central Intelligence</title>
+		<num_comments>277</num_comments>
+		<year>2016</year>
+		<genre>Action, Comedy, Crime </genre>
+		<director>Rawson Marshall Thurber </director>
+		<label>Positive</label>
+		<percentage>62.745098039215684</percentage>
+	</movie>
+	<movie>
+		<title>Finding Dory</title>
+		<num_comments>1643</num_comments>
+		<year>2016</year>
+		<genre>Adventure, Comedy, Animation, Family </genre>
+		<director>Andrew Stanton and Angus MacLane </director>
+		<label>Positive</label>
+		<percentage>60.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>The Conjuring 2</title>
+		<num_comments>1546</num_comments>
+		<year>2016</year>
+		<genre>Mystery, Thriller, Horror </genre>
+		<director>James Wan </director>
+		<label>Positive</label>
+		<percentage>54.46428571428571</percentage>
+	</movie>
+	<movie>
+		<title>Warcraft</title>
+		<num_comments>3806</num_comments>
+		<year>2016</year>
+		<genre>Action, Adventure, Fantasy </genre>
+		<director>Duncan Jones </director>
+		<label>Positive</label>
+		<percentage>62.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>Teenage Mutant Ninja Turtles: Out of the Shadows</title>
+		<num_comments>585</num_comments>
+		<year>2016</year>
+		<genre>Action, Adventure, Sci-Fi, Fantasy, Comedy </genre>
+		<director>Dave Green </director>
+		<label>Positive</label>
+		<percentage>50.877192982456144</percentage>
+	</movie>
+	<movie>
+		<title>Popstar: Never Stop Never Stopping</title>
+		<num_comments>445</num_comments>
+		<year>2016</year>
+		<genre>Comedy, Music </genre>
+		<director>Akiva Schaffer and Jorma Taccone </director>
+		<label>Positive</label>
+		<percentage>71.62162162162163</percentage>
+	</movie>
+	<movie>
+		<title>The Do-Over</title>
+		<num_comments>236</num_comments>
+		<year>2016</year>
+		<genre>Action, Adventure, Mystery, Comedy </genre>
+		<director>Steven Brill </director>
+		<label>Positive</label>
+		<percentage>82.6086956521739</percentage>
+	</movie>
+	<movie>
+		<title>Alice Through the Looking Glass</title>
+		<num_comments>280</num_comments>
+		<year>2016</year>
+		<genre>Adventure, Fantasy, Family </genre>
+		<director>James Bobin </director>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>The Angry Birds Movie</title>
+		<num_comments>97</num_comments>
+		<year>2016</year>
+		<genre>Action, Comedy, Animation, Family </genre>
+		<director>Clay Kaytis and Fergal Reilly </director>
+		<label>Positive</label>
+		<percentage>83.33333333333334</percentage>
+	</movie>
+	<movie>
+		<title>The Nice Guys</title>
+		<num_comments>910</num_comments>
+		<year>2016</year>
+		<genre>Action, Mystery, Thriller, Comedy, Crime </genre>
+		<director>Shane Black </director>
+		<label>Positive</label>
+		<percentage>63.95348837209303</percentage>
+	</movie>
+	<movie>
+		<title>The Lobster</title>
+		<num_comments>394</num_comments>
+		<year>2016</year>
+		<genre>Sci-Fi, Drama, Thriller, Comedy, Romance </genre>
+		<director>Giorgos Lanthimos </director>
+		<label>Positive</label>
+		<percentage>51.11111111111111</percentage>
+	</movie>
+	<movie>
+		<title>Green Room</title>
+		<num_comments>306</num_comments>
+		<year>2016</year>
+		<genre>Thriller, Horror, Crime, Music </genre>
+		<director>Jeremy Saulnier </director>
+		<label>Positive</label>
+		<percentage>70.45454545454545</percentage>
+	</movie>
+	<movie>
+		<title>Captain America: Civil War</title>
+		<num_comments>13307</num_comments>
+		<year>2016</year>
+		<genre>Action, Adventure, Sci-Fi, Thriller </genre>
+		<director>Anthony Russo and Joe Russo </director>
+		<label>Positive</label>
+		<percentage>57.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>Keanu</title>
+		<num_comments>272</num_comments>
+		<year>2016</year>
+		<genre>Action, Comedy </genre>
+		<director>Peter Atencio </director>
+		<label>Positive</label>
+		<percentage>51.515151515151516</percentage>
+	</movie>
+	<movie>
+		<title>Criminal</title>
+		<num_comments>45</num_comments>
+		<year>2016</year>
+		<genre>Action, Sci-Fi, Drama, Mystery, Thriller, Crime </genre>
+		<director>Ariel Vromen </director>
+		<label>Positive</label>
+		<percentage>60.0</percentage>
+	</movie>
+	<movie>
 		<title>Barbershop: The Next Cut</title>
 		<num_comments>139</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Comedy </genre>
+		<director>Malcolm D. Lee </director>
 		<label>Positive</label>
 		<percentage>60.0</percentage>
 	</movie>
 	<movie>
 		<title>Everybody Wants Some!!</title>
 		<num_comments>241</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Comedy </genre>
+		<director>Richard Linklater </director>
 		<label>Positive</label>
-		<percentage>82.75862068965517</percentage>
+		<percentage>84.84848484848484</percentage>
 	</movie>
 	<movie>
 		<title>The Jungle Book</title>
 		<num_comments>1353</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Adventure, Drama, Fantasy, Family, Musical </genre>
+		<director>Jon Favreau </director>
 		<label>Positive</label>
-		<percentage>62.121212121212125</percentage>
+		<percentage>65.0</percentage>
 	</movie>
 	<movie>
 		<title>Demolition</title>
 		<num_comments>39</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Drama, Comedy </genre>
+		<director>Jean-Marc Vallée </director>
 		<label>Positive</label>
-		<percentage>62.5</percentage>
+		<percentage>66.66666666666666</percentage>
 	</movie>
 	<movie>
 		<title>Midnight Special</title>
 		<num_comments>276</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Adventure, Sci-Fi, Drama, Thriller </genre>
+		<director>Jeff Nichols </director>
 		<label>Positive</label>
-		<percentage>56.52173913043478</percentage>
+		<percentage>58.333333333333336</percentage>
 	</movie>
 	<movie>
 		<title>Hardcore Henry</title>
 		<num_comments>847</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Action, Adventure, Sci-Fi, Thriller </genre>
+		<director>Ilya Naishuller </director>
 		<label>Positive</label>
-		<percentage>61.1764705882353</percentage>
+		<percentage>62.19512195121951</percentage>
 	</movie>
 	<movie>
-		<title>Batman v Superman: Dawn of Justice (2016)</title>
-		<num_comments>34</num_comments>
-		<year>2020</year>
+		<title>My Big Fat Greek Wedding 2</title>
+		<num_comments>158</num_comments>
+		<year>2016</year>
+		<genre>Comedy, Romance, Family </genre>
+		<director>Kirk Jones </director>
 		<label>Positive</label>
-		<percentage>50.0</percentage>
+		<percentage>58.82352941176471</percentage>
 	</movie>
 	<movie>
 		<title>Pee-wee's Big Holiday</title>
 		<num_comments>317</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Adventure, Comedy </genre>
+		<director>John Lee </director>
 		<label>Positive</label>
-		<percentage>76.92307692307693</percentage>
+		<percentage>83.33333333333334</percentage>
+	</movie>
+	<movie>
+		<title>The Brothers Grimsby</title>
+		<num_comments>259</num_comments>
+		<year>2016</year>
+		<genre>Action, Comedy </genre>
+		<director>Louis Leterrier </director>
+		<label>Positive</label>
+		<percentage>53.333333333333336</percentage>
 	</movie>
 	<movie>
 		<title>10 Cloverfield Lane</title>
 		<num_comments>4331</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Action, Sci-Fi, Drama, Mystery, Thriller, Horror </genre>
+		<director>Dan Trachtenberg </director>
 		<label>Positive</label>
-		<percentage>54.0</percentage>
+		<percentage>56.666666666666664</percentage>
 	</movie>
 	<movie>
 		<title>Whiskey Tango Foxtrot</title>
 		<num_comments>66</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Comedy, War </genre>
+		<director>Glenn Ficarra and John Requa </director>
 		<label>Positive</label>
-		<percentage>54.54545454545454</percentage>
+		<percentage>55.00000000000001</percentage>
 	</movie>
 	<movie>
 		<title>Zootopia</title>
 		<num_comments>1717</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Action, Adventure, Comedy, Crime, Animation, Family </genre>
+		<director>Byron Howard and Jared Bush and Rich Moore </director>
 		<label>Positive</label>
-		<percentage>68.0</percentage>
+		<percentage>70.66666666666667</percentage>
 	</movie>
 	<movie>
 		<title>Eddie the Eagle</title>
 		<num_comments>49</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Biography, Drama, History, Sport, Comedy </genre>
+		<director>Dexter Fletcher </director>
 		<label>Positive</label>
 		<percentage>100.0</percentage>
 	</movie>
 	<movie>
 		<title>Deadpool</title>
 		<num_comments>7225</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Action, Adventure, Sci-Fi, Thriller, Fantasy, Comedy, Romance </genre>
+		<director>Tim Miller </director>
 		<label>Positive</label>
-		<percentage>53.333333333333336</percentage>
+		<percentage>57.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>Pride and Prejudice and Zombies</title>
+		<num_comments>110</num_comments>
+		<year>2016</year>
+		<genre>Action, Thriller, Horror, Comedy, Romance </genre>
+		<director>Burr Steers </director>
+		<label>Positive</label>
+		<percentage>52.17391304347826</percentage>
 	</movie>
 	<movie>
 		<title>Blue Mountain State: The Rise of Thadland</title>
 		<num_comments>263</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>NULL</genre>
+		<director>NULL</director>
 		<label>Positive</label>
 		<percentage>56.81818181818182</percentage>
 	</movie>
 	<movie>
 		<title>What was the best film of 2015?</title>
 		<num_comments>970</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>NULL</genre>
+		<director>NULL</director>
 		<label>Positive</label>
-		<percentage>81.63265306122449</percentage>
+		<percentage>88.63636363636364</percentage>
 	</movie>
 	<movie>
 		<title>What was the best performance in a 2015 film?</title>
 		<num_comments>373</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>NULL</genre>
+		<director>NULL</director>
 		<label>Positive</label>
 		<percentage>81.81818181818183</percentage>
 	</movie>
 	<movie>
 		<title>Anomalisa</title>
 		<num_comments>235</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Drama, Fantasy, Comedy, Romance, Animation </genre>
+		<director>Charlie Kaufman and Duke Johnson </director>
 		<label>Positive</label>
-		<percentage>53.84615384615385</percentage>
+		<percentage>54.054054054054056</percentage>
 	</movie>
 	<movie>
 		<title>Kung Fu Panda 3</title>
 		<num_comments>279</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Action, Adventure, Comedy, Animation, Family </genre>
+		<director>Alessandro Carloni and Jennifer Yuh </director>
 		<label>Positive</label>
-		<percentage>60.78431372549019</percentage>
+		<percentage>64.58333333333334</percentage>
 	</movie>
 	<movie>
 		<title>What was the best scene or moment from a 2015 film?</title>
 		<num_comments>401</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>NULL</genre>
+		<director>NULL</director>
 		<label>Positive</label>
-		<percentage>64.44444444444444</percentage>
+		<percentage>63.41463414634146</percentage>
 	</movie>
 	<movie>
 		<title>What was the biggest film surprise for you of 2015?</title>
 		<num_comments>424</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>NULL</genre>
+		<director>NULL</director>
 		<label>Positive</label>
-		<percentage>82.92682926829268</percentage>
+		<percentage>85.36585365853658</percentage>
 	</movie>
 	<movie>
 		<title>What was the best film score of 2015?</title>
 		<num_comments>301</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>NULL</genre>
+		<director>NULL</director>
 		<label>Positive</label>
-		<percentage>61.53846153846154</percentage>
+		<percentage>70.37037037037037</percentage>
 	</movie>
 	<movie>
 		<title>The Boy</title>
 		<num_comments>180</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Mystery, Thriller, Horror </genre>
+		<director>William Brent Bell </director>
 		<label>Positive</label>
-		<percentage>56.00000000000001</percentage>
+		<percentage>55.55555555555556</percentage>
 	</movie>
 	<movie>
 		<title>Ip Man 3</title>
 		<num_comments>143</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Action, Biography, Drama, History </genre>
+		<director>Wilson Yip </director>
 		<label>Positive</label>
-		<percentage>50.0</percentage>
+		<percentage>54.54545454545454</percentage>
+	</movie>
+	<movie>
+		<title>13 Hours: The Secret Soldiers of Benghazi</title>
+		<num_comments>717</num_comments>
+		<year>2016</year>
+		<genre>Action, Drama, Thriller, War </genre>
+		<director>Michael Bay </director>
+		<label>Positive</label>
+		<percentage>54.90196078431373</percentage>
 	</movie>
 	<movie>
 		<title>The Revenant</title>
 		<num_comments>4699</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Adventure, Drama, Thriller, Western </genre>
+		<director>Alejandro González Iñárritu </director>
 		<label>Positive</label>
-		<percentage>57.99999999999999</percentage>
+		<percentage>60.66666666666667</percentage>
 	</movie>
 	<movie>
 		<title>Carol</title>
 		<num_comments>182</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Drama, Romance </genre>
+		<director>Todd Haynes </director>
 		<label>Positive</label>
-		<percentage>75.0</percentage>
+		<percentage>80.48780487804879</percentage>
 	</movie>
 	<movie>
 		<title>Youth</title>
 		<num_comments>68</num_comments>
-		<year>2020</year>
+		<year>2016</year>
+		<genre>Drama, Comedy </genre>
+		<director>Paolo Sorrentino </director>
 		<label>Positive</label>
-		<percentage>90.9090909090909</percentage>
+		<percentage>100.0</percentage>
 	</movie>
 	<movie>
 		<title>Darkest Hour</title>
 		<num_comments>509</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Biography, Drama, History, War </genre>
+		<director>Joe Wright </director>
 		<label>Positive</label>
-		<percentage>57.57575757575758</percentage>
+		<percentage>60.29411764705882</percentage>
 	</movie>
 	<movie>
 		<title>All the Money in the World</title>
 		<num_comments>432</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Biography, Drama, History, Mystery, Thriller, Crime </genre>
+		<director>Ridley Scott </director>
 		<label>Positive</label>
-		<percentage>50.0</percentage>
+		<percentage>52.94117647058824</percentage>
 	</movie>
 	<movie>
 		<title>The Shape of Water</title>
 		<num_comments>2727</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Adventure, Drama, Thriller, Fantasy, Horror, Romance, War </genre>
+		<director>Guillermo del Toro </director>
 		<label>Positive</label>
-		<percentage>57.99999999999999</percentage>
+		<percentage>58.666666666666664</percentage>
 	</movie>
 	<movie>
 		<title>Bright</title>
 		<num_comments>6268</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Action, Sci-Fi, Thriller, Fantasy, Crime </genre>
+		<director>David Ayer </director>
 		<label>Positive</label>
-		<percentage>70.66666666666667</percentage>
+		<percentage>72.0</percentage>
 	</movie>
 	<movie>
 		<title>The Greatest Showman</title>
 		<num_comments>1090</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Biography, Drama, Romance, Musical </genre>
+		<director>Michael Gracey </director>
 		<label>Positive</label>
 		<percentage>72.0</percentage>
 	</movie>
 	<movie>
 		<title>Jumanji: Welcome to the Jungle</title>
 		<num_comments>1723</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Action, Adventure, Fantasy, Comedy, Family </genre>
+		<director>Jake Kasdan </director>
 		<label>Positive</label>
-		<percentage>70.66666666666667</percentage>
+		<percentage>72.66666666666667</percentage>
 	</movie>
 	<movie>
 		<title>The Disaster Artist</title>
 		<num_comments>1735</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Biography, Drama, History, Comedy </genre>
+		<director>James Franco </director>
 		<label>Positive</label>
-		<percentage>66.0</percentage>
+		<percentage>67.33333333333333</percentage>
 	</movie>
 	<movie>
 		<title>Psych: The Movie</title>
 		<num_comments>210</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>NULL</genre>
+		<director>NULL</director>
 		<label>Positive</label>
-		<percentage>52.63157894736842</percentage>
+		<percentage>52.77777777777778</percentage>
 	</movie>
 	<movie>
 		<title>Coco (US Release)</title>
 		<num_comments>2812</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Adventure, Mystery, Fantasy, Horror, Comedy, Music, Animation, Family, Musical </genre>
+		<director>Adrian Molina and Lee Unkrich </director>
 		<label>Positive</label>
-		<percentage>64.66666666666666</percentage>
+		<percentage>69.33333333333334</percentage>
 	</movie>
 	<movie>
 		<title>Lady Bird</title>
-		<num_comments>1506</num_comments>
-		<year>2020</year>
+		<num_comments>1505</num_comments>
+		<year>2017</year>
+		<genre>Drama, Comedy </genre>
+		<director>Greta Gerwig </director>
 		<label>Positive</label>
-		<percentage>75.33333333333333</percentage>
+		<percentage>76.66666666666667</percentage>
 	</movie>
 	<movie>
 		<title>The Florida Project</title>
 		<num_comments>956</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Drama </genre>
+		<director>Sean Baker </director>
 		<label>Positive</label>
-		<percentage>52.800000000000004</percentage>
+		<percentage>56.8</percentage>
 	</movie>
 	<movie>
 		<title>Daddy's Home 2</title>
 		<num_comments>529</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Comedy </genre>
+		<director>Sean Anders </director>
 		<label>Positive</label>
 		<percentage>50.0</percentage>
 	</movie>
 	<movie>
 		<title>Thor: Ragnarok (US Release)</title>
 		<num_comments>8397</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Action, Adventure, Sci-Fi, Drama, Fantasy, Comedy </genre>
+		<director>Taika Waititi </director>
 		<label>Positive</label>
-		<percentage>57.99999999999999</percentage>
+		<percentage>60.0</percentage>
 	</movie>
 	<movie>
 		<title>Coco (International Release)</title>
 		<num_comments>508</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Adventure, Mystery, Fantasy, Horror, Comedy, Music, Animation, Family, Musical </genre>
+		<director>Adrian Molina and Lee Unkrich </director>
 		<label>Positive</label>
-		<percentage>56.36363636363636</percentage>
+		<percentage>62.264150943396224</percentage>
 	</movie>
 	<movie>
 		<title>The Death of Stalin (International Thread)</title>
 		<num_comments>308</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Biography, Drama, History, Comedy </genre>
+		<director>Armando Iannucci </director>
 		<label>Positive</label>
-		<percentage>72.0</percentage>
+		<percentage>74.0</percentage>
 	</movie>
 	<movie>
 		<title>Thor: Rangarok (International Release)</title>
-		<num_comments>3063</num_comments>
-		<year>2020</year>
+		<num_comments>3062</num_comments>
+		<year>2017</year>
+		<genre>Action, Adventure, Sci-Fi, Drama, Fantasy, Comedy </genre>
+		<director>Taika Waititi </director>
 		<label>Positive</label>
-		<percentage>52.666666666666664</percentage>
+		<percentage>53.333333333333336</percentage>
 	</movie>
 	<movie>
 		<title>Only The Brave</title>
 		<num_comments>241</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Biography, Drama </genre>
+		<director>Joseph Kosinski </director>
 		<label>Positive</label>
-		<percentage>81.81818181818183</percentage>
+		<percentage>80.43478260869566</percentage>
 	</movie>
 	<movie>
 		<title>1922</title>
 		<num_comments>353</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Drama, Mystery, Thriller, Horror, Crime </genre>
+		<director>Zak Hilditch </director>
 		<label>Positive</label>
-		<percentage>59.375</percentage>
+		<percentage>60.9375</percentage>
 	</movie>
 	<movie>
 		<title>Brawl in Cell Block 99</title>
 		<num_comments>543</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Action, Drama, Thriller, Crime </genre>
+		<director>S. Craig Zahler </director>
 		<label>Positive</label>
-		<percentage>53.48837209302325</percentage>
+		<percentage>54.761904761904766</percentage>
 	</movie>
 	<movie>
 		<title>Professor Marston and the Wonder Women</title>
 		<num_comments>192</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Biography, Drama </genre>
+		<director>Angela Robinson </director>
 		<label>Positive</label>
 		<percentage>50.0</percentage>
 	</movie>
 	<movie>
 		<title>The Meyerowitz Stories</title>
 		<num_comments>417</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Drama, Comedy </genre>
+		<director>Noah Baumbach </director>
 		<label>Positive</label>
-		<percentage>62.295081967213115</percentage>
+		<percentage>61.904761904761905</percentage>
 	</movie>
 	<movie>
 		<title>Happy Death Day</title>
 		<num_comments>1047</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Mystery, Thriller, Horror </genre>
+		<director>Christopher B. Landon </director>
 		<label>Positive</label>
-		<percentage>54.263565891472865</percentage>
+		<percentage>55.55555555555556</percentage>
 	</movie>
 	<movie>
 		<title>The Foreigner</title>
 		<num_comments>564</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Action, Drama, Mystery, Thriller, Crime </genre>
+		<director>Martin Campbell </director>
 		<label>Positive</label>
-		<percentage>51.42857142857142</percentage>
+		<percentage>54.54545454545454</percentage>
 	</movie>
 	<movie>
 		<title>Blade Runner 2049</title>
-		<num_comments>19753</num_comments>
-		<year>2020</year>
+		<num_comments>19752</num_comments>
+		<year>2017</year>
+		<genre>Sci-Fi, Drama, Mystery, Thriller </genre>
+		<director>Denis Villeneuve </director>
 		<label>Positive</label>
-		<percentage>55.333333333333336</percentage>
+		<percentage>58.666666666666664</percentage>
 	</movie>
 	<movie>
-		<title>Stronger</title>
-		<num_comments>182</num_comments>
-		<year>2020</year>
+		<title>American Made (US Thread)</title>
+		<num_comments>438</num_comments>
+		<year>2017</year>
+		<genre>Action, Biography, Drama, History, Thriller, Comedy, Crime </genre>
+		<director>Doug Liman </director>
 		<label>Positive</label>
 		<percentage>50.0</percentage>
 	</movie>
 	<movie>
+		<title>Stronger</title>
+		<num_comments>182</num_comments>
+		<year>2017</year>
+		<genre>Biography, Drama </genre>
+		<director>David Gordon Green </director>
+		<label>Positive</label>
+		<percentage>52.17391304347826</percentage>
+	</movie>
+	<movie>
 		<title>American Made (International Thread)</title>
 		<num_comments>192</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Action, Biography, Drama, History, Thriller, Comedy, Crime </genre>
+		<director>Doug Liman </director>
 		<label>Positive</label>
-		<percentage>62.5</percentage>
+		<percentage>63.33333333333333</percentage>
 	</movie>
 	<movie>
 		<title>Good Time</title>
 		<num_comments>442</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Drama, Thriller, Crime </genre>
+		<director>Ben Safdie and Joshua Safdie </director>
 		<label>Positive</label>
-		<percentage>66.66666666666666</percentage>
+		<percentage>71.76470588235294</percentage>
 	</movie>
 	<movie>
 		<title>Wind River</title>
 		<num_comments>1468</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Action, Drama, Mystery, Thriller, Crime </genre>
+		<director>Taylor Sheridan </director>
 		<label>Positive</label>
-		<percentage>62.66666666666667</percentage>
+		<percentage>63.33333333333333</percentage>
 	</movie>
 	<movie>
 		<title>The Hitman's Bodyguard</title>
 		<num_comments>440</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Action, Comedy </genre>
+		<director>Patrick Hughes </director>
 		<label>Positive</label>
-		<percentage>61.458333333333336</percentage>
+		<percentage>64.58333333333334</percentage>
 	</movie>
 	<movie>
 		<title>Logan Lucky</title>
 		<num_comments>1438</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Drama, Comedy, Crime </genre>
+		<director>Steven Soderbergh </director>
 		<label>Positive</label>
 		<percentage>52.666666666666664</percentage>
 	</movie>
 	<movie>
 		<title>Atomic Blonde</title>
 		<num_comments>1398</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Action, Mystery, Thriller </genre>
+		<director>David Leitch </director>
 		<label>Positive</label>
-		<percentage>62.66666666666667</percentage>
+		<percentage>61.33333333333333</percentage>
 	</movie>
 	<movie>
 		<title>Girls Trip</title>
 		<num_comments>664</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Comedy </genre>
+		<director>Malcolm D. Lee </director>
 		<label>Positive</label>
-		<percentage>60.60606060606061</percentage>
+		<percentage>62.31884057971014</percentage>
 	</movie>
 	<movie>
 		<title>Dunkirk</title>
 		<num_comments>10216</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Action, Drama, History, Thriller, War </genre>
+		<director>Christopher Nolan </director>
 		<label>Positive</label>
-		<percentage>52.0</percentage>
+		<percentage>52.666666666666664</percentage>
 	</movie>
 	<movie>
 		<title>The Big Sick</title>
 		<num_comments>729</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Drama, Comedy, Romance </genre>
+		<director>Michael Showalter </director>
 		<label>Positive</label>
-		<percentage>70.0</percentage>
+		<percentage>71.5909090909091</percentage>
 	</movie>
 	<movie>
 		<title>Spider-man: Homecoming</title>
-		<num_comments>13724</num_comments>
-		<year>2020</year>
+		<num_comments>13723</num_comments>
+		<year>2017</year>
+		<genre>Action, Adventure, Sci-Fi, Fantasy, Family </genre>
+		<director>Jon Watts </director>
 		<label>Positive</label>
-		<percentage>54.0</percentage>
+		<percentage>56.666666666666664</percentage>
 	</movie>
 	<movie>
 		<title>The House</title>
 		<num_comments>367</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Comedy </genre>
+		<director>Andrew J. Cohen </director>
 		<label>Positive</label>
-		<percentage>57.692307692307686</percentage>
+		<percentage>58.82352941176471</percentage>
 	</movie>
 	<movie>
 		<title>Okja</title>
 		<num_comments>2468</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Action, Adventure, Sci-Fi, Drama </genre>
+		<director>Joon-ho Bong </director>
+		<label>Positive</label>
+		<percentage>55.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>Baby Driver</title>
+		<num_comments>6162</num_comments>
+		<year>2017</year>
+		<genre>Action, Thriller, Comedy, Crime, Music </genre>
+		<director>Edgar Wright </director>
 		<label>Positive</label>
 		<percentage>50.0</percentage>
 	</movie>
 	<movie>
 		<title>Cars 3</title>
-		<num_comments>871</num_comments>
-		<year>2020</year>
+		<num_comments>869</num_comments>
+		<year>2017</year>
+		<genre>Adventure, Sport, Comedy, Animation, Family </genre>
+		<director>Brian Fee </director>
 		<label>Positive</label>
-		<percentage>54.054054054054056</percentage>
+		<percentage>58.333333333333336</percentage>
 	</movie>
 	<movie>
 		<title>Captain Underpants: The First Epic Movie</title>
 		<num_comments>353</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Action, Adventure, Comedy, Animation, Family </genre>
+		<director>David Soren </director>
 		<label>Positive</label>
-		<percentage>57.14285714285714</percentage>
+		<percentage>58.46153846153847</percentage>
 	</movie>
 	<movie>
 		<title>Wonder Woman</title>
 		<num_comments>11377</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>56.00000000000001</percentage>
-	</movie>
-	<movie>
-		<title>King Arthur: Legend of the Sword</title>
-		<num_comments>1483</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>68.66666666666667</percentage>
-	</movie>
-	<movie>
-		<title>Guardians of the Galaxy Vol. 2</title>
-		<num_comments>10060</num_comments>
-		<year>2020</year>
+		<year>2017</year>
+		<genre>Action, Adventure, Sci-Fi, Fantasy, War </genre>
+		<director>Patty Jenkins </director>
 		<label>Positive</label>
 		<percentage>59.333333333333336</percentage>
 	</movie>
 	<movie>
-		<title>The Promise</title>
-		<num_comments>99</num_comments>
-		<year>2020</year>
+		<title>King Arthur: Legend of the Sword</title>
+		<num_comments>1483</num_comments>
+		<year>2017</year>
+		<genre>Action, Adventure, Drama, Fantasy </genre>
+		<director>Guy Ritchie </director>
 		<label>Positive</label>
-		<percentage>53.84615384615385</percentage>
+		<percentage>70.66666666666667</percentage>
 	</movie>
 	<movie>
-		<title>Free Fire</title>
-		<num_comments>288</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>59.42028985507246</percentage>
-	</movie>
-	<movie>
-		<title>T2 Trainspotting: Battle Across Time</title>
-		<num_comments>166</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>60.0</percentage>
-	</movie>
-	<movie>
-		<title>Your Name</title>
-		<num_comments>1058</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>74.66666666666667</percentage>
-	</movie>
-	<movie>
-		<title>The Star Wars Prequel Trilogy</title>
-		<num_comments>241</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>61.53846153846154</percentage>
-	</movie>
-	<movie>
-		<title>Power Rangers</title>
-		<num_comments>3120</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>66.0</percentage>
-	</movie>
-	<movie>
-		<title>Beauty and the Beast</title>
-		<num_comments>3097</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>57.333333333333336</percentage>
-	</movie>
-	<movie>
-		<title>Kong: Skull Island</title>
-		<num_comments>3525</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>57.333333333333336</percentage>
-	</movie>
-	<movie>
-		<title>Logan</title>
-		<num_comments>18797</num_comments>
-		<year>2020</year>
+		<title>Guardians of the Galaxy Vol. 2</title>
+		<num_comments>10060</num_comments>
+		<year>2017</year>
+		<genre>Action, Adventure, Sci-Fi, Comedy </genre>
+		<director>James Gunn </director>
 		<label>Positive</label>
 		<percentage>62.66666666666667</percentage>
 	</movie>
 	<movie>
-		<title>Paterson</title>
-		<num_comments>145</num_comments>
-		<year>2020</year>
+		<title>Guardians of the Galaxy Vol. 2</title>
+		<num_comments>2717</num_comments>
+		<year>2017</year>
+		<genre>Action, Adventure, Sci-Fi, Comedy </genre>
+		<director>James Gunn </director>
 		<label>Positive</label>
-		<percentage>76.47058823529412</percentage>
+		<percentage>52.666666666666664</percentage>
 	</movie>
 	<movie>
-		<title>I Don't Feel at Home in This World Anymore</title>
-		<num_comments>265</num_comments>
-		<year>2020</year>
+		<title>The Promise</title>
+		<num_comments>99</num_comments>
+		<year>2017</year>
+		<genre>Drama, History </genre>
+		<director>Terry George </director>
 		<label>Positive</label>
-		<percentage>64.28571428571429</percentage>
+		<percentage>54.54545454545454</percentage>
 	</movie>
 	<movie>
-		<title>John Wick 2</title>
-		<num_comments>4955</num_comments>
-		<year>2020</year>
+		<title>Free Fire</title>
+		<num_comments>288</num_comments>
+		<year>2017</year>
+		<genre>Action, Drama, Thriller, Comedy, Crime </genre>
+		<director>Ben Wheatley </director>
 		<label>Positive</label>
-		<percentage>54.0</percentage>
+		<percentage>58.2089552238806</percentage>
 	</movie>
 	<movie>
-		<title>20th Century Women</title>
-		<num_comments>115</num_comments>
-		<year>2020</year>
+		<title>T2 Trainspotting: Battle Across Time</title>
+		<num_comments>166</num_comments>
+		<year>2017</year>
+		<genre>Drama, Comedy </genre>
+		<director>Danny Boyle </director>
 		<label>Positive</label>
-		<percentage>83.33333333333334</percentage>
+		<percentage>61.53846153846154</percentage>
 	</movie>
 	<movie>
-		<title>T2 Trainspotting: Judgement Day (International Release)</title>
-		<num_comments>582</num_comments>
-		<year>2020</year>
+		<title>Your Name</title>
+		<num_comments>1058</num_comments>
+		<year>2017</year>
+		<genre>Drama, Fantasy, Romance, Animation </genre>
+		<director>Makoto Shinkai </director>
 		<label>Positive</label>
-		<percentage>62.03703703703704</percentage>
+		<percentage>73.28767123287672</percentage>
 	</movie>
 	<movie>
-		<title>Split</title>
-		<num_comments>6028</num_comments>
-		<year>2020</year>
+		<title>The Discovery</title>
+		<num_comments>412</num_comments>
+		<year>2017</year>
+		<genre>Sci-Fi, Drama, Mystery, Thriller, Romance </genre>
+		<director>Charlie McDowell </director>
 		<label>Positive</label>
-		<percentage>50.66666666666667</percentage>
+		<percentage>51.92307692307693</percentage>
 	</movie>
 	<movie>
-		<title>The Founder</title>
-		<num_comments>284</num_comments>
-		<year>2020</year>
+		<title>The Star Wars Prequel Trilogy</title>
+		<num_comments>241</num_comments>
+		<year>2017</year>
+		<genre>NULL</genre>
+		<director>NULL</director>
 		<label>Positive</label>
-		<percentage>50.0</percentage>
+		<percentage>62.5</percentage>
 	</movie>
 	<movie>
-		<title>Patriots Day</title>
-		<num_comments>476</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>64.47368421052632</percentage>
-	</movie>
-	<movie>
-		<title>Live by Night</title>
-		<num_comments>338</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>51.162790697674424</percentage>
-	</movie>
-	<movie>
-		<title>Silence</title>
-		<num_comments>1125</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>55.172413793103445</percentage>
-	</movie>
-	<movie>
-		<title>Hidden Figures</title>
-		<num_comments>452</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>71.15384615384616</percentage>
-	</movie>
-	<movie>
-		<title>A Monster Calls</title>
-		<num_comments>246</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>65.45454545454545</percentage>
-	</movie>
-	<movie>
-		<title>The House that Jack Built</title>
-		<num_comments>242</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>56.86274509803921</percentage>
-	</movie>
-	<movie>
-		<title>Bumblebee</title>
-		<num_comments>1305</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>56.00000000000001</percentage>
-	</movie>
-	<movie>
-		<title>They Shall Not Grow Old (US Release)</title>
-		<num_comments>335</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>57.57575757575758</percentage>
-	</movie>
-	<movie>
-		<title>Spider-Man: Into the Spider-Verse</title>
-		<num_comments>7351</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>68.0</percentage>
-	</movie>
-	<movie>
-		<title>The Favourite</title>
-		<num_comments>1070</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>67.33333333333333</percentage>
-	</movie>
-	<movie>
-		<title>Roma</title>
-		<num_comments>1710</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>70.0</percentage>
-	</movie>
-	<movie>
-		<title>Aquaman (International Thread)</title>
-		<num_comments>2743</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>64.66666666666666</percentage>
-	</movie>
-	<movie>
-		<title>Bodied</title>
-		<num_comments>125</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>51.42857142857142</percentage>
-	</movie>
-	<movie>
-		<title>Can You Ever Forgive Me?</title>
-		<num_comments>39</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>87.5</percentage>
-	</movie>
-	<movie>
-		<title>Green Book</title>
-		<num_comments>573</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>61.76470588235294</percentage>
-	</movie>
-	<movie>
-		<title>Instant Family</title>
-		<num_comments>112</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>80.0</percentage>
-	</movie>
-	<movie>
-		<title>Creed II</title>
-		<num_comments>1627</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>56.666666666666664</percentage>
-	</movie>
-	<movie>
-		<title>They Shall Not Grow Old (UK Release)</title>
-		<num_comments>126</num_comments>
-		<year>2020</year>
+		<title>Ghost in the Shell</title>
+		<num_comments>3758</num_comments>
+		<year>2017</year>
+		<genre>Action, Sci-Fi, Drama, Mystery, Thriller, Crime </genre>
+		<director>Rupert Sanders </director>
 		<label>Positive</label>
 		<percentage>50.0</percentage>
 	</movie>
 	<movie>
-		<title>The Ballad of Buster Scruggs</title>
-		<num_comments>2492</num_comments>
-		<year>2020</year>
+		<title>Power Rangers</title>
+		<num_comments>3120</num_comments>
+		<year>2017</year>
+		<genre>Action, Adventure, Sci-Fi, Fantasy </genre>
+		<director>Dean Israelite </director>
 		<label>Positive</label>
-		<percentage>54.666666666666664</percentage>
+		<percentage>65.33333333333333</percentage>
 	</movie>
 	<movie>
-		<title>Outlaw King</title>
-		<num_comments>1077</num_comments>
-		<year>2020</year>
+		<title>Beauty and the Beast</title>
+		<num_comments>3097</num_comments>
+		<year>2017</year>
+		<genre>Fantasy, Romance, Family, Musical </genre>
+		<director>Bill Condon </director>
+		<label>Positive</label>
+		<percentage>57.99999999999999</percentage>
+	</movie>
+	<movie>
+		<title>Kong: Skull Island</title>
+		<num_comments>3525</num_comments>
+		<year>2017</year>
+		<genre>Action, Adventure, Sci-Fi, Fantasy </genre>
+		<director>Jordan Vogt-Roberts </director>
 		<label>Positive</label>
 		<percentage>58.666666666666664</percentage>
 	</movie>
 	<movie>
+		<title>Logan</title>
+		<num_comments>18793</num_comments>
+		<year>2017</year>
+		<genre>Action, Sci-Fi, Drama, Thriller </genre>
+		<director>James Mangold </director>
+		<label>Positive</label>
+		<percentage>65.33333333333333</percentage>
+	</movie>
+	<movie>
+		<title>Paterson</title>
+		<num_comments>145</num_comments>
+		<year>2017</year>
+		<genre>Drama, Comedy, Romance </genre>
+		<director>Jim Jarmusch </director>
+		<label>Positive</label>
+		<percentage>77.41935483870968</percentage>
+	</movie>
+	<movie>
+		<title>I Don't Feel at Home in This World Anymore</title>
+		<num_comments>265</num_comments>
+		<year>2017</year>
+		<genre>Drama, Thriller, Comedy, Crime </genre>
+		<director>Macon Blair </director>
+		<label>Positive</label>
+		<percentage>64.44444444444444</percentage>
+	</movie>
+	<movie>
+		<title>The LEGO Batman Movie</title>
+		<num_comments>1573</num_comments>
+		<year>2017</year>
+		<genre>Action, Adventure, Fantasy, Comedy, Animation, Family </genre>
+		<director>Chris McKay </director>
+		<label>Positive</label>
+		<percentage>52.666666666666664</percentage>
+	</movie>
+	<movie>
+		<title>John Wick 2</title>
+		<num_comments>4955</num_comments>
+		<year>2017</year>
+		<genre>Action, Thriller, Crime </genre>
+		<director>Chad Stahelski </director>
+		<label>Positive</label>
+		<percentage>57.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>20th Century Women</title>
+		<num_comments>115</num_comments>
+		<year>2017</year>
+		<genre>Drama, Comedy </genre>
+		<director>Mike Mills </director>
+		<label>Positive</label>
+		<percentage>80.0</percentage>
+	</movie>
+	<movie>
+		<title>T2 Trainspotting: Judgement Day (International Release)</title>
+		<num_comments>582</num_comments>
+		<year>2017</year>
+		<genre>Drama, Comedy </genre>
+		<director>Danny Boyle </director>
+		<label>Positive</label>
+		<percentage>64.07766990291263</percentage>
+	</movie>
+	<movie>
+		<title>Split</title>
+		<num_comments>6028</num_comments>
+		<year>2017</year>
+		<genre>Thriller, Horror </genre>
+		<director>M. Night Shyamalan </director>
+		<label>Positive</label>
+		<percentage>52.0</percentage>
+	</movie>
+	<movie>
+		<title>The Founder</title>
+		<num_comments>284</num_comments>
+		<year>2017</year>
+		<genre>Biography, Drama, History </genre>
+		<director>John Lee Hancock </director>
+		<label>Positive</label>
+		<percentage>51.162790697674424</percentage>
+	</movie>
+	<movie>
+		<title>Patriots Day</title>
+		<num_comments>476</num_comments>
+		<year>2017</year>
+		<genre>Drama, History, Thriller </genre>
+		<director>Peter Berg </director>
+		<label>Positive</label>
+		<percentage>66.21621621621621</percentage>
+	</movie>
+	<movie>
+		<title>Live by Night</title>
+		<num_comments>338</num_comments>
+		<year>2017</year>
+		<genre>Drama, Crime </genre>
+		<director>Ben Affleck </director>
+		<label>Positive</label>
+		<percentage>58.139534883720934</percentage>
+	</movie>
+	<movie>
+		<title>Silence</title>
+		<num_comments>1125</num_comments>
+		<year>2017</year>
+		<genre>Adventure, Drama, History </genre>
+		<director>Martin Scorsese </director>
+		<label>Positive</label>
+		<percentage>58.3941605839416</percentage>
+	</movie>
+	<movie>
+		<title>Hidden Figures</title>
+		<num_comments>452</num_comments>
+		<year>2017</year>
+		<genre>Biography, Drama, History </genre>
+		<director>Theodore Melfi </director>
+		<label>Positive</label>
+		<percentage>71.69811320754717</percentage>
+	</movie>
+	<movie>
+		<title>A Monster Calls</title>
+		<num_comments>246</num_comments>
+		<year>2017</year>
+		<genre>Drama, Fantasy </genre>
+		<director>Juan Antonio Bayona </director>
+		<label>Positive</label>
+		<percentage>69.0909090909091</percentage>
+	</movie>
+	<movie>
+		<title>The House that Jack Built</title>
+		<num_comments>242</num_comments>
+		<year>2018</year>
+		<genre>Drama, Thriller, Horror, Comedy, Crime </genre>
+		<director>Lars von Trier </director>
+		<label>Positive</label>
+		<percentage>58.490566037735846</percentage>
+	</movie>
+	<movie>
+		<title>Bumblebee</title>
+		<num_comments>1305</num_comments>
+		<year>2018</year>
+		<genre>Action, Adventure, Sci-Fi </genre>
+		<director>Travis Knight </director>
+		<label>Positive</label>
+		<percentage>57.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>Aquaman (US Release)</title>
+		<num_comments>3425</num_comments>
+		<year>2018</year>
+		<genre>Action, Adventure, Sci-Fi, Fantasy </genre>
+		<director>James Wan </director>
+		<label>Positive</label>
+		<percentage>50.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>They Shall Not Grow Old (US Release)</title>
+		<num_comments>335</num_comments>
+		<year>2018</year>
+		<genre>Drama, Thriller, Romance, Crime </genre>
+		<director>Steve McQueen </director>
+		<label>Positive</label>
+		<percentage>63.63636363636363</percentage>
+	</movie>
+	<movie>
+		<title>Spider-Man: Into the Spider-Verse</title>
+		<num_comments>7351</num_comments>
+		<year>2018</year>
+		<genre>Action, Adventure, Sci-Fi, Comedy, Animation, Family </genre>
+		<director>Bob Persichetti and Peter Ramsey and Rodney Rothman </director>
+		<label>Positive</label>
+		<percentage>70.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>The Favourite</title>
+		<num_comments>1070</num_comments>
+		<year>2018</year>
+		<genre>Biography, Drama, History, Comedy </genre>
+		<director>Giorgos Lanthimos </director>
+		<label>Positive</label>
+		<percentage>68.0</percentage>
+	</movie>
+	<movie>
+		<title>Roma</title>
+		<num_comments>1710</num_comments>
+		<year>2018</year>
+		<genre>Drama </genre>
+		<director>Alfonso Cuarón </director>
+		<label>Positive</label>
+		<percentage>71.33333333333334</percentage>
+	</movie>
+	<movie>
+		<title>Aquaman (International Thread)</title>
+		<num_comments>2743</num_comments>
+		<year>2018</year>
+		<genre>Action, Adventure, Sci-Fi, Fantasy </genre>
+		<director>James Wan </director>
+		<label>Positive</label>
+		<percentage>66.0</percentage>
+	</movie>
+	<movie>
+		<title>Bodied</title>
+		<num_comments>125</num_comments>
+		<year>2018</year>
+		<genre>Drama, Comedy, Music </genre>
+		<director>Joseph Kahn </director>
+		<label>Positive</label>
+		<percentage>52.94117647058824</percentage>
+	</movie>
+	<movie>
+		<title>Can You Ever Forgive Me?</title>
+		<num_comments>39</num_comments>
+		<year>2018</year>
+		<genre>Biography, Drama, Comedy, Crime </genre>
+		<director>Marielle Heller </director>
+		<label>Positive</label>
+		<percentage>86.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>Green Book</title>
+		<num_comments>573</num_comments>
+		<year>2018</year>
+		<genre>Biography, Drama, History, Comedy, Music </genre>
+		<director>Peter Farrelly </director>
+		<label>Positive</label>
+		<percentage>64.70588235294117</percentage>
+	</movie>
+	<movie>
+		<title>Instant Family</title>
+		<num_comments>112</num_comments>
+		<year>2018</year>
+		<genre>Drama, Comedy, Family </genre>
+		<director>Sean Anders </director>
+		<label>Positive</label>
+		<percentage>79.54545454545455</percentage>
+	</movie>
+	<movie>
+		<title>Creed II</title>
+		<num_comments>1627</num_comments>
+		<year>2018</year>
+		<genre>Action, Drama, Sport </genre>
+		<director>Steven Caple Jr. </director>
+		<label>Positive</label>
+		<percentage>58.666666666666664</percentage>
+	</movie>
+	<movie>
+		<title>They Shall Not Grow Old (UK Release)</title>
+		<num_comments>126</num_comments>
+		<year>2018</year>
+		<genre>Drama, Thriller, Romance, Crime </genre>
+		<director>Steve McQueen </director>
+		<label>Positive</label>
+		<percentage>54.166666666666664</percentage>
+	</movie>
+	<movie>
+		<title>The Ballad of Buster Scruggs</title>
+		<num_comments>2492</num_comments>
+		<year>2018</year>
+		<genre>Action, Adventure, Sci-Fi, Mystery, Thriller, Horror, War </genre>
+		<director>Julius Avery </director>
+		<label>Positive</label>
+		<percentage>53.333333333333336</percentage>
+	</movie>
+	<movie>
+		<title>Outlaw King</title>
+		<num_comments>1077</num_comments>
+		<year>2018</year>
+		<genre>Action, Biography, Drama, History, War </genre>
+		<director>David Mackenzie </director>
+		<label>Positive</label>
+		<percentage>59.333333333333336</percentage>
+	</movie>
+	<movie>
 		<title>Overlord</title>
 		<num_comments>1708</num_comments>
-		<year>2020</year>
+		<year>2018</year>
+		<genre>Action, Adventure, Sci-Fi, Mystery, Thriller, Horror, War </genre>
+		<director>Julius Avery </director>
 		<label>Positive</label>
-		<percentage>62.0</percentage>
+		<percentage>62.66666666666667</percentage>
 	</movie>
 	<movie>
 		<title>The Other Side of the Wind</title>
 		<num_comments>131</num_comments>
-		<year>2020</year>
+		<year>2018</year>
+		<genre>Drama, Comedy </genre>
+		<director>Orson Welles </director>
 		<label>Positive</label>
-		<percentage>70.96774193548387</percentage>
+		<percentage>74.19354838709677</percentage>
 	</movie>
 	<movie>
 		<title>Beautiful Boy</title>
 		<num_comments>152</num_comments>
-		<year>2020</year>
+		<year>2018</year>
+		<genre>Biography, Drama </genre>
+		<director>Felix Van Groeningen </director>
 		<label>Positive</label>
-		<percentage>50.0</percentage>
+		<percentage>51.162790697674424</percentage>
 	</movie>
 	<movie>
 		<title>Nobody's Fool</title>
 		<num_comments>43</num_comments>
-		<year>2020</year>
+		<year>2018</year>
+		<genre>NULL</genre>
+		<director>NULL</director>
 		<label>Positive</label>
 		<percentage>50.0</percentage>
 	</movie>
 	<movie>
 		<title>Bohemian Rhapsody</title>
 		<num_comments>2333</num_comments>
-		<year>2020</year>
+		<year>2018</year>
+		<genre>Biography, Drama, Music </genre>
+		<director>Bryan Singer and Dexter Fletcher </director>
 		<label>Positive</label>
-		<percentage>66.0</percentage>
+		<percentage>69.33333333333334</percentage>
 	</movie>
 	<movie>
 		<title>Johnny English Strikes Again</title>
 		<num_comments>100</num_comments>
-		<year>2020</year>
+		<year>2018</year>
+		<genre>Action, Adventure, Comedy </genre>
+		<director>David Kerr </director>
 		<label>Positive</label>
-		<percentage>63.33333333333333</percentage>
+		<percentage>65.51724137931035</percentage>
 	</movie>
 	<movie>
 		<title>Mid90s</title>
 		<num_comments>1145</num_comments>
-		<year>2020</year>
+		<year>2018</year>
+		<genre>Drama, Comedy </genre>
+		<director>Jonah Hill </director>
 		<label>Positive</label>
-		<percentage>57.333333333333336</percentage>
+		<percentage>58.666666666666664</percentage>
 	</movie>
 	<movie>
 		<title>The Old Man &amp; the Gun</title>
 		<num_comments>80</num_comments>
-		<year>2020</year>
+		<year>2018</year>
+		<genre>Drama, Comedy, Crime </genre>
+		<director>David Lowery </director>
 		<label>Positive</label>
 		<percentage>83.33333333333334</percentage>
 	</movie>
 	<movie>
 		<title>The Hate U Give</title>
 		<num_comments>506</num_comments>
-		<year>2020</year>
+		<year>2018</year>
+		<genre>Drama, Crime </genre>
+		<director>George Tillman Jr </director>
 		<label>Positive</label>
-		<percentage>54.09836065573771</percentage>
+		<percentage>55.55555555555556</percentage>
 	</movie>
 	<movie>
 		<title>Bad Times at the El Royale</title>
 		<num_comments>2325</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>54.0</percentage>
-	</movie>
-	<movie>
-		<title>First Man</title>
-		<num_comments>2477</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>57.99999999999999</percentage>
-	</movie>
-	<movie>
-		<title>A Star is Born</title>
-		<num_comments>4177</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>56.666666666666664</percentage>
-	</movie>
-	<movie>
-		<title>Smallfoot</title>
-		<num_comments>156</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>51.85185185185185</percentage>
-	</movie>
-	<movie>
-		<title>The House with as Clock in Its Walls</title>
-		<num_comments>461</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>52.32558139534884</percentage>
-	</movie>
-	<movie>
-		<title>Mandy</title>
-		<num_comments>1813</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>57.333333333333336</percentage>
-	</movie>
-	<movie>
-		<title>Searching</title>
-		<num_comments>2491</num_comments>
-		<year>2020</year>
+		<year>2018</year>
+		<genre>Drama, Mystery, Thriller, Horror, Crime </genre>
+		<director>Drew Goddard </director>
 		<label>Positive</label>
 		<percentage>55.333333333333336</percentage>
 	</movie>
 	<movie>
-		<title>Alpha</title>
-		<num_comments>384</num_comments>
-		<year>2020</year>
+		<title>First Man</title>
+		<num_comments>2477</num_comments>
+		<year>2018</year>
+		<genre>Biography, Drama, History </genre>
+		<director>Damien Chazelle </director>
 		<label>Positive</label>
-		<percentage>64.86486486486487</percentage>
+		<percentage>60.66666666666667</percentage>
 	</movie>
 	<movie>
-		<title>Crazy Rich Asians</title>
-		<num_comments>3170</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>69.33333333333334</percentage>
-	</movie>
-	<movie>
-		<title>BlacKkKlansman</title>
-		<num_comments>3491</num_comments>
-		<year>2020</year>
+		<title>A Star is Born</title>
+		<num_comments>4177</num_comments>
+		<year>2018</year>
+		<genre>Drama, Romance, Music, Musical </genre>
+		<director>Bradley Cooper </director>
 		<label>Positive</label>
 		<percentage>58.666666666666664</percentage>
 	</movie>
 	<movie>
-		<title>Eighth Grade</title>
-		<num_comments>1360</num_comments>
-		<year>2020</year>
+		<title>Smallfoot</title>
+		<num_comments>156</num_comments>
+		<year>2018</year>
+		<genre>Adventure, Fantasy, Comedy, Animation, Family, Musical </genre>
+		<director>Jason Reisig and Karey Kirkpatrick </director>
 		<label>Positive</label>
-		<percentage>60.0</percentage>
+		<percentage>52.0</percentage>
 	</movie>
 	<movie>
-		<title>Christopher Robin</title>
-		<num_comments>760</num_comments>
-		<year>2020</year>
+		<title>The House with as Clock in Its Walls</title>
+		<num_comments>461</num_comments>
+		<year>2018</year>
+		<genre>Sci-Fi, Mystery, Thriller, Fantasy, Horror, Comedy, Family </genre>
+		<director>Eli Roth </director>
 		<label>Positive</label>
-		<percentage>74.0</percentage>
+		<percentage>54.11764705882353</percentage>
 	</movie>
 	<movie>
-		<title>Blindspotting</title>
-		<num_comments>326</num_comments>
-		<year>2020</year>
+		<title>Mandy</title>
+		<num_comments>1812</num_comments>
+		<year>2018</year>
+		<genre>NULL</genre>
+		<director>NULL</director>
+		<label>Positive</label>
+		<percentage>58.666666666666664</percentage>
+	</movie>
+	<movie>
+		<title>Searching</title>
+		<num_comments>2491</num_comments>
+		<year>2018</year>
+		<genre>NULL</genre>
+		<director>NULL</director>
+		<label>Positive</label>
+		<percentage>56.00000000000001</percentage>
+	</movie>
+	<movie>
+		<title>Alpha</title>
+		<num_comments>384</num_comments>
+		<year>2018</year>
+		<genre>Action, Adventure, Drama, Thriller, Family </genre>
+		<director>Albert Hughes </director>
+		<label>Positive</label>
+		<percentage>67.56756756756756</percentage>
+	</movie>
+	<movie>
+		<title>Crazy Rich Asians</title>
+		<num_comments>3170</num_comments>
+		<year>2018</year>
+		<genre>Comedy, Romance </genre>
+		<director>Jon M. Chu </director>
 		<label>Positive</label>
 		<percentage>72.0</percentage>
 	</movie>
 	<movie>
-		<title>Teen Titans! Go To The Movies</title>
-		<num_comments>815</num_comments>
-		<year>2020</year>
+		<title>BlacKkKlansman</title>
+		<num_comments>3491</num_comments>
+		<year>2018</year>
+		<genre>Biography, Drama, Comedy, Crime </genre>
+		<director>Spike Lee </director>
 		<label>Positive</label>
-		<percentage>70.66666666666667</percentage>
+		<percentage>60.0</percentage>
 	</movie>
 	<movie>
-		<title>Mission: Impossible - Fallout</title>
-		<num_comments>7185</num_comments>
-		<year>2020</year>
+		<title>The Spy Who Dumped Me</title>
+		<num_comments>275</num_comments>
+		<year>2018</year>
+		<genre>Action, Adventure, Comedy </genre>
+		<director>Susanna Fogel </director>
+		<label>Positive</label>
+		<percentage>56.451612903225815</percentage>
+	</movie>
+	<movie>
+		<title>Eighth Grade</title>
+		<num_comments>1360</num_comments>
+		<year>2018</year>
+		<genre>Drama, Comedy </genre>
+		<director>Bo Burnham </director>
 		<label>Positive</label>
 		<percentage>61.33333333333333</percentage>
 	</movie>
 	<movie>
+		<title>Christopher Robin</title>
+		<num_comments>760</num_comments>
+		<year>2018</year>
+		<genre>Adventure, Drama, Fantasy, Comedy, Animation, Family, Musical </genre>
+		<director>Marc Forster </director>
+		<label>Positive</label>
+		<percentage>74.66666666666667</percentage>
+	</movie>
+	<movie>
+		<title>Blindspotting</title>
+		<num_comments>326</num_comments>
+		<year>2018</year>
+		<genre>Drama, Comedy, Crime </genre>
+		<director>Carlos López Estrada </director>
+		<label>Positive</label>
+		<percentage>73.33333333333333</percentage>
+	</movie>
+	<movie>
+		<title>Teen Titans! Go To The Movies</title>
+		<num_comments>815</num_comments>
+		<year>2018</year>
+		<genre>Action, Sci-Fi, Comedy, Animation, Family, Musical </genre>
+		<director>Aaron Horvath and Peter Rida Michail </director>
+		<label>Positive</label>
+		<percentage>71.33333333333334</percentage>
+	</movie>
+	<movie>
+		<title>Mission: Impossible - Fallout</title>
+		<num_comments>7185</num_comments>
+		<year>2018</year>
+		<genre>Action, Adventure, Thriller </genre>
+		<director>Christopher McQuarrie </director>
+		<label>Positive</label>
+		<percentage>60.66666666666667</percentage>
+	</movie>
+	<movie>
 		<title>Mamma Mia! Here We Go Again</title>
 		<num_comments>747</num_comments>
-		<year>2020</year>
+		<year>2018</year>
+		<genre>Comedy, Romance, Musical </genre>
+		<director>Ol Parker </director>
 		<label>Positive</label>
-		<percentage>72.66666666666667</percentage>
+		<percentage>74.66666666666667</percentage>
 	</movie>
 	<movie>
 		<title>Hotel Transylvania 3: Summer Vacation</title>
 		<num_comments>67</num_comments>
-		<year>2020</year>
+		<year>2018</year>
+		<genre>Adventure, Sci-Fi, Mystery, Thriller, Fantasy, Horror, Comedy, Crime, Animation, Family </genre>
+		<director>Genndy Tartakovsky </director>
 		<label>Positive</label>
-		<percentage>66.66666666666666</percentage>
+		<percentage>71.42857142857143</percentage>
 	</movie>
 	<movie>
 		<title>Ant Man and The Wasp (SPOILERS)</title>
 		<num_comments>7533</num_comments>
-		<year>2020</year>
+		<year>2018</year>
+		<genre>Action, Adventure, Sci-Fi </genre>
+		<director>Peyton Reed </director>
 		<label>Positive</label>
-		<percentage>54.666666666666664</percentage>
+		<percentage>56.666666666666664</percentage>
+	</movie>
+	<movie>
+		<title>Uncle Drew</title>
+		<num_comments>324</num_comments>
+		<year>2018</year>
+		<genre>Sport, Comedy </genre>
+		<director>Charles Stone III </director>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
 	</movie>
 	<movie>
 		<title>Won't You Be My Neighbor?</title>
 		<num_comments>351</num_comments>
-		<year>2020</year>
+		<year>2018</year>
+		<genre>Biography, Documentary </genre>
+		<director>Morgan Neville </director>
 		<label>Positive</label>
 		<percentage>76.69902912621359</percentage>
 	</movie>
 	<movie>
 		<title>Tag</title>
 		<num_comments>817</num_comments>
-		<year>2020</year>
+		<year>2018</year>
+		<genre>Comedy </genre>
+		<director>Jeff Tomsic </director>
 		<label>Positive</label>
-		<percentage>50.0</percentage>
+		<percentage>51.70068027210885</percentage>
 	</movie>
 	<movie>
 		<title>First Reformed</title>
 		<num_comments>441</num_comments>
-		<year>2020</year>
+		<year>2018</year>
+		<genre>Drama, Thriller </genre>
+		<director>Paul Schrader </director>
 		<label>Positive</label>
-		<percentage>58.75</percentage>
+		<percentage>59.210526315789465</percentage>
 	</movie>
 	<movie>
 		<title>Upgrade</title>
 		<num_comments>1523</num_comments>
-		<year>2020</year>
+		<year>2018</year>
+		<genre>Action, Sci-Fi, Thriller, Horror, Comedy </genre>
+		<director>Leigh Whannell </director>
 		<label>Positive</label>
-		<percentage>67.33333333333333</percentage>
+		<percentage>68.66666666666667</percentage>
 	</movie>
 	<movie>
 		<title>The Tale</title>
 		<num_comments>135</num_comments>
-		<year>2020</year>
+		<year>2018</year>
+		<genre>Drama, Mystery, Thriller </genre>
+		<director>Jennifer Fox </director>
 		<label>Positive</label>
-		<percentage>65.625</percentage>
+		<percentage>68.75</percentage>
 	</movie>
 	<movie>
-		<title>Revenge</title>
-		<num_comments>202</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>57.49999999999999</percentage>
-	</movie>
-	<movie>
-		<title>Deadpool 2</title>
-		<num_comments>13255</num_comments>
-		<year>2020</year>
+		<title>Disobedience</title>
+		<num_comments>160</num_comments>
+		<year>2018</year>
+		<genre>Drama, Romance </genre>
+		<director>Sebastián Lelio </director>
 		<label>Positive</label>
 		<percentage>50.0</percentage>
 	</movie>
 	<movie>
+		<title>Revenge</title>
+		<num_comments>202</num_comments>
+		<year>2018</year>
+		<genre>Action, Thriller, Horror </genre>
+		<director>Coralie Fargeat </director>
+		<label>Positive</label>
+		<percentage>55.00000000000001</percentage>
+	</movie>
+	<movie>
+		<title>Deadpool 2</title>
+		<num_comments>13250</num_comments>
+		<year>2018</year>
+		<genre>Action, Adventure, Sci-Fi, Comedy </genre>
+		<director>David Leitch </director>
+		<label>Positive</label>
+		<percentage>51.33333333333333</percentage>
+	</movie>
+	<movie>
 		<title>Tully</title>
 		<num_comments>641</num_comments>
-		<year>2020</year>
+		<year>2018</year>
+		<genre>Drama, Comedy </genre>
+		<director>Jason Reitman </director>
 		<label>Positive</label>
-		<percentage>51.578947368421055</percentage>
+		<percentage>52.12765957446809</percentage>
 	</movie>
 	<movie>
 		<title>You Were Never Really Here</title>
 		<num_comments>582</num_comments>
-		<year>2020</year>
+		<year>2018</year>
+		<genre>Drama, Mystery, Thriller </genre>
+		<director>Lynne Ramsay </director>
 		<label>Positive</label>
-		<percentage>51.78571428571429</percentage>
+		<percentage>53.84615384615385</percentage>
 	</movie>
 	<movie>
 		<title>Avengers: Infinity War</title>
 		<num_comments>11824</num_comments>
-		<year>2020</year>
+		<year>2018</year>
+		<genre>Action, Adventure, Sci-Fi, Fantasy </genre>
+		<director>Anthony Russo and Joe Russo </director>
 		<label>Positive</label>
-		<percentage>52.666666666666664</percentage>
+		<percentage>54.0</percentage>
+	</movie>
+	<movie>
+		<title>Official Discussion #2 - Avengers: Infinity War</title>
+		<num_comments>176</num_comments>
+		<year>2018</year>
+		<genre>NULL</genre>
+		<director>NULL</director>
+		<label>Positive</label>
+		<percentage>57.14285714285714</percentage>
+	</movie>
+	<movie>
+		<title>Avengers: Infinity War</title>
+		<num_comments>73023</num_comments>
+		<year>2018</year>
+		<genre>Action, Adventure, Sci-Fi, Fantasy </genre>
+		<director>Anthony Russo and Joe Russo </director>
+		<label>Positive</label>
+		<percentage>50.66666666666667</percentage>
 	</movie>
 	<movie>
 		<title>Super Troopers 2</title>
 		<num_comments>702</num_comments>
-		<year>2020</year>
+		<year>2018</year>
+		<genre>Mystery, Comedy, Crime </genre>
+		<director>Jay Chandrasekhar </director>
 		<label>Positive</label>
-		<percentage>59.310344827586206</percentage>
+		<percentage>60.95890410958904</percentage>
 	</movie>
 	<movie>
 		<title>Isle of Dogs</title>
-		<num_comments>1428</num_comments>
-		<year>2020</year>
+		<num_comments>1427</num_comments>
+		<year>2018</year>
+		<genre>Adventure, Sci-Fi, Drama, Fantasy, Comedy, Animation </genre>
+		<director>Wes Anderson </director>
 		<label>Positive</label>
-		<percentage>65.33333333333333</percentage>
+		<percentage>67.33333333333333</percentage>
 	</movie>
 	<movie>
 		<title>Blockers</title>
 		<num_comments>847</num_comments>
-		<year>2020</year>
+		<year>2018</year>
+		<genre>Comedy </genre>
+		<director>Kay Cannon </director>
 		<label>Positive</label>
-		<percentage>55.833333333333336</percentage>
+		<percentage>56.451612903225815</percentage>
 	</movie>
 	<movie>
 		<title>Tyler Perry's Acrimony</title>
 		<num_comments>37</num_comments>
-		<year>2020</year>
+		<year>2018</year>
+		<genre>NULL</genre>
+		<director>NULL</director>
 		<label>Positive</label>
 		<percentage>50.0</percentage>
 	</movie>
 	<movie>
 		<title>Thoroughbreds</title>
 		<num_comments>366</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>62.5</percentage>
-	</movie>
-	<movie>
-		<title>Love, Simon</title>
-		<num_comments>1107</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>76.66666666666667</percentage>
-	</movie>
-	<movie>
-		<title>The Death of Stalin (US Release)</title>
-		<num_comments>508</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>68.68686868686868</percentage>
-	</movie>
-	<movie>
-		<title>Gringo</title>
-		<num_comments>116</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>60.0</percentage>
-	</movie>
-	<movie>
-		<title>Game Night</title>
-		<num_comments>1168</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>68.0</percentage>
-	</movie>
-	<movie>
-		<title>A Futile and Stupid Gesture</title>
-		<num_comments>253</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>63.934426229508205</percentage>
-	</movie>
-	<movie>
-		<title>Hostiles</title>
-		<num_comments>736</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>59.64912280701754</percentage>
-	</movie>
-	<movie>
-		<title>Call Me By Your Name</title>
-		<num_comments>1419</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>66.0</percentage>
-	</movie>
-	<movie>
-		<title>Phantom Thread</title>
-		<num_comments>1027</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>54.25531914893617</percentage>
-	</movie>
-	<movie>
-		<title>Paddington 2</title>
-		<num_comments>430</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>73.21428571428571</percentage>
-	</movie>
-	<movie>
-		<title>I, Tonya</title>
-		<num_comments>1054</num_comments>
-		<year>2020</year>
+		<year>2018</year>
+		<genre>Drama, Thriller </genre>
+		<director>Cory Finley </director>
 		<label>Positive</label>
 		<percentage>66.66666666666666</percentage>
 	</movie>
 	<movie>
+		<title>Love, Simon</title>
+		<num_comments>1106</num_comments>
+		<year>2018</year>
+		<genre>Drama, Comedy, Romance </genre>
+		<director>Greg Berlanti </director>
+		<label>Positive</label>
+		<percentage>77.33333333333333</percentage>
+	</movie>
+	<movie>
+		<title>The Death of Stalin (US Release)</title>
+		<num_comments>508</num_comments>
+		<year>2018</year>
+		<genre>Biography, Drama, History, Comedy </genre>
+		<director>Armando Iannucci </director>
+		<label>Positive</label>
+		<percentage>68.31683168316832</percentage>
+	</movie>
+	<movie>
+		<title>Gringo</title>
+		<num_comments>116</num_comments>
+		<year>2018</year>
+		<genre>Action, Drama, Comedy, Crime </genre>
+		<director>Nash Edgerton </director>
+		<label>Positive</label>
+		<percentage>65.51724137931035</percentage>
+	</movie>
+	<movie>
+		<title>Game Night</title>
+		<num_comments>1168</num_comments>
+		<year>2018</year>
+		<genre>Action, Mystery, Thriller, Horror, Comedy, Crime </genre>
+		<director>John Francis Daley and Jonathan M. Goldstein </director>
+		<label>Positive</label>
+		<percentage>67.33333333333333</percentage>
+	</movie>
+	<movie>
+		<title>Annihilation</title>
+		<num_comments>13149</num_comments>
+		<year>2018</year>
+		<genre>Action, Adventure, Sci-Fi, Drama, Mystery, Thriller, Fantasy, Horror </genre>
+		<director>Alex Garland </director>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
+	</movie>
+	<movie>
+		<title>A Futile and Stupid Gesture</title>
+		<num_comments>253</num_comments>
+		<year>2018</year>
+		<genre>Biography, Comedy </genre>
+		<director>David Wain </director>
+		<label>Positive</label>
+		<percentage>63.07692307692307</percentage>
+	</movie>
+	<movie>
+		<title>Hostiles</title>
+		<num_comments>736</num_comments>
+		<year>2018</year>
+		<genre>Adventure, Drama, Western </genre>
+		<director>Scott Cooper </director>
+		<label>Positive</label>
+		<percentage>60.50420168067227</percentage>
+	</movie>
+	<movie>
+		<title>Call Me By Your Name</title>
+		<num_comments>1418</num_comments>
+		<year>2018</year>
+		<genre>Drama, Romance </genre>
+		<director>Luca Guadagnino </director>
+		<label>Positive</label>
+		<percentage>66.66666666666666</percentage>
+	</movie>
+	<movie>
+		<title>Phantom Thread</title>
+		<num_comments>1027</num_comments>
+		<year>2018</year>
+		<genre>Drama, Romance, Crime </genre>
+		<director>Paul Thomas Anderson </director>
+		<label>Positive</label>
+		<percentage>52.63157894736842</percentage>
+	</movie>
+	<movie>
+		<title>Paddington 2</title>
+		<num_comments>430</num_comments>
+		<year>2018</year>
+		<genre>Adventure, Fantasy, Comedy, Animation, Family </genre>
+		<director>Paul King </director>
+		<label>Positive</label>
+		<percentage>75.22935779816514</percentage>
+	</movie>
+	<movie>
+		<title>I, Tonya</title>
+		<num_comments>1054</num_comments>
+		<year>2018</year>
+		<genre>Biography, Drama, Sport, Comedy </genre>
+		<director>Craig Gillespie </director>
+		<label>Positive</label>
+		<percentage>70.0</percentage>
+	</movie>
+	<movie>
 		<title>Spies in Disguise</title>
 		<num_comments>199</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Action, Adventure, Sci-Fi, Comedy, Animation, Family </genre>
+		<director>Nick Bruno and Troy Quane </director>
 		<label>Positive</label>
-		<percentage>61.702127659574465</percentage>
+		<percentage>65.21739130434783</percentage>
 	</movie>
 	<movie>
 		<title>Little Women</title>
 		<num_comments>2010</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Drama, Romance </genre>
+		<director>Greta Gerwig </director>
 		<label>Positive</label>
-		<percentage>57.99999999999999</percentage>
+		<percentage>60.0</percentage>
+	</movie>
+	<movie>
+		<title>Uncut Gems</title>
+		<num_comments>6390</num_comments>
+		<year>2019</year>
+		<genre>Drama, Mystery, Thriller, Comedy, Crime </genre>
+		<director>Ben Safdie and Joshua Safdie </director>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
 	</movie>
 	<movie>
 		<title>John Mulaney &amp; The Sack Lunch Bunch</title>
 		<num_comments>310</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Comedy, Variety Shows, Events &amp; Specials, Music </genre>
+		<director>NULL</director>
 		<label>Positive</label>
 		<percentage>61.53846153846154</percentage>
 	</movie>
 	<movie>
 		<title>Togo</title>
 		<num_comments>244</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Adventure, Biography, Drama, History, Family </genre>
+		<director>Ericson Core </director>
 		<label>Positive</label>
-		<percentage>65.625</percentage>
+		<percentage>68.75</percentage>
 	</movie>
 	<movie>
 		<title>The Two Popes</title>
 		<num_comments>405</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Biography, Drama, Comedy </genre>
+		<director>Fernando Meirelles </director>
 		<label>Positive</label>
-		<percentage>65.38461538461539</percentage>
+		<percentage>68.75</percentage>
+	</movie>
+	<movie>
+		<title>Bombshell</title>
+		<num_comments>508</num_comments>
+		<year>2019</year>
+		<genre>Biography, Drama </genre>
+		<director>Jay Roach </director>
+		<label>Positive</label>
+		<percentage>50.57471264367817</percentage>
 	</movie>
 	<movie>
 		<title>Jumanji: The Next Level</title>
 		<num_comments>1249</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Action, Adventure, Fantasy, Comedy </genre>
+		<director>Jake Kasdan </director>
 		<label>Positive</label>
-		<percentage>59.333333333333336</percentage>
+		<percentage>60.0</percentage>
 	</movie>
 	<movie>
 		<title>Waves</title>
 		<num_comments>304</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Drama, Sport, Romance </genre>
+		<director>Trey Edward Shults </director>
 		<label>Positive</label>
 		<percentage>60.0</percentage>
 	</movie>
 	<movie>
 		<title>The Report</title>
 		<num_comments>118</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Biography, Drama, History, Thriller, Crime </genre>
+		<director>Scott Z. Burns </director>
 		<label>Positive</label>
-		<percentage>64.70588235294117</percentage>
+		<percentage>63.63636363636363</percentage>
 	</movie>
 	<movie>
 		<title>Marriage Story</title>
 		<num_comments>3469</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Drama, Comedy, Romance </genre>
+		<director>Noah Baumbach </director>
 		<label>Positive</label>
-		<percentage>60.66666666666667</percentage>
+		<percentage>62.0</percentage>
 	</movie>
 	<movie>
 		<title>Knives Out</title>
-		<num_comments>7364</num_comments>
-		<year>2020</year>
+		<num_comments>7362</num_comments>
+		<year>2019</year>
+		<genre>Drama, Mystery, Thriller, Comedy, Crime </genre>
+		<director>Rian Johnson </director>
 		<label>Positive</label>
 		<percentage>60.66666666666667</percentage>
 	</movie>
 	<movie>
 		<title>The Irishman</title>
-		<num_comments>6563</num_comments>
-		<year>2020</year>
+		<num_comments>6562</num_comments>
+		<year>2019</year>
+		<genre>Biography, Drama, History, Thriller, Crime </genre>
+		<director>Martin Scorsese </director>
 		<label>Positive</label>
-		<percentage>51.33333333333333</percentage>
+		<percentage>52.666666666666664</percentage>
+	</movie>
+	<movie>
+		<title>Frozen II</title>
+		<num_comments>3289</num_comments>
+		<year>2019</year>
+		<genre>Adventure, Fantasy, Comedy, Animation, Family, Musical </genre>
+		<director>Chris Buck and Jennifer Lee </director>
+		<label>Positive</label>
+		<percentage>50.66666666666667</percentage>
 	</movie>
 	<movie>
 		<title>A Beautiful Day in the Neighborhood</title>
 		<num_comments>635</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Biography, Drama </genre>
+		<director>Marielle Heller </director>
 		<label>Positive</label>
-		<percentage>65.85365853658537</percentage>
-	</movie>
-	<movie>
-		<title>21 Bridges</title>
-		<num_comments>267</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>50.847457627118644</percentage>
+		<percentage>66.39344262295081</percentage>
 	</movie>
 	<movie>
 		<title>Klaus</title>
 		<num_comments>456</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Adventure, Comedy, Animation, Family </genre>
+		<director>Carlos Martínez López and Sergio Pablos </director>
 		<label>Positive</label>
-		<percentage>83.33333333333334</percentage>
+		<percentage>82.66666666666667</percentage>
 	</movie>
 	<movie>
 		<title>Noelle</title>
 		<num_comments>208</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Adventure, Drama, Comedy, Romance, Animation, Family, Musical </genre>
+		<director>Charlie Bean </director>
 		<label>Positive</label>
-		<percentage>51.85185185185185</percentage>
+		<percentage>55.55555555555556</percentage>
 	</movie>
 	<movie>
 		<title>Ford v Ferrari</title>
 		<num_comments>2016</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Action, Biography, Drama, Sport </genre>
+		<director>James Mangold </director>
 		<label>Positive</label>
-		<percentage>72.0</percentage>
+		<percentage>72.66666666666667</percentage>
 	</movie>
 	<movie>
 		<title>Last Christmas</title>
 		<num_comments>543</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Drama, Comedy, Romance </genre>
+		<director>Paul Feig </director>
 		<label>Positive</label>
-		<percentage>55.64516129032258</percentage>
+		<percentage>57.02479338842975</percentage>
 	</movie>
 	<movie>
 		<title>Doctor Sleep</title>
-		<num_comments>2564</num_comments>
-		<year>2020</year>
+		<num_comments>2563</num_comments>
+		<year>2019</year>
+		<genre>Drama, Thriller, Fantasy, Horror </genre>
+		<director>Mike Flanagan </director>
 		<label>Positive</label>
 		<percentage>65.33333333333333</percentage>
 	</movie>
 	<movie>
 		<title>Motherless Brooklyn</title>
 		<num_comments>222</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Drama, Mystery, Crime </genre>
+		<director>Edward Norton </director>
 		<label>Positive</label>
-		<percentage>66.66666666666666</percentage>
+		<percentage>69.44444444444444</percentage>
 	</movie>
 	<movie>
 		<title>The King</title>
 		<num_comments>1409</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Biography, Drama, History, Romance, War </genre>
+		<director>David Michôd </director>
 		<label>Positive</label>
-		<percentage>66.66666666666666</percentage>
+		<percentage>69.33333333333334</percentage>
 	</movie>
 	<movie>
 		<title>Jojo Rabbit</title>
 		<num_comments>3079</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Drama, Comedy, War </genre>
+		<director>Taika Waititi </director>
 		<label>Positive</label>
-		<percentage>68.66666666666667</percentage>
+		<percentage>70.0</percentage>
 	</movie>
 	<movie>
 		<title>The Current War</title>
 		<num_comments>98</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Biography, Drama, History </genre>
+		<director>Alfonso Gomez-Rejon </director>
 		<label>Positive</label>
-		<percentage>52.94117647058824</percentage>
+		<percentage>58.82352941176471</percentage>
 	</movie>
 	<movie>
 		<title>Dolemite is My Name</title>
-		<num_comments>585</num_comments>
-		<year>2020</year>
+		<num_comments>584</num_comments>
+		<year>2019</year>
+		<genre>Biography, Drama, Comedy </genre>
+		<director>Craig Brewer </director>
 		<label>Positive</label>
-		<percentage>76.19047619047619</percentage>
+		<percentage>76.0</percentage>
 	</movie>
 	<movie>
 		<title>Zombieland: Double Tap</title>
 		<num_comments>1427</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>NULL</genre>
+		<director>NULL</director>
 		<label>Positive</label>
 		<percentage>57.333333333333336</percentage>
 	</movie>
 	<movie>
 		<title>Little Monsters</title>
 		<num_comments>108</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Horror, Comedy </genre>
+		<director>Abe Forsythe </director>
 		<label>Positive</label>
-		<percentage>51.724137931034484</percentage>
+		<percentage>50.0</percentage>
 	</movie>
 	<movie>
 		<title>Mister America</title>
 		<num_comments>36</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Comedy </genre>
+		<director>Eric Notarnicola </director>
 		<label>Positive</label>
-		<percentage>66.66666666666666</percentage>
+		<percentage>64.28571428571429</percentage>
 	</movie>
 	<movie>
 		<title>Judy</title>
 		<num_comments>73</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Biography, Drama, History, Romance, Music, Musical </genre>
+		<director>Rupert Goold </director>
 		<label>Positive</label>
-		<percentage>55.172413793103445</percentage>
+		<percentage>50.0</percentage>
 	</movie>
 	<movie>
 		<title>El Camino: A Breaking Bad Movie</title>
 		<num_comments>6468</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Action, Drama </genre>
+		<director>Vince Gilligan </director>
 		<label>Positive</label>
-		<percentage>54.0</percentage>
+		<percentage>54.666666666666664</percentage>
 	</movie>
 	<movie>
 		<title>The Addams Family</title>
 		<num_comments>161</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Fantasy, Horror, Comedy, Animation, Family </genre>
+		<director>Conrad Vernon and Greg Tiernan </director>
 		<label>Positive</label>
-		<percentage>53.84615384615385</percentage>
+		<percentage>58.139534883720934</percentage>
+	</movie>
+	<movie>
+		<title>Between Two Ferns: The Movie</title>
+		<num_comments>524</num_comments>
+		<year>2019</year>
+		<genre>Comedy </genre>
+		<director>Scott Aukerman </director>
+		<label>Positive</label>
+		<percentage>52.816901408450704</percentage>
 	</movie>
 	<movie>
 		<title>Downton Abbey</title>
 		<num_comments>324</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Drama, Romance </genre>
+		<director>Michael Engler </director>
 		<label>Positive</label>
 		<percentage>63.793103448275865</percentage>
 	</movie>
 	<movie>
 		<title>Hustlers</title>
 		<num_comments>831</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>NULL</genre>
+		<director>NULL</director>
 		<label>Positive</label>
-		<percentage>53.333333333333336</percentage>
+		<percentage>56.00000000000001</percentage>
 	</movie>
 	<movie>
 		<title>Peanut Butter Falcon</title>
-		<num_comments>452</num_comments>
-		<year>2020</year>
+		<num_comments>451</num_comments>
+		<year>2019</year>
+		<genre>Adventure, Drama, Sport, Comedy </genre>
+		<director>Mike Schwartz and Tyler Nilson </director>
 		<label>Positive</label>
-		<percentage>71.73913043478261</percentage>
+		<percentage>71.27659574468085</percentage>
 	</movie>
 	<movie>
 		<title>Ready or Not</title>
 		<num_comments>1558</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Mystery, Thriller, Horror, Comedy </genre>
+		<director>Matt Bettinelli-Olpin and Tyler Gillett </director>
 		<label>Positive</label>
-		<percentage>56.666666666666664</percentage>
+		<percentage>57.333333333333336</percentage>
 	</movie>
 	<movie>
 		<title>Angel Has Fallen</title>
-		<num_comments>394</num_comments>
-		<year>2020</year>
+		<num_comments>393</num_comments>
+		<year>2019</year>
+		<genre>Action, Drama, Thriller </genre>
+		<director>Ric Roman Waugh </director>
 		<label>Positive</label>
-		<percentage>50.79365079365079</percentage>
+		<percentage>52.38095238095239</percentage>
 	</movie>
 	<movie>
 		<title>Invader Zim: Enter the Florpus</title>
 		<num_comments>829</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>NULL</genre>
+		<director>NULL</director>
 		<label>Positive</label>
-		<percentage>54.666666666666664</percentage>
+		<percentage>54.0</percentage>
 	</movie>
 	<movie>
 		<title>Good Boys</title>
 		<num_comments>959</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Adventure, Comedy </genre>
+		<director>Gene Stupnitsky and Lee Eisenberg </director>
 		<label>Positive</label>
-		<percentage>57.99999999999999</percentage>
+		<percentage>60.66666666666667</percentage>
 	</movie>
 	<movie>
 		<title>Blinded by the Light</title>
 		<num_comments>188</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Biography, Drama, Comedy, Music, Musical </genre>
+		<director>Gurinder Chadha </director>
 		<label>Positive</label>
-		<percentage>69.38775510204081</percentage>
+		<percentage>68.62745098039215</percentage>
 	</movie>
 	<movie>
 		<title>The Angry Birds Movie 2</title>
 		<num_comments>67</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>NULL</genre>
+		<director>NULL</director>
 		<label>Positive</label>
-		<percentage>71.42857142857143</percentage>
+		<percentage>69.56521739130434</percentage>
 	</movie>
 	<movie>
 		<title>Dora and the Lost City of Gold</title>
 		<num_comments>429</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Action, Adventure, Family </genre>
+		<director>James Bobin </director>
 		<label>Positive</label>
-		<percentage>61.95652173913043</percentage>
+		<percentage>64.13043478260869</percentage>
 	</movie>
 	<movie>
 		<title>The Art of Racing in the Rain</title>
 		<num_comments>148</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Drama, Sport, Comedy, Romance </genre>
+		<director>Simon Curtis </director>
 		<label>Positive</label>
-		<percentage>55.55555555555556</percentage>
+		<percentage>51.85185185185185</percentage>
 	</movie>
 	<movie>
 		<title>The Farewell</title>
 		<num_comments>593</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Drama, Comedy </genre>
+		<director>Lulu Wang </director>
 		<label>Positive</label>
-		<percentage>62.601626016260155</percentage>
+		<percentage>66.39344262295081</percentage>
 	</movie>
 	<movie>
 		<title>The Art of Self-Defense</title>
 		<num_comments>356</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Action, Drama, Sport, Mystery, Thriller, Comedy, Crime </genre>
+		<director>Riley Stearns </director>
 		<label>Positive</label>
 		<percentage>57.14285714285714</percentage>
 	</movie>
 	<movie>
 		<title>Once Upon a Time in Hollywood</title>
-		<num_comments>21751</num_comments>
-		<year>2020</year>
+		<num_comments>21750</num_comments>
+		<year>2019</year>
+		<genre>Drama, History, Mystery, Thriller, Comedy, Crime </genre>
+		<director>Quentin Tarantino </director>
 		<label>Positive</label>
-		<percentage>56.666666666666664</percentage>
+		<percentage>57.333333333333336</percentage>
 	</movie>
 	<movie>
 		<title>The Last Black Man in San Francisco</title>
 		<num_comments>147</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Drama </genre>
+		<director>Joe Talbot </director>
 		<label>Positive</label>
 		<percentage>75.0</percentage>
 	</movie>
 	<movie>
 		<title>Stuber</title>
 		<num_comments>292</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Action, Thriller, Comedy, Crime </genre>
+		<director>Michael Dowse </director>
 		<label>Positive</label>
-		<percentage>66.66666666666666</percentage>
+		<percentage>66.17647058823529</percentage>
+	</movie>
+	<movie>
+		<title>Midsommar</title>
+		<num_comments>11004</num_comments>
+		<year>2019</year>
+		<genre>Drama, Mystery, Thriller, Horror </genre>
+		<director>Ari Aster </director>
+		<label>Positive</label>
+		<percentage>50.66666666666667</percentage>
 	</movie>
 	<movie>
 		<title>Spider-Man: Far From Home</title>
 		<num_comments>14028</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Action, Adventure, Sci-Fi, Comedy </genre>
+		<director>Jon Watts </director>
 		<label>Positive</label>
-		<percentage>59.333333333333336</percentage>
-	</movie>
-	<movie>
-		<title>Annabelle Comes Home</title>
-		<num_comments>585</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>50.0</percentage>
-	</movie>
-	<movie>
-		<title>Toy Story 4</title>
-		<num_comments>5258</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>50.0</percentage>
+		<percentage>61.33333333333333</percentage>
 	</movie>
 	<movie>
 		<title>Child's Play</title>
 		<num_comments>1106</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Horror </genre>
+		<director>Lars Klevberg </director>
 		<label>Positive</label>
-		<percentage>60.66666666666667</percentage>
+		<percentage>61.33333333333333</percentage>
 	</movie>
 	<movie>
 		<title>Justice League: Part Two</title>
 		<num_comments>61</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>NULL</genre>
+		<director>NULL</director>
 		<label>Positive</label>
 		<percentage>78.57142857142857</percentage>
 	</movie>
 	<movie>
 		<title>Shaft</title>
 		<num_comments>287</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Action, Comedy, Crime </genre>
+		<director>Tim Story </director>
 		<label>Positive</label>
-		<percentage>54.41176470588235</percentage>
+		<percentage>56.060606060606055</percentage>
 	</movie>
 	<movie>
 		<title>Late Night</title>
 		<num_comments>118</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Drama, Comedy </genre>
+		<director>Nisha Ganatra </director>
 		<label>Positive</label>
 		<percentage>55.88235294117647</percentage>
 	</movie>
 	<movie>
 		<title>Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese</title>
 		<num_comments>72</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Biography, Music, Documentary </genre>
+		<director>Martin Scorsese </director>
 		<label>Positive</label>
-		<percentage>68.42105263157895</percentage>
+		<percentage>72.22222222222221</percentage>
 	</movie>
 	<movie>
 		<title>Always Be My Maybe</title>
 		<num_comments>350</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Comedy, Romance </genre>
+		<director>Nahnatchka Khan </director>
 		<label>Positive</label>
-		<percentage>74.19354838709677</percentage>
+		<percentage>75.53191489361703</percentage>
 	</movie>
 	<movie>
 		<title>Rocketman</title>
-		<num_comments>1211</num_comments>
-		<year>2020</year>
+		<num_comments>1210</num_comments>
+		<year>2019</year>
+		<genre>Biography, Drama, Fantasy, Music, Musical </genre>
+		<director>Dexter Fletcher </director>
 		<label>Positive</label>
-		<percentage>74.66666666666667</percentage>
+		<percentage>76.0</percentage>
 	</movie>
 	<movie>
 		<title>Booksmart</title>
 		<num_comments>1531</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Comedy </genre>
+		<director>Olivia Wilde </director>
 		<label>Positive</label>
-		<percentage>72.66666666666667</percentage>
+		<percentage>74.0</percentage>
 	</movie>
 	<movie>
 		<title>Aladdin</title>
 		<num_comments>2892</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Adventure, Fantasy, Comedy, Romance, Family, Musical </genre>
+		<director>Guy Ritchie </director>
 		<label>Positive</label>
 		<percentage>54.666666666666664</percentage>
 	</movie>
 	<movie>
 		<title>Tolkien</title>
 		<num_comments>160</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Biography, Drama, War </genre>
+		<director>Dome Karukoski </director>
 		<label>Positive</label>
-		<percentage>55.55555555555556</percentage>
+		<percentage>55.88235294117647</percentage>
 	</movie>
 	<movie>
 		<title>Long Shot</title>
 		<num_comments>452</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Comedy, Romance </genre>
+		<director>Jonathan Levine </director>
 		<label>Positive</label>
-		<percentage>72.58064516129032</percentage>
+		<percentage>72.95081967213115</percentage>
 	</movie>
 	<movie>
 		<title>Avengers: Endgame</title>
-		<num_comments>89684</num_comments>
-		<year>2020</year>
+		<num_comments>89678</num_comments>
+		<year>2019</year>
+		<genre>Action, Adventure, Sci-Fi, Fantasy </genre>
+		<director>Anthony Russo and Joe Russo </director>
 		<label>Positive</label>
-		<percentage>55.333333333333336</percentage>
+		<percentage>57.333333333333336</percentage>
 	</movie>
 	<movie>
 		<title>Under the Silver Lake</title>
 		<num_comments>363</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Drama, Mystery, Thriller, Comedy, Crime </genre>
+		<director>David Robert Mitchell </director>
 		<label>Positive</label>
-		<percentage>55.55555555555556</percentage>
+		<percentage>54.41176470588235</percentage>
 	</movie>
 	<movie>
 		<title>Missing Link</title>
 		<num_comments>178</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Adventure, Fantasy, Comedy, Animation, Family </genre>
+		<director>Chris Butler </director>
 		<label>Positive</label>
-		<percentage>70.27027027027027</percentage>
+		<percentage>68.42105263157895</percentage>
 	</movie>
 	<movie>
 		<title>The Man Who Killed Don Quixote</title>
 		<num_comments>238</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Adventure, Sci-Fi, Drama, Fantasy, Comedy </genre>
+		<director>Terry Gilliam </director>
 		<label>Positive</label>
-		<percentage>54.166666666666664</percentage>
+		<percentage>54.90196078431373</percentage>
 	</movie>
 	<movie>
 		<title>Unicorn Store</title>
 		<num_comments>322</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Drama, Fantasy, Comedy </genre>
+		<director>Brie Larson </director>
 		<label>Positive</label>
-		<percentage>57.49999999999999</percentage>
+		<percentage>58.108108108108105</percentage>
+	</movie>
+	<movie>
+		<title>Shazam!</title>
+		<num_comments>5732</num_comments>
+		<year>2019</year>
+		<genre>Action, Adventure, Sci-Fi, Fantasy, Comedy </genre>
+		<director>David F. Sandberg </director>
+		<label>Positive</label>
+		<percentage>50.66666666666667</percentage>
 	</movie>
 	<movie>
 		<title>Avengers: Endgame (Official Theories Thread)</title>
 		<num_comments>366</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>NULL</genre>
+		<director>NULL</director>
 		<label>Positive</label>
 		<percentage>50.0</percentage>
 	</movie>
 	<movie>
 		<title>The Highwaymen</title>
 		<num_comments>298</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Biography, Drama, Mystery, Thriller, Crime </genre>
+		<director>John Lee Hancock </director>
 		<label>Positive</label>
-		<percentage>66.66666666666666</percentage>
+		<percentage>69.84126984126983</percentage>
 	</movie>
 	<movie>
 		<title>Dragged Across Concrete</title>
 		<num_comments>758</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Action, Adventure, Drama, Mystery, Thriller, Crime </genre>
+		<director>S. Craig Zahler </director>
 		<label>Positive</label>
-		<percentage>59.32203389830508</percentage>
+		<percentage>65.57377049180327</percentage>
 	</movie>
 	<movie>
 		<title>The Dirt</title>
 		<num_comments>582</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Biography, Drama, Comedy, Music </genre>
+		<director>Jeff Tremaine </director>
 		<label>Positive</label>
-		<percentage>54.36893203883495</percentage>
+		<percentage>55.44554455445545</percentage>
 	</movie>
 	<movie>
 		<title>Wonder Park</title>
 		<num_comments>62</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Adventure, Fantasy, Comedy, Animation, Family </genre>
+		<director>David Feiss and Dylan Brown </director>
 		<label>Positive</label>
 		<percentage>54.54545454545454</percentage>
 	</movie>
 	<movie>
 		<title>Apollo 11</title>
 		<num_comments>293</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>History, Documentary </genre>
+		<director>Todd Douglas Miller </director>
 		<label>Positive</label>
-		<percentage>76.19047619047619</percentage>
+		<percentage>80.64516129032258</percentage>
 	</movie>
 	<movie>
 		<title>Arctic</title>
 		<num_comments>212</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Adventure, Drama </genre>
+		<director>Joe Penna </director>
 		<label>Positive</label>
-		<percentage>50.0</percentage>
+		<percentage>54.285714285714285</percentage>
+	</movie>
+	<movie>
+		<title>How to Train Your Dragon: The Hidden World (US Release)</title>
+		<num_comments>668</num_comments>
+		<year>2019</year>
+		<genre>Action, Adventure, Fantasy, Comedy, Animation, Family </genre>
+		<director>Dean DeBlois </director>
+		<label>Positive</label>
+		<percentage>50.66666666666667</percentage>
 	</movie>
 	<movie>
 		<title>Fighting With My Family</title>
 		<num_comments>432</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Biography, Drama, Sport, Comedy </genre>
+		<director>Stephen Merchant </director>
 		<label>Positive</label>
-		<percentage>56.060606060606055</percentage>
+		<percentage>60.60606060606061</percentage>
 	</movie>
 	<movie>
 		<title>Happy Death Day 2U</title>
 		<num_comments>620</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Sci-Fi, Drama, Mystery, Thriller, Horror, Comedy </genre>
+		<director>Christopher B. Landon </director>
 		<label>Positive</label>
-		<percentage>53.04347826086957</percentage>
+		<percentage>54.310344827586206</percentage>
 	</movie>
 	<movie>
 		<title>Isn't It Romantic</title>
 		<num_comments>206</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Fantasy, Comedy, Romance </genre>
+		<director>Todd Strauss-Schulson </director>
 		<label>Positive</label>
-		<percentage>65.51724137931035</percentage>
+		<percentage>66.66666666666666</percentage>
 	</movie>
 	<movie>
 		<title>Alita: Battle Angel</title>
-		<num_comments>4640</num_comments>
-		<year>2020</year>
+		<num_comments>4638</num_comments>
+		<year>2019</year>
+		<genre>Action, Adventure, Sci-Fi, Thriller, Romance </genre>
+		<director>Robert Rodriguez </director>
 		<label>Positive</label>
-		<percentage>70.0</percentage>
+		<percentage>72.66666666666667</percentage>
 	</movie>
 	<movie>
 		<title>What Men Want</title>
 		<num_comments>74</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Fantasy, Comedy, Romance </genre>
+		<director>Adam Shankman and Nancy Meyers </director>
 		<label>Positive</label>
 		<percentage>62.5</percentage>
 	</movie>
 	<movie>
 		<title>The LEGO Movie 2: The Second Part</title>
 		<num_comments>1034</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Action, Adventure, Fantasy, Comedy, Animation, Family, Musical </genre>
+		<director>Mike Mitchell </director>
 		<label>Positive</label>
-		<percentage>53.333333333333336</percentage>
+		<percentage>56.666666666666664</percentage>
 	</movie>
 	<movie>
 		<title>Polar</title>
 		<num_comments>803</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Action, Drama, Thriller, Crime </genre>
+		<director>Jonas Åkerlund </director>
 		<label>Positive</label>
-		<percentage>50.66666666666667</percentage>
+		<percentage>54.0</percentage>
 	</movie>
 	<movie>
 		<title>The Kid Who Would Be King</title>
 		<num_comments>112</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Action, Adventure, Fantasy, Family </genre>
+		<director>Joe Cornish </director>
 		<label>Positive</label>
-		<percentage>68.96551724137932</percentage>
+		<percentage>70.0</percentage>
 	</movie>
 	<movie>
 		<title>Dragon Ball Super: Broly</title>
 		<num_comments>1779</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Action, Adventure, Sci-Fi, Fantasy, Animation, Family </genre>
+		<director>Tatsuya Nagamine </director>
 		<label>Positive</label>
-		<percentage>67.33333333333333</percentage>
+		<percentage>68.0</percentage>
 	</movie>
 	<movie>
 		<title>Glass</title>
 		<num_comments>4951</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Action, Sci-Fi, Drama, Mystery, Thriller, Horror </genre>
+		<director>M. Night Shyamalan </director>
 		<label>Positive</label>
 		<percentage>52.0</percentage>
 	</movie>
 	<movie>
 		<title>The Upside</title>
 		<num_comments>232</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Drama, Comedy </genre>
+		<director>Neil Burger </director>
 		<label>Positive</label>
-		<percentage>66.66666666666666</percentage>
+		<percentage>71.15384615384616</percentage>
 	</movie>
 	<movie>
 		<title>On the Basis of Sex</title>
 		<num_comments>127</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Biography, Drama </genre>
+		<director>Mimi Leder </director>
 		<label>Positive</label>
-		<percentage>62.5</percentage>
+		<percentage>64.51612903225806</percentage>
 	</movie>
 	<movie>
 		<title>If Beale Street Could Talk</title>
 		<num_comments>272</num_comments>
-		<year>2020</year>
+		<year>2019</year>
+		<genre>Drama, Romance, Crime </genre>
+		<director>Barry Jenkins </director>
 		<label>Positive</label>
-		<percentage>65.15151515151516</percentage>
+		<percentage>65.67164179104478</percentage>
 	</movie>
 	<movie>
 		<title>The Croods 2</title>
-		<num_comments>39</num_comments>
+		<num_comments>40</num_comments>
 		<year>2020</year>
+		<genre>Adventure, Fantasy, Comedy, Animation, Family </genre>
+		<director>Joel Crawford </director>
 		<label>Positive</label>
-		<percentage>91.66666666666666</percentage>
-	</movie>
-	<movie>
-		<title>News of the World</title>
-		<num_comments>54</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>50.0</percentage>
+		<percentage>86.66666666666667</percentage>
 	</movie>
 	<movie>
 		<title>We Can Be Heroes</title>
-		<num_comments>180</num_comments>
+		<num_comments>189</num_comments>
 		<year>2020</year>
+		<genre>Action, Drama, Fantasy, Comedy, Family </genre>
+		<director>Robert Rodriguez </director>
 		<label>Positive</label>
-		<percentage>56.41025641025641</percentage>
+		<percentage>60.526315789473685</percentage>
 	</movie>
 	<movie>
 		<title>Promising Young Woman</title>
-		<num_comments>719</num_comments>
+		<num_comments>1528</num_comments>
 		<year>2020</year>
+		<genre>Drama, Thriller, Comedy, Crime </genre>
+		<director>Emerald Fennell </director>
 		<label>Positive</label>
-		<percentage>51.21951219512195</percentage>
+		<percentage>55.333333333333336</percentage>
 	</movie>
 	<movie>
 		<title>Soul</title>
-		<num_comments>4829</num_comments>
+		<num_comments>4901</num_comments>
 		<year>2020</year>
+		<genre>Adventure, Sci-Fi, Fantasy, Comedy, Music, Animation, Family </genre>
+		<director>Kemp Powers and Pete Docter </director>
 		<label>Positive</label>
 		<percentage>69.33333333333334</percentage>
 	</movie>
 	<movie>
 		<title>Another Round</title>
-		<num_comments>206</num_comments>
+		<num_comments>224</num_comments>
 		<year>2020</year>
+		<genre>Drama </genre>
+		<director>Thomas Vinterberg </director>
 		<label>Positive</label>
-		<percentage>75.60975609756098</percentage>
+		<percentage>72.91666666666666</percentage>
 	</movie>
 	<movie>
 		<title>Ma Rainey's Black Bottom</title>
-		<num_comments>279</num_comments>
+		<num_comments>293</num_comments>
 		<year>2020</year>
+		<genre>Drama, Music </genre>
+		<director>George C. Wolfe </director>
 		<label>Positive</label>
-		<percentage>62.295081967213115</percentage>
+		<percentage>60.60606060606061</percentage>
 	</movie>
 	<movie>
 		<title>Let Them All Talk</title>
-		<num_comments>98</num_comments>
+		<num_comments>102</num_comments>
 		<year>2020</year>
+		<genre>Drama, Comedy </genre>
+		<director>Steven Soderbergh </director>
 		<label>Positive</label>
-		<percentage>66.66666666666666</percentage>
+		<percentage>58.333333333333336</percentage>
 	</movie>
 	<movie>
 		<title>Wolfwalkers</title>
-		<num_comments>99</num_comments>
+		<num_comments>106</num_comments>
 		<year>2020</year>
+		<genre>Adventure, Fantasy, Animation, Family </genre>
+		<director>Ross Stewart and Tomm Moore </director>
 		<label>Positive</label>
-		<percentage>78.26086956521739</percentage>
+		<percentage>78.57142857142857</percentage>
 	</movie>
 	<movie>
 		<title>Godmothered</title>
 		<num_comments>48</num_comments>
 		<year>2020</year>
+		<genre>Fantasy, Comedy </genre>
+		<director>Sharon Maguire </director>
 		<label>Positive</label>
 		<percentage>62.5</percentage>
 	</movie>
 	<movie>
 		<title>Black Bear</title>
-		<num_comments>152</num_comments>
+		<num_comments>163</num_comments>
 		<year>2020</year>
+		<genre>Drama, Comedy </genre>
+		<director>Lawrence Michael Levine </director>
 		<label>Positive</label>
-		<percentage>52.63157894736842</percentage>
+		<percentage>53.48837209302325</percentage>
 	</movie>
 	<movie>
 		<title>Sound of Metal</title>
-		<num_comments>589</num_comments>
+		<num_comments>594</num_comments>
 		<year>2020</year>
+		<genre>Drama, Music </genre>
+		<director>Darius Marder </director>
 		<label>Positive</label>
-		<percentage>72.72727272727273</percentage>
+		<percentage>72.80701754385966</percentage>
 	</movie>
 	<movie>
 		<title>Small Axe: Lover's Rock</title>
-		<num_comments>46</num_comments>
+		<num_comments>48</num_comments>
 		<year>2020</year>
+		<genre>Drama </genre>
+		<director>Steve McQueen </director>
 		<label>Positive</label>
-		<percentage>78.57142857142857</percentage>
+		<percentage>73.33333333333333</percentage>
 	</movie>
 	<movie>
 		<title>Superintelligence</title>
-		<num_comments>36</num_comments>
+		<num_comments>37</num_comments>
 		<year>2020</year>
+		<genre>Action, Sci-Fi, Comedy, Romance </genre>
+		<director>Ben Falcone </director>
 		<label>Positive</label>
-		<percentage>66.66666666666666</percentage>
+		<percentage>62.5</percentage>
 	</movie>
 	<movie>
 		<title>Fatman</title>
-		<num_comments>188</num_comments>
+		<num_comments>189</num_comments>
 		<year>2020</year>
+		<genre>Comedy </genre>
+		<director>Eshom Nelms and Ian Nelms </director>
 		<label>Positive</label>
-		<percentage>73.17073170731707</percentage>
+		<percentage>81.57894736842105</percentage>
 	</movie>
 	<movie>
 		<title>Small Axe: Mangrove</title>
 		<num_comments>40</num_comments>
 		<year>2020</year>
+		<genre>Drama </genre>
+		<director>Steve McQueen </director>
 		<label>Positive</label>
-		<percentage>73.33333333333333</percentage>
+		<percentage>71.42857142857143</percentage>
 	</movie>
 	<movie>
 		<title>Run</title>
 		<num_comments>331</num_comments>
 		<year>2020</year>
+		<genre>Mystery, Thriller, Horror </genre>
+		<director>Aneesh Chaganty </director>
 		<label>Positive</label>
-		<percentage>62.5</percentage>
+		<percentage>64.91228070175438</percentage>
 	</movie>
 	<movie>
 		<title>Freaky</title>
-		<num_comments>174</num_comments>
+		<num_comments>178</num_comments>
 		<year>2020</year>
+		<genre>Thriller, Horror, Comedy </genre>
+		<director>Christopher B. Landon </director>
 		<label>Positive</label>
-		<percentage>69.6969696969697</percentage>
+		<percentage>65.71428571428571</percentage>
 	</movie>
 	<movie>
 		<title>Let Him Go</title>
 		<num_comments>71</num_comments>
 		<year>2020</year>
+		<genre>Drama, Thriller, Crime </genre>
+		<director>Thomas Bezucha </director>
 		<label>Positive</label>
-		<percentage>72.22222222222221</percentage>
+		<percentage>76.47058823529412</percentage>
 	</movie>
 	<movie>
 		<title>Bad Hair</title>
 		<num_comments>40</num_comments>
 		<year>2020</year>
+		<genre>Horror, Comedy </genre>
+		<director>Justin Simien </director>
 		<label>Positive</label>
 		<percentage>50.0</percentage>
 	</movie>
 	<movie>
 		<title>Over The Moon</title>
-		<num_comments>139</num_comments>
+		<num_comments>140</num_comments>
 		<year>2020</year>
+		<genre>Adventure, Sci-Fi, Fantasy, Comedy, Animation, Family, Musical </genre>
+		<director>Glen Keane and John Kahrs </director>
 		<label>Positive</label>
-		<percentage>54.54545454545454</percentage>
+		<percentage>55.55555555555556</percentage>
+	</movie>
+	<movie>
+		<title>Borat Subsequent Moviefilm</title>
+		<num_comments>8369</num_comments>
+		<year>2020</year>
+		<genre>Comedy </genre>
+		<director>Jason Woliner </director>
+		<label>Positive</label>
+		<percentage>50.66666666666667</percentage>
 	</movie>
 	<movie>
 		<title>David Byrne's American Utopia</title>
 		<num_comments>53</num_comments>
 		<year>2020</year>
+		<genre>Music, Musical, Documentary </genre>
+		<director>Spike Lee </director>
 		<label>Positive</label>
 		<percentage>85.71428571428571</percentage>
 	</movie>
 	<movie>
-		<title>The Wolf of Snow Hollow</title>
-		<num_comments>199</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>50.0</percentage>
-	</movie>
-	<movie>
 		<title>Love and Monsters</title>
-		<num_comments>428</num_comments>
+		<num_comments>442</num_comments>
 		<year>2020</year>
+		<genre>Action, Adventure, Sci-Fi, Fantasy, Comedy </genre>
+		<director>Michael Matthews </director>
 		<label>Positive</label>
-		<percentage>79.66101694915254</percentage>
+		<percentage>80.64516129032258</percentage>
 	</movie>
 	<movie>
 		<title>The Trial of the Chicago 7</title>
-		<num_comments>1241</num_comments>
+		<num_comments>1240</num_comments>
 		<year>2020</year>
+		<genre>Drama, History, Thriller </genre>
+		<director>Aaron Sorkin </director>
 		<label>Positive</label>
 		<percentage>67.33333333333333</percentage>
 	</movie>
@@ -2601,139 +3631,188 @@
 		<title>Spontaneous</title>
 		<num_comments>41</num_comments>
 		<year>2020</year>
+		<genre>Sci-Fi, Fantasy, Comedy </genre>
+		<director>Brian Duffield </director>
 		<label>Positive</label>
-		<percentage>77.77777777777779</percentage>
+		<percentage>70.0</percentage>
 	</movie>
 	<movie>
 		<title>Hubie Halloween</title>
 		<num_comments>354</num_comments>
 		<year>2020</year>
+		<genre>Comedy </genre>
+		<director>Steven Brill </director>
 		<label>Positive</label>
-		<percentage>56.75675675675676</percentage>
+		<percentage>56.33802816901409</percentage>
 	</movie>
 	<movie>
 		<title>Save Yourselves!</title>
-		<num_comments>58</num_comments>
+		<num_comments>84</num_comments>
 		<year>2020</year>
+		<genre>Sci-Fi, Comedy </genre>
+		<director>Alex Huston Fischer and Eleanor Wilson </director>
 		<label>Positive</label>
-		<percentage>54.54545454545454</percentage>
+		<percentage>57.14285714285714</percentage>
+	</movie>
+	<movie>
+		<title>Enola Holmes</title>
+		<num_comments>1279</num_comments>
+		<year>2020</year>
+		<genre>Action, Adventure, Drama, Mystery, Crime </genre>
+		<director>Harry Bradbeer </director>
+		<label>Positive</label>
+		<percentage>50.83333333333333</percentage>
 	</movie>
 	<movie>
 		<title>The Devil All the Time</title>
-		<num_comments>2470</num_comments>
+		<num_comments>2468</num_comments>
 		<year>2020</year>
+		<genre>Drama, Thriller, Horror, Crime </genre>
+		<director>Antonio Campos </director>
 		<label>Positive</label>
-		<percentage>56.00000000000001</percentage>
+		<percentage>56.666666666666664</percentage>
 	</movie>
 	<movie>
 		<title>The Babysitter: Killer Queen</title>
-		<num_comments>512</num_comments>
+		<num_comments>527</num_comments>
 		<year>2020</year>
+		<genre>Horror, Comedy </genre>
+		<director>McG </director>
 		<label>Positive</label>
-		<percentage>52.68817204301075</percentage>
+		<percentage>51.48514851485149</percentage>
 	</movie>
 	<movie>
 		<title>Unpregnant</title>
-		<num_comments>72</num_comments>
+		<num_comments>73</num_comments>
 		<year>2020</year>
+		<genre>Drama, Comedy </genre>
+		<director>Rachel Lee Goldenberg </director>
 		<label>Positive</label>
-		<percentage>63.63636363636363</percentage>
+		<percentage>81.81818181818183</percentage>
 	</movie>
 	<movie>
 		<title>The Personal History of David Copperfield</title>
 		<num_comments>52</num_comments>
 		<year>2020</year>
+		<genre>Drama, Comedy </genre>
+		<director>Armando Iannucci </director>
 		<label>Positive</label>
-		<percentage>57.89473684210527</percentage>
+		<percentage>63.1578947368421</percentage>
 	</movie>
 	<movie>
 		<title>Phineas and Ferb The Movie: Candace Against the Universe</title>
 		<num_comments>74</num_comments>
 		<year>2020</year>
+		<genre>Adventure, Sci-Fi, Comedy, Animation, Family, Musical </genre>
+		<director>Bob Bowen </director>
 		<label>Positive</label>
-		<percentage>63.1578947368421</percentage>
+		<percentage>65.0</percentage>
 	</movie>
 	<movie>
 		<title>Bill and Ted Face the Music</title>
-		<num_comments>1551</num_comments>
+		<num_comments>1549</num_comments>
 		<year>2020</year>
+		<genre>Adventure, Sci-Fi, Comedy, Music </genre>
+		<director>Dean Parisot </director>
 		<label>Positive</label>
-		<percentage>60.40268456375839</percentage>
+		<percentage>62.66666666666667</percentage>
 	</movie>
 	<movie>
 		<title>The One and Only Ivan</title>
 		<num_comments>29</num_comments>
 		<year>2020</year>
+		<genre>Adventure, Drama, Fantasy, Comedy, Animation, Family </genre>
+		<director>Thea Sharrock </director>
 		<label>Positive</label>
-		<percentage>54.54545454545454</percentage>
+		<percentage>50.0</percentage>
 	</movie>
 	<movie>
 		<title>Black is King</title>
-		<num_comments>311</num_comments>
+		<num_comments>309</num_comments>
 		<year>2020</year>
+		<genre>Music </genre>
+		<director>Beyoncé Knowles </director>
 		<label>Positive</label>
-		<percentage>51.85185185185185</percentage>
+		<percentage>55.55555555555556</percentage>
 	</movie>
 	<movie>
 		<title>Yes God Yes</title>
-		<num_comments>113</num_comments>
+		<num_comments>112</num_comments>
 		<year>2020</year>
+		<genre>Drama, Comedy </genre>
+		<director>Karen Maine </director>
 		<label>Positive</label>
-		<percentage>55.88235294117647</percentage>
+		<percentage>58.82352941176471</percentage>
 	</movie>
 	<movie>
 		<title>First Cow</title>
-		<num_comments>75</num_comments>
+		<num_comments>77</num_comments>
 		<year>2020</year>
+		<genre>Drama </genre>
+		<director>Kelly Reichardt </director>
 		<label>Positive</label>
-		<percentage>64.70588235294117</percentage>
+		<percentage>75.0</percentage>
 	</movie>
 	<movie>
 		<title>Palm Springs</title>
 		<num_comments>2688</num_comments>
 		<year>2020</year>
+		<genre>Mystery, Fantasy, Comedy, Romance </genre>
+		<director>Max Barbakow </director>
 		<label>Positive</label>
-		<percentage>61.33333333333333</percentage>
+		<percentage>62.0</percentage>
 	</movie>
 	<movie>
 		<title>Greyhound</title>
-		<num_comments>676</num_comments>
+		<num_comments>674</num_comments>
 		<year>2020</year>
+		<genre>Action, Drama, History, War </genre>
+		<director>Aaron Schneider </director>
 		<label>Positive</label>
-		<percentage>54.90196078431373</percentage>
+		<percentage>54.285714285714285</percentage>
 	</movie>
 	<movie>
 		<title>Hamilton</title>
-		<num_comments>2577</num_comments>
+		<num_comments>2574</num_comments>
 		<year>2020</year>
+		<genre>Biography, Drama, History, Musical </genre>
+		<director>Thomas Kail </director>
 		<label>Positive</label>
-		<percentage>71.33333333333334</percentage>
+		<percentage>74.66666666666667</percentage>
 	</movie>
 	<movie>
 		<title>My Spy</title>
 		<num_comments>39</num_comments>
 		<year>2020</year>
+		<genre>Action, Comedy, Family </genre>
+		<director>Peter Segal </director>
 		<label>Positive</label>
-		<percentage>83.33333333333334</percentage>
+		<percentage>81.81818181818183</percentage>
 	</movie>
 	<movie>
 		<title>Eurovision Song Contest: The Story of Fire Saga</title>
-		<num_comments>1095</num_comments>
+		<num_comments>1094</num_comments>
 		<year>2020</year>
+		<genre>Comedy, Music </genre>
+		<director>David Dobkin </director>
 		<label>Positive</label>
-		<percentage>70.0</percentage>
+		<percentage>70.66666666666667</percentage>
 	</movie>
 	<movie>
 		<title>The King of Staten Island</title>
 		<num_comments>866</num_comments>
 		<year>2020</year>
+		<genre>Drama, Comedy </genre>
+		<director>Judd Apatow </director>
 		<label>Positive</label>
-		<percentage>68.0</percentage>
+		<percentage>70.66666666666667</percentage>
 	</movie>
 	<movie>
 		<title>Shirley</title>
 		<num_comments>37</num_comments>
 		<year>2020</year>
+		<genre>Biography, Drama, Thriller </genre>
+		<director>Josephine Decker </director>
 		<label>Positive</label>
 		<percentage>50.0</percentage>
 	</movie>
@@ -2741,20 +3820,26 @@
 		<title>The Lovebirds</title>
 		<num_comments>212</num_comments>
 		<year>2020</year>
+		<genre>Action, Drama, Mystery, Thriller, Comedy, Romance, Crime </genre>
+		<director>Michael Showalter </director>
 		<label>Positive</label>
-		<percentage>50.70422535211267</percentage>
+		<percentage>50.0</percentage>
 	</movie>
 	<movie>
 		<title>Bad Education</title>
 		<num_comments>223</num_comments>
 		<year>2020</year>
+		<genre>Biography, Drama, Comedy, Crime </genre>
+		<director>Cory Finley </director>
 		<label>Positive</label>
-		<percentage>55.55555555555556</percentage>
+		<percentage>52.17391304347826</percentage>
 	</movie>
 	<movie>
 		<title>The Willoughbys</title>
 		<num_comments>70</num_comments>
 		<year>2020</year>
+		<genre>Adventure, Comedy, Animation, Family </genre>
+		<director>Cory Evans and Kris Pearn and Rob Lodermeier </director>
 		<label>Positive</label>
 		<percentage>50.0</percentage>
 	</movie>
@@ -2762,6 +3847,8 @@
 		<title>True History of the Kelly Gang</title>
 		<num_comments>27</num_comments>
 		<year>2020</year>
+		<genre>Action, Biography, Drama, Crime, Western </genre>
+		<director>Justin Kurzel </director>
 		<label>Positive</label>
 		<percentage>50.0</percentage>
 	</movie>
@@ -2769,41 +3856,53 @@
 		<title>Extraction</title>
 		<num_comments>1903</num_comments>
 		<year>2020</year>
+		<genre>Action, Adventure, Drama, Thriller, Crime </genre>
+		<director>Sam Hargrave </director>
 		<label>Positive</label>
-		<percentage>60.0</percentage>
+		<percentage>62.0</percentage>
 	</movie>
 	<movie>
 		<title>Swallow</title>
 		<num_comments>60</num_comments>
 		<year>2020</year>
+		<genre>Drama, Thriller, Horror </genre>
+		<director>Carlo Mirabella-Davis </director>
 		<label>Positive</label>
-		<percentage>75.0</percentage>
+		<percentage>68.75</percentage>
 	</movie>
 	<movie>
 		<title>Trolls World Tour</title>
 		<num_comments>299</num_comments>
 		<year>2020</year>
+		<genre>Action, Adventure, Fantasy, Comedy, Animation, Family, Musical </genre>
+		<director>Daron Nefcy and David P. Smith and Lee Unkrich and Mike Mitchell and Walt Dohrn </director>
 		<label>Positive</label>
-		<percentage>52.38095238095239</percentage>
+		<percentage>50.0</percentage>
 	</movie>
 	<movie>
 		<title>Never Rarely Sometimes Always</title>
 		<num_comments>71</num_comments>
 		<year>2020</year>
+		<genre>Drama </genre>
+		<director>Eliza Hittman </director>
 		<label>Positive</label>
-		<percentage>76.19047619047619</percentage>
+		<percentage>77.27272727272727</percentage>
 	</movie>
 	<movie>
 		<title>Blow the Man Down</title>
 		<num_comments>67</num_comments>
 		<year>2020</year>
+		<genre>Drama, Mystery, Thriller, Comedy </genre>
+		<director>Bridget Savage Cole and Danielle Krudy </director>
 		<label>Positive</label>
-		<percentage>57.14285714285714</percentage>
+		<percentage>53.84615384615385</percentage>
 	</movie>
 	<movie>
 		<title>The Jesus Rolls</title>
 		<num_comments>45</num_comments>
 		<year>2020</year>
+		<genre>Drama, Comedy, Romance, Crime </genre>
+		<director>John Turturro </director>
 		<label>Positive</label>
 		<percentage>50.0</percentage>
 	</movie>
@@ -2811,20 +3910,26 @@
 		<title>The Hunt</title>
 		<num_comments>1160</num_comments>
 		<year>2020</year>
+		<genre>Action, Thriller, Horror </genre>
+		<director>Craig Zobel </director>
 		<label>Positive</label>
-		<percentage>53.333333333333336</percentage>
+		<percentage>54.666666666666664</percentage>
 	</movie>
 	<movie>
 		<title>The Way Back</title>
 		<num_comments>269</num_comments>
 		<year>2020</year>
+		<genre>Drama, Sport </genre>
+		<director>Gavin O'Connor </director>
 		<label>Positive</label>
-		<percentage>66.66666666666666</percentage>
+		<percentage>64.58333333333334</percentage>
 	</movie>
 	<movie>
 		<title>Onward</title>
 		<num_comments>1357</num_comments>
 		<year>2020</year>
+		<genre>Adventure, Drama, Fantasy, Comedy, Animation, Family </genre>
+		<director>Dan Scanlon </director>
 		<label>Positive</label>
 		<percentage>67.33333333333333</percentage>
 	</movie>
@@ -2832,91 +3937,108 @@
 		<title>Emma</title>
 		<num_comments>262</num_comments>
 		<year>2020</year>
+		<genre>Drama, Comedy </genre>
+		<director>Autumn de Wilde </director>
 		<label>Positive</label>
-		<percentage>78.87323943661971</percentage>
+		<percentage>80.28169014084507</percentage>
 	</movie>
 	<movie>
 		<title>Portrait of a Lady on Fire</title>
 		<num_comments>516</num_comments>
 		<year>2020</year>
+		<genre>Drama, History, Romance </genre>
+		<director>Céline Sciamma </director>
 		<label>Positive</label>
-		<percentage>63.70370370370371</percentage>
+		<percentage>65.69343065693431</percentage>
 	</movie>
 	<movie>
 		<title>The Invisible Man</title>
-		<num_comments>5131</num_comments>
+		<num_comments>5130</num_comments>
 		<year>2020</year>
+		<genre>Action, Sci-Fi, Drama, Mystery, Thriller, Horror </genre>
+		<director>Leigh Whannell </director>
 		<label>Positive</label>
-		<percentage>56.00000000000001</percentage>
+		<percentage>56.666666666666664</percentage>
 	</movie>
 	<movie>
 		<title>The Call of the Wild</title>
 		<num_comments>363</num_comments>
 		<year>2020</year>
+		<genre>Adventure, Drama, Animation, Family </genre>
+		<director>Chris Sanders </director>
 		<label>Positive</label>
-		<percentage>54.83870967741935</percentage>
+		<percentage>54.23728813559322</percentage>
 	</movie>
 	<movie>
 		<title>Sonic the Hedgehog</title>
 		<num_comments>2737</num_comments>
 		<year>2020</year>
+		<genre>Action, Adventure, Sci-Fi, Fantasy, Comedy, Crime, Animation, Family </genre>
+		<director>Jeff Fowler </director>
 		<label>Positive</label>
-		<percentage>60.0</percentage>
+		<percentage>61.33333333333333</percentage>
 	</movie>
 	<movie>
 		<title>The Photograph</title>
 		<num_comments>73</num_comments>
 		<year>2020</year>
+		<genre>Drama, Romance </genre>
+		<director>Stella Meghie </director>
 		<label>Positive</label>
 		<percentage>61.111111111111114</percentage>
-	</movie>
-	<movie>
-		<title>The Last Full Measure</title>
-		<num_comments>38</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>50.0</percentage>
 	</movie>
 	<movie>
 		<title>The Gentlemen</title>
 		<num_comments>1217</num_comments>
 		<year>2020</year>
+		<genre>Action, Comedy, Crime </genre>
+		<director>Guy Ritchie </director>
 		<label>Positive</label>
-		<percentage>58.666666666666664</percentage>
-	</movie>
-	<movie>
-		<title>Weathering With You</title>
-		<num_comments>506</num_comments>
-		<year>2020</year>
-		<label>Positive</label>
-		<percentage>50.63291139240506</percentage>
+		<percentage>59.333333333333336</percentage>
 	</movie>
 	<movie>
 		<title>Bad Boys for Life</title>
 		<num_comments>1306</num_comments>
 		<year>2020</year>
+		<genre>Action, Thriller, Comedy, Crime </genre>
+		<director>Adil El Arbi and Bilall Fallah </director>
 		<label>Positive</label>
-		<percentage>55.333333333333336</percentage>
+		<percentage>56.00000000000001</percentage>
 	</movie>
 	<movie>
 		<title>Underwater</title>
 		<num_comments>1233</num_comments>
 		<year>2020</year>
+		<genre>Action, Sci-Fi, Drama, Mystery, Thriller, Horror </genre>
+		<director>William Eubank </director>
 		<label>Positive</label>
-		<percentage>54.0</percentage>
+		<percentage>54.666666666666664</percentage>
+	</movie>
+	<movie>
+		<title>Like a Boss</title>
+		<num_comments>149</num_comments>
+		<year>2020</year>
+		<genre>Comedy </genre>
+		<director>Miguel Arteta </director>
+		<label>Positive</label>
+		<percentage>50.0</percentage>
 	</movie>
 	<movie>
 		<title>Just Mercy</title>
 		<num_comments>221</num_comments>
 		<year>2020</year>
+		<genre>Biography, Drama, Crime </genre>
+		<director>Destin Cretton </director>
 		<label>Positive</label>
-		<percentage>68.62745098039215</percentage>
+		<percentage>68.0</percentage>
 	</movie>
 	<movie>
 		<title>1917</title>
 		<num_comments>6518</num_comments>
 		<year>2020</year>
+		<genre>Drama, War </genre>
+		<director>Sam Mendes </director>
 		<label>Positive</label>
-		<percentage>60.0</percentage>
+		<percentage>60.66666666666667</percentage>
 	</movie>
 </movies>

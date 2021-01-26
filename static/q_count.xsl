@@ -18,6 +18,7 @@
                 <xsl:for-each select="words/word">
                 <!--enter the condition here-->
                 <!-- <xsl:if test="label='Positive'"> -->
+                <xsl:sort select="count" data-type="number" order="descending"/>
                 <xsl:if test="count &gt;60">
                     <tr>
                         <td><xsl:value-of select="name"/></td>

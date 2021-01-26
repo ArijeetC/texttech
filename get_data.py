@@ -2,6 +2,7 @@ import json, configparser, re, datetime, time
 import requests
 import praw
 from praw.models import MoreComments
+from bs4 import BeautifulSoup
 
 config = configparser.ConfigParser()
 config.read("config.ini")
@@ -20,16 +21,45 @@ password = config.get("SECRETS", "PASSWORD")
 client_id = config.get("SECRETS", "CLIENT_ID")
 client_secret = config.get("SECRETS", "CLIENT_SECRET")
 
+headers = requests.utils.default_headers()
+headers.update({ 'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0'})
+
 reddit = praw.Reddit(client_id=client_id,
                     client_secret=client_secret,
                     user_agent='Test-bot',
                     username=username,
                     password=password)
 
+def clean_text(text):
+    clean_pattern = re.compile("["
+                               u"\U0001F600-\U0001F64F"  # emoticons
+                               u"\U0001F300-\U0001F5FF"  # symbols & pictographs
+                               u"\U0001F680-\U0001F6FF"  # transport & map symbols
+                               u"\U0001F1E0-\U0001F1FF"  # flags (iOS)
+                               u"\U00002500-\U00002BEF"  # chinese char
+                               u"\U00002702-\U000027B0"
+                               u"\U00002702-\U000027B0"
+                               u"\U000024C2-\U0001F251"
+                               u"\U0001f926-\U0001f937"
+                               u"\U00010000-\U0010ffff"
+                               u"\u2640-\u2642"
+                               u"\u2600-\u2B55"
+                               u"\u200d"
+                               u"\u23cf"
+                               u"\u23e9"
+                               u"\u231a"
+                               u"\ufe0f"  # dingbats
+                               u"\u3030"
+                               "]+|\n|(\*)|(\(http(s)*.*\))|\[|\]", flags=re.UNICODE)
+    text = clean_pattern.sub(r' ',text)
+    text = re.sub(r"\s+", " ", text)
+    text = re.sub(r"\s+\.", ".", text)
+    return text
+
 # Fetch all posts data from the Pushshift API
 def get_reddit_posts(**kwargs):
     url = "https://api.pushshift.io/reddit/submission/search/"
-    r = requests.get(url, params=kwargs)
+    r = requests.get(url, params=kwargs, headers=headers)
     return r.json()["data"]
 
 # Get the post IDs of all the movie discussion posts
@@ -67,6 +97,50 @@ def get_reddit_post_ids(after, before, subreddit, title):
             post_ids.append(id)
     return post_ids
 
+def get_comment_from_pushshift(id):
+    url = "https://api.pushshift.io/reddit/search/comment/?ids="+str(id)
+    r = requests.get(url, headers=headers)
+    try:
+        body = r.json()["data"][0]["body"]
+    except Exception as exp:
+        print(f"Error {str(exp)}")
+        print(id)
+        body = "NULL"
+    return body
+
+def get_comment_body(comment):
+    body = comment.body
+    if body == "[deleted]" or body == "[removed]":
+        time.sleep(1)
+        body = get_comment_from_pushshift(comment.id)
+    return clean_text(body)
+
+def get_movie_details(submission):
+    text = submission.selftext
+    genre, director = "NULL", "NULL"
+    try:
+        # url_regex = re.compile("(?<=\()http:\/\/www.rottentomatoes.com.*(?=\))")
+        url_regex = re.compile("(?<=\()http(s)*:\/\/www.metacritic.com.*(?=\))")
+        url = url_regex.search(text).group(0)
+
+        time.sleep(1)
+        req = requests.get(url, headers=headers)
+        soup = BeautifulSoup(req.content, 'html.parser')
+
+        for divtag in soup.find_all("div", {"class": "details_section"}):
+            for div in divtag.find_all("div"):
+                text = div.text.replace("\n", "")
+                text = re.sub(r"\s+", " ", text)
+                if "genre" in text.lower():
+                    genre = text.split(":")[1]
+                if "director" in text.lower():
+                    director = text.split(":")[1]
+    except Exception as exp:
+        print(f"Error {str(exp)}")
+        pass
+    return genre, director
+
+
 # Get the top 150 (or higest no. of comments) for a given Reddit post
 def get_post_comments(submission):
     comments = []
@@ -77,14 +151,15 @@ def get_post_comments(submission):
         if isinstance(comment, MoreComments):
             continue
         if comment.score > 5:
-            comments.append(comment.body)
+            comment_body = get_comment_body(comment)
+            if comment_body != "NULL": 
+                comments.append(comment_body)
     comments = comments[:150]
-    print(len(comments))
     return comments
 
 def get_posts(year):
 
-    print(f"Fetching data for {year}")
+    print(f"\n Fetching data for {year}")
     # Get posts between start_date and end_date
     after = datetime.datetime(int(year)-1,12,31,23,59).timestamp()
     before = datetime.datetime(int(year)+1,1,1,0,0).timestamp() 
@@ -107,24 +182,27 @@ def get_posts(year):
         num_comments = submission.num_comments
         if num_comments > 25 and "megathread" not in title.lower():
             print(title)
-            title = re.sub(r"^Official Discussion\s*(:|-)\s*|\s(\(20..\)\s)*\[.*\]?$", "", title)
-            print(title)
+            title = re.sub(r"^Official Discussion\s*(:|-)\s*|\s(\(20..\)\s)*\[.*\]?$", "", title).strip()
             temp["title"] = title
             temp["comments"] = get_post_comments(submission)
             temp["num_comments"] = num_comments
             temp["year"] = year
+            genre, director = get_movie_details(submission)
+            temp["genre"] = genre
+            temp["director"] = director
+            print(f"{title} - {genre} - {director}")
             movies_data.append(temp)
 
-    print("Final movie posts = " + str(len(movies_data)))
+    print("\n Final movie posts = " + str(len(movies_data)))
 
     # Write the fetched data in a JSON file
-    with open(f"{year}_mov.json", "w") as f:
+    with open(f"data/{year}_mov.json", "w") as f:
         json.dump({"movies_data": movies_data}, f)
 
 
 if __name__ == "__main__":
 
-    years = ["2015", "2016", "2017", "2018", "2019"]
+    years = ["2015", "2016", "2017", "2018", "2019", "2020"]
 
     for year in years:
         get_posts(year)

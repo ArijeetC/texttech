@@ -1,2 +1,4 @@
 config.ini
 static/old_data/*
+old_data/*
+*.ipynb*

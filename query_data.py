@@ -3,7 +3,7 @@ import xmltodict
 
 # Connect to a local instance of MongoDB
 mongodb_client = pymongo.MongoClient("mongodb://localhost:27017/")
-movie_db = mongodb_client["movie_db"]
+movie_db = mongodb_client["final_movie_db1"]
 movie_coll = movie_db["movie_coll"]
 
 pos_pipeline = [
