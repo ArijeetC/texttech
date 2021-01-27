@@ -85,6 +85,7 @@ if __name__ == "__main__":
         filename = f"data/{year}_mov.json"
 
         movies_data = {}
+        words_without_sw=[]
 
         with open(filename, "r") as f:
             movies_data = json.load(f)["movies_data"]
