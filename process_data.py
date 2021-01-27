@@ -1,6 +1,7 @@
 import json, random
 import pymongo
 from transformers import pipeline
+import nltk
 from nltk.corpus import stopwords
 import re 
 
@@ -91,12 +92,19 @@ if __name__ == "__main__":
         for movie in movies_data:
 
             movie["comments"] = list(map(clean_text, movie["comments"]))
-            
             movie["label"], movie["percentage"] = get_comment_sentiment(movie["comments"])
-
             words_list = " ".join(movie["comments"]).split(" ")
+            
+            #remove stopwords
             filtered_words = list(filter(stop_words_filter, words_list))
-            movie["words"] = filtered_words
+
+            #use pos-tagging to create adj_word_count
+            pos_word=nltk.pos_tag(filtered_words)
+            for pos in pos_word:
+                if (pos[1] == 'JJ') or (pos[1] == 'JJR') or (pos[1] == 'JJS'):
+                    words_without_sw.append(pos[0])
+
+            movie["words"] = words_without_sw
 
         # with open(f"data/{year}_mov_sentiment_final3.json", "w", encoding="utf-8") as f:
         #     json.dump({"movies_data": movies_data}, f)
