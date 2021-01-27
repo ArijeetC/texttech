@@ -1,6 +1,6 @@
 import json, random
 import pymongo
-# from transformers import pipeline
+from transformers import pipeline
 import nltk
 from nltk.corpus import stopwords
 import re 
@@ -11,38 +11,38 @@ movie_db = mongodb_client["final_movie_db11"]
 movie_coll = movie_db["movie_coll"]
 
 # Sentiment classifier object
-# classifier = pipeline('sentiment-analysis')
+classifier = pipeline('sentiment-analysis')
 
-# # # Return the sentiment of a given input sentence
-# def get_sentiment(sentence):
-#     sentence = sentence[:1700]
-#     try:
-#         label = classifier(sentence)[0]["label"].lower()
-#     except Exception as exp:
-#         print(type(exp).__name__)
-#         print(len(sentence))
-#         print(sentence)
-#         label = "neutral"
-#     return label
+# # Return the sentiment of a given input sentence
+def get_sentiment(sentence):
+    sentence = sentence[:1700]
+    try:
+        label = classifier(sentence)[0]["label"].lower()
+    except Exception as exp:
+        print(type(exp).__name__)
+        print(len(sentence))
+        print(sentence)
+        label = "neutral"
+    return label
 
-# # # Find the overall sentiment label and score for a given set of comments 
-# def get_comment_sentiment(comments):
-#     total_count = len(comments)
-#     pos_count = 0
-#     neg_count = 0
-#     for comment in comments:
-#         comment_label = get_sentiment(comment)
-#         if comment_label == "positive":
-#             pos_count += 1
-#         else:
-#             neg_count += 1
-#     if pos_count >= neg_count:
-#         label = "Positive"
-#         score = pos_count/total_count * 100
-#     else:
-#         label = "Negative"
-#         score = neg_count/total_count * 100
-#     return label, score
+# # Find the overall sentiment label and score for a given set of comments 
+def get_comment_sentiment(comments):
+    total_count = len(comments)
+    pos_count = 0
+    neg_count = 0
+    for comment in comments:
+        comment_label = get_sentiment(comment)
+        if comment_label == "positive":
+            pos_count += 1
+        else:
+            neg_count += 1
+    if pos_count >= neg_count:
+        label = "Positive"
+        score = pos_count/total_count * 100
+    else:
+        label = "Negative"
+        score = neg_count/total_count * 100
+    return label, score
 
 def stop_words_filter(word):
     return word not in stopwords.words('english')
@@ -103,7 +103,7 @@ if __name__ == "__main__":
         for movie in movies_data:
 
             movie["comments"] = list(map(clean_text, movie["comments"]))
-            # movie["label"], movie["percentage"] = get_comment_sentiment(movie["comments"])
+            movie["label"], movie["percentage"] = get_comment_sentiment(movie["comments"])
             words_list = " ".join(movie["comments"]).split(" ")
             
             #remove stopwords
@@ -119,6 +119,4 @@ if __name__ == "__main__":
 
             movie["words"] = adj_words
 
-        # with open(f"data/{year}_mov_sentiment_final4.json", "w", encoding="utf-8") as f:
-        #     json.dump({"movies_data": movies_data}, f)
         insert_into_db(movies_data)
