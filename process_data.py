@@ -1,51 +1,61 @@
 import json, random
 import pymongo
-from transformers import pipeline
+# from transformers import pipeline
 import nltk
 from nltk.corpus import stopwords
 import re 
 
 # Connect to a local instance of MongoDB
 mongodb_client = pymongo.MongoClient("mongodb://localhost:27017/")
-movie_db = mongodb_client["final_movie_db1"]
+movie_db = mongodb_client["final_movie_db11"]
 movie_coll = movie_db["movie_coll"]
 
 # Sentiment classifier object
-classifier = pipeline('sentiment-analysis')
+# classifier = pipeline('sentiment-analysis')
 
-# # Return the sentiment of a given input sentence
-def get_sentiment(sentence):
-    sentence = sentence[:1700]
-    try:
-        label = classifier(sentence)[0]["label"].lower()
-    except Exception as exp:
-        print(type(exp).__name__)
-        print(len(sentence))
-        print(sentence)
-        label = "neutral"
-    return label
+# # # Return the sentiment of a given input sentence
+# def get_sentiment(sentence):
+#     sentence = sentence[:1700]
+#     try:
+#         label = classifier(sentence)[0]["label"].lower()
+#     except Exception as exp:
+#         print(type(exp).__name__)
+#         print(len(sentence))
+#         print(sentence)
+#         label = "neutral"
+#     return label
 
-# # Find the overall sentiment label and score for a given set of comments 
-def get_comment_sentiment(comments):
-    total_count = len(comments)
-    pos_count = 0
-    neg_count = 0
-    for comment in comments:
-        comment_label = get_sentiment(comment)
-        if comment_label == "positive":
-            pos_count += 1
-        else:
-            neg_count += 1
-    if pos_count >= neg_count:
-        label = "Positive"
-        score = pos_count/total_count * 100
-    else:
-        label = "Negative"
-        score = neg_count/total_count * 100
-    return label, score
+# # # Find the overall sentiment label and score for a given set of comments 
+# def get_comment_sentiment(comments):
+#     total_count = len(comments)
+#     pos_count = 0
+#     neg_count = 0
+#     for comment in comments:
+#         comment_label = get_sentiment(comment)
+#         if comment_label == "positive":
+#             pos_count += 1
+#         else:
+#             neg_count += 1
+#     if pos_count >= neg_count:
+#         label = "Positive"
+#         score = pos_count/total_count * 100
+#     else:
+#         label = "Negative"
+#         score = neg_count/total_count * 100
+#     return label, score
 
 def stop_words_filter(word):
     return word not in stopwords.words('english')
+
+def pos_tag_filter(word):
+    adj_pos = False
+    try:
+        pos_tag = nltk.pos_tag([word])[0][1]
+        if (pos_tag == 'JJ') or (pos_tag == 'JJR') or (pos_tag == 'JJS'):
+            adj_pos = True
+    except Exception:
+        pass
+    return adj_pos
 
 def clean_text(text):
     clean_pattern = re.compile("["
@@ -82,7 +92,7 @@ if __name__ == "__main__":
     years = ["2015","2016","2017","2018","2019","2020"]
     for year in years:
         print(f"\nProcessing {year} data")
-        filename = f"data/{year}_mov.json"
+        filename = f"data/{year}_mov_sentiment_final3.json"
 
         movies_data = {}
         words_without_sw=[]
@@ -93,20 +103,22 @@ if __name__ == "__main__":
         for movie in movies_data:
 
             movie["comments"] = list(map(clean_text, movie["comments"]))
-            movie["label"], movie["percentage"] = get_comment_sentiment(movie["comments"])
+            # movie["label"], movie["percentage"] = get_comment_sentiment(movie["comments"])
             words_list = " ".join(movie["comments"]).split(" ")
             
             #remove stopwords
             filtered_words = list(filter(stop_words_filter, words_list))
+            
+            # #use pos-tagging to create adj_word_count
+            # pos_word=nltk.pos_tag(filtered_words)
+            # for pos in pos_word:
+            #     if (pos[1] == 'JJ') or (pos[1] == 'JJR') or (pos[1] == 'JJS'):
+            #         words_without_sw.append(pos[0])
 
-            #use pos-tagging to create adj_word_count
-            pos_word=nltk.pos_tag(filtered_words)
-            for pos in pos_word:
-                if (pos[1] == 'JJ') or (pos[1] == 'JJR') or (pos[1] == 'JJS'):
-                    words_without_sw.append(pos[0])
+            adj_words = list(filter(pos_tag_filter, filtered_words))
 
-            movie["words"] = words_without_sw
+            movie["words"] = adj_words
 
-        # with open(f"data/{year}_mov_sentiment_final3.json", "w", encoding="utf-8") as f:
+        # with open(f"data/{year}_mov_sentiment_final4.json", "w", encoding="utf-8") as f:
         #     json.dump({"movies_data": movies_data}, f)
         insert_into_db(movies_data)
