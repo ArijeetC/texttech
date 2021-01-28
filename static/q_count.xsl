@@ -3,7 +3,7 @@
     <xsl:template match="/">
         <html>
             <head>
-                <title>2020 Movie Review</title>
+                <title>Movie Review</title>
             </head>
             <body>
             <h1>Word count</h1>
