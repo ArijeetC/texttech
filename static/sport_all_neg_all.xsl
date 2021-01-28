@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:template match="/">
-    
         <html>
             <head>
                 <title>Movie Review</title>
@@ -19,24 +18,19 @@
                 </tr>
                 
                 <xsl:for-each select="movies/movie">
-                <!--enter the condition here-->
-                    <xsl:sort select="percentage"
-                    data-type="number"
-                    order="descending"/>
-                <xsl:if test="contains(genre, 'Sport')">
-                    <tr>
-                        <td><xsl:value-of select="title"/></td>
-                        <td><xsl:value-of select="genre"/></td>
-                        <td><xsl:value-of select="year"/></td>
-                        <!--td><xsl:value-of select="label"/></td!-->
-                        <td><xsl:value-of select="percentage"/></td>
-                    </tr>
-                </xsl:if>
-                </xsl:for-each>
-                
+                    <xsl:sort select="percentage" data-type="number" order="descending"/>
+                    <xsl:if test="contains(genre, 'Sport')">
+                        <tr>
+                            <td><xsl:value-of select="title"/></td>
+                            <td><xsl:value-of select="genre"/></td>
+                            <td><xsl:value-of select="year"/></td>
+                            <!--td><xsl:value-of select="label"/></td!-->
+                            <td><xsl:value-of select="percentage"/></td>
+                        </tr>
+                    </xsl:if>
+                </xsl:for-each> 
             </table>
             </body>
-
         </html>
     </xsl:template>
 </xsl:stylesheet>
