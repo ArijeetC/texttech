@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:template match="/">
-    
         <html>
             <head>
                 <title>2020 Movie Review</title>
@@ -16,8 +15,6 @@
                 </tr>
                 
                 <xsl:for-each select="words/word">
-                <!--enter the condition here-->
-                <!-- <xsl:if test="label='Positive'"> -->
                 <xsl:sort select="count" data-type="number" order="descending"/>
                 <xsl:if test="count &gt;60">
                     <tr>
@@ -25,11 +22,9 @@
                         <td><xsl:value-of select="count"/></td>
                     </tr>
                 </xsl:if>
-                <!-- </xsl:if> -->
                 </xsl:for-each>
             </table>
             </body>
-
         </html>
     </xsl:template>
 </xsl:stylesheet>
