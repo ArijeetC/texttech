@@ -133,24 +133,24 @@
                 <label for="genre">Genre:</label>
                 <select id="genre">
                     <option value="all">All</option>
-                    <option value="war">Action</option>
-                    <option value="war">Adventure</option>
-                    <option value="war">Animation</option>
-                    <option value="war">Biography</option>
-                    <option value="war">Comedy</option>
-                    <option value="war">Crime</option>
-                    <option value="war">Documentary</option>
-                    <option value="war">Drama</option>
-                    <option value="war">Family</option>
-                    <option value="war">Fantasy</option>
-                    <option value="war">History</option>
-                    <option value="war">Horror</option>
-                    <option value="war">Music</option>
-                    <option value="war">Mystery</option>
-                    <option value="war">Romance</option>
-                    <option value="war">Sci-Fi</option>
-                    <option value="war">Sport</option>
-                    <option value="war">Thriller</option>
+                    <option value="action">Action</option>
+                    <option value="adventure">Adventure</option>
+                    <option value="animation">Animation</option>
+                    <option value="biography">Biography</option>
+                    <option value="comedy">Comedy</option>
+                    <option value="crime">Crime</option>
+                    <option value="documentary">Documentary</option>
+                    <option value="drame">Drama</option>
+                    <option value="family">Family</option>
+                    <option value="fantasy">Fantasy</option>
+                    <option value="history">History</option>
+                    <option value="horror">Horror</option>
+                    <option value="music">Music</option>
+                    <option value="mystery">Mystery</option>
+                    <option value="romance">Romance</option>
+                    <option value="sci-fi">Sci-Fi</option>
+                    <option value="sport">Sport</option>
+                    <option value="thriller">Thriller</option>
                     <option value="war">War</option>
                 </select>
             </div> 
@@ -176,6 +176,7 @@
             <div class="block">
                 <label for="perc">Percentage:</label>
                 <select id="perc">
+                    <option value="all">All</option>
                     <option value="80">Above 80%</option>
                     <option value="60">Above 60%</option>
                 </select>
@@ -273,8 +274,14 @@
             var label = $("#label").val()
             var perc = $("#perc").val()
 
-            if(year != "all"){
+            if(year != "all" || genre !="all"){
                 perc = "all"
+                $("#perc").val("all")
+            }
+
+            if(genre != "all" && year !="all"){
+                year = "all"
+                $("#perc").val("all")
             }
 
             xml_filename = `${label}_movs.xml`
@@ -288,6 +295,10 @@
         });
 
         $("#queryButton").click(function(){
+            $("#genre").val("all")
+            $("#year").val("all")
+            $("#perc").val("all")
+
             var query = $("#query").val();
             var xml_filename = `${query}_movs.xml`
             var xsl_filename = "q_numcomments.xsl"
@@ -301,15 +312,26 @@
         
         $('.results').bind('DOMSubtreeModified', function(){
             console.log('changed');
-            var filterYear = $("#queryYear").val()
-            console.log(filterYear)
-            if (filterYear != 'all') {
+            var filterYear2 = $("#queryYear").val()
+            if (filterYear2 != 'all') {
                 $('table > tbody > tr > td:nth-child(3)').each(function(){
                     var year = +$(this).text()
-                    $(this).closest('tr').toggle(year == parseInt(filterYear))
+                    $(this).closest('tr').toggle(year == parseInt(filterYear2))
+                })
+            }
+
+            var filterGenre = $("#genre").val()
+            var filterYear1 = "20"+$("#year").val()
+            console.log("filterYear1 = "+filterYear1)
+            if(filterGenre != "all" && filterYear1 != "all"){
+                $('table > tbody > tr > td:nth-child(3)').each(function(){
+                    var year = +$(this).text()
+                    $(this).closest('tr').toggle(year == parseInt(filterYear1))
                 })
             }
         });
+
+
     });
 </script>
 </body>
