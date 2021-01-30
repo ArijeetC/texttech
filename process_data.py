@@ -7,7 +7,7 @@ import re
 
 # Connect to a local instance of MongoDB
 mongodb_client = pymongo.MongoClient("mongodb://localhost:27017/")
-movie_db = mongodb_client["final_movie_db11"]
+movie_db = mongodb_client["movie_db"]
 movie_coll = movie_db["movie_coll"]
 
 # Sentiment classifier object
@@ -92,7 +92,7 @@ if __name__ == "__main__":
     years = ["2015","2016","2017","2018","2019","2020"]
     for year in years:
         print(f"\nProcessing {year} data")
-        filename = f"data/{year}_mov_sentiment_final3.json"
+        filename = f"data/{year}_mov.json"
 
         movies_data = {}
         words_without_sw=[]
@@ -110,11 +110,6 @@ if __name__ == "__main__":
             filtered_words = list(filter(stop_words_filter, words_list))
             
             # #use pos-tagging to create adj_word_count
-            # pos_word=nltk.pos_tag(filtered_words)
-            # for pos in pos_word:
-            #     if (pos[1] == 'JJ') or (pos[1] == 'JJR') or (pos[1] == 'JJS'):
-            #         words_without_sw.append(pos[0])
-
             adj_words = list(filter(pos_tag_filter, filtered_words))
 
             movie["words"] = adj_words

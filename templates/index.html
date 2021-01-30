@@ -11,16 +11,108 @@
         .inputs, .results {
             text-align: center;
         }
+        .inputs {
+            display: flex;
+            margin-top: 50px;
+        }
+        .inputs > div {
+            flex: 1; /*grow*/
+        }
+
+        .right_inputs {
+            margin-right: 150px;
+        }
+
+        .left_inputs {
+            margin-left: 100px;
+        }
+
+        .block {
+            margin-top: 15px;
+        }
 
         .inpfield {
             padding: 5px;
         }
 
+        select { 
+            float: right;
+            width: 150px;
+            padding: 3px 25px 3px 3px;
+            border: 1px solid #CCC;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            appearance: none;
+        }
+        
+        .right_inputs > div > select {
+            width: 250px;
+        }
+
         label {
-            display: inline-block;
-            width: 100px;
-            text-align: left;
-            margin-bottom: 15px;
+            padding: 8px;
+        }
+        .btn {
+            position: relative;
+
+            display: block;
+            margin: 30px auto;
+
+            font-size: 16px;
+            font-family: monospace;
+
+            overflow: hidden;
+
+            border-width: 0;
+            border-radius: 2px;
+            box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+            
+            background-color: #37a2e9;
+            color: #ecf0f1;
+            
+            transition: background-color .3s;
+        }
+
+        .btn:hover, .btn:focus {
+            background-color: #27ae60;
+        }
+
+        .btn > * {
+            position: relative;
+        }
+
+        .btn span {
+            display: block;
+            padding: 12px 24px;
+        }
+
+        .btn:before {
+            content: "";
+            
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            
+            display: block;
+            width: 0;
+            padding-top: 0;
+                
+            border-radius: 100%;
+            
+            background-color: rgba(236, 240, 241, .3);
+            
+            -webkit-transform: translate(-50%, -50%);
+            -moz-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            -o-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+        }
+
+        .btn:active:before {
+            width: 120%;
+            padding-top: 120%;
+            
+            transition: width .2s ease-out, padding-top .2s ease-out;
         }
 
         .result {
@@ -36,37 +128,97 @@
 </head>
 <body>
     <div class="inputs">
-        <!-- <div class="block">
-            <label for="query">Choose a query:</label>
-            <select id="query">
-                <option value="q29">Query 29 - Word count of positive reviews</option>
-                <option value="q30">Query 30 - Word count of negative reviews</option>
-            </select> -->
-            <label for="genre">Genre:</label>
-            <select id="genre">
-                <option value="all">All</option>
-                <option value="war">War</option>
-                <option value="sport">Sports</option>
-            </select>
-            <label for="year">Year:</label>
-            <select id="year">
-                <option value="all">All</option>
-                <option value="2020">2020</option>
-                <option value="2019">2019</option>
-            </select>
-            <label for="label">Label:</label>
-            <select id="label">
-                <option value="all">All</option>
-                <option value="pos">Positive</option>
-                <option value="neg">Negative</option>
-            </select>
-            <label for="perc">Percentage:</label>
-            <select id="perc">
-                <option value="all">All</option>
-                <option value="80">Above 80%</option>
-                <option value="60">Above 60%</option>
-            </select>
-            <button id="submitButton"  type="button">Submit</button>
+        <div class="left_inputs">
+            <div class="block">
+                <label for="genre">Genre:</label>
+                <select id="genre">
+                    <option value="all">All</option>
+                    <option value="war">Action</option>
+                    <option value="war">Adventure</option>
+                    <option value="war">Animation</option>
+                    <option value="war">Biography</option>
+                    <option value="war">Comedy</option>
+                    <option value="war">Crime</option>
+                    <option value="war">Documentary</option>
+                    <option value="war">Drama</option>
+                    <option value="war">Family</option>
+                    <option value="war">Fantasy</option>
+                    <option value="war">History</option>
+                    <option value="war">Horror</option>
+                    <option value="war">Music</option>
+                    <option value="war">Mystery</option>
+                    <option value="war">Romance</option>
+                    <option value="war">Sci-Fi</option>
+                    <option value="war">Sport</option>
+                    <option value="war">Thriller</option>
+                    <option value="war">War</option>
+                </select>
+            </div> 
+            <div class="block">
+                <label for="year">Year:</label>
+                <select id="year">
+                    <option value="all">All</option>
+                    <option value="2020">2020</option>
+                    <option value="2019">2019</option>
+                    <option value="2018">2018</option>
+                    <option value="2017">2017</option>
+                    <option value="2016">2016</option>
+                    <option value="2015">2015</option>
+                </select>
+            </div> 
+            <div class="block">
+                <label for="label">Label:</label>
+                <select id="label">
+                    <option value="pos">Positive</option>
+                    <option value="neg">Negative</option>
+                </select>
+            </div> 
+            <div class="block">
+                <label for="perc">Percentage:</label>
+                <select id="perc">
+                    <option value="80">Above 80%</option>
+                    <option value="60">Above 60%</option>
+                </select>
+            </div> 
+            <div class="block">
+                <button id="submitButton" class="btn" type="button">Submit</button>
+            </div>
+        </div>
+        <div class="center_inputs">
+            <div class="block">
+                <label for="word_count">Word Count:</label>
+                <select id="word_count">
+                    <option value="pos">Positive movies</option>
+                    <option value="neg">Negative movies</option>
+                </select>
+            </div>
+            <div class="block">
+                <button id="genButton" class="btn" type="button">Generate</button>
+            </div>
+        </div>
+        <div class="right_inputs">
+            <div class="block">
+                <label for="Query">Query:</label>
+                <select id="query">
+                    <option value="pos">Most discussed positive movies</option>
+                    <option value="neg">Most discussed negative movies</option>
+                </select>
+            </div>
+            <div class="block">
+                <label for="QueryYear">Year:</label>
+                <select id="queryYear">
+                    <option value="all">All</option>
+                    <option value="2020">2020</option>
+                    <option value="2019">2019</option>
+                    <option value="2018">2018</option>
+                    <option value="2017">2017</option>
+                    <option value="2016">2016</option>
+                    <option value="2015">2015</option>
+                </select>
+            </div>
+            <div class="block">
+                <button id="queryButton" class="btn" type="button">Generate</button>
+            </div>
         </div>
     </div>
 
@@ -87,11 +239,35 @@
             return xhttp.responseXML;
         }
 
+        function generateHTML(xml_filename, xsl_filename) {
+                xml = loadXMLDoc(xml_filename);
+                xsl = loadXMLDoc(xsl_filename);
+                
+                // code for converting XSLT to HTML.
+                xsltProcessor = new XSLTProcessor();
+                xsltProcessor.importStylesheet(xsl);
+                resultDocument = xsltProcessor.transformToFragment(xml, document);
+                return resultDocument;
+        }
+
+
+        $("#genButton").click(function(){
+            var word_count = $("#word_count").val();
+
+            var xml_filename = `wordcount_${word_count}.xml`;
+            var xsl_filename = "q_count.xsl";
+
+            resultDocument = generateHTML(xml_filename, xsl_filename);
+            $(".results").html(resultDocument);
+        });
+
         $('#submitButton').click(function(){
             var query = $("#query").val();
             var xml_filename;
             var xsl_filename;
-
+            
+            // var word_count = $("#wc").val()
+            
             var genre = $("#genre").val()
             var year = $("#year").val()
             var label = $("#label").val()
@@ -103,14 +279,29 @@
             console.log(xml_filename)
             console.log(xsl_filename)
 
-            xml = loadXMLDoc(xml_filename);
-            xsl = loadXMLDoc(xsl_filename);
-            
-            // code for converting XSLT to HTML.
-            xsltProcessor = new XSLTProcessor();
-            xsltProcessor.importStylesheet(xsl);
-            resultDocument = xsltProcessor.transformToFragment(xml, document);
+            resultDocument = generateHTML(xml_filename, xsl_filename);
             $(".results").html(resultDocument);
+        });
+
+        $("#queryButton").click(function(){
+            var query = $("#query").val();
+            var xml_filename = `${query}_movs.xml`
+            var xsl_filename = "q_numcomments.xsl"
+
+            console.log(xml_filename)
+            console.log(xsl_filename)
+
+            resultDocument = generateHTML(xml_filename, xsl_filename);
+            $(".results").html(resultDocument);
+        })
+        
+        $('.results').bind('DOMSubtreeModified', function(){
+            console.log('changed');
+            var filterYear = parseInt($("#queryYear").val())
+            console.log(filterYear)
+            $('table > tbody > tr > td:nth-child(3)').each(function(){
+                var year = +$(this).text()
+                $(this).closest('tr').toggle(year == filterYear)})
         });
     });
 </script>
