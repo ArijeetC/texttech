@@ -6,6 +6,7 @@ mongodb_client = pymongo.MongoClient("mongodb://localhost:27017/")
 movie_db = mongodb_client["movie_db"]
 movie_coll = movie_db["movie_coll"]
 
+# Define a pipeline for finding word count in Positive movie comments
 pos_pipeline = [
     {
       "$match": {
@@ -31,10 +32,12 @@ pos_pipeline = [
 ]
 results = list(movie_coll.aggregate(pos_pipeline))
 
+# Generate an XML file from the results of aggregation pipeline query
 wordcount_xml = xmltodict.unparse({"words": {"word": results}}, pretty=True)
 with open("static/wordcount_pos.xml", "w", encoding="utf-8") as f:
     f.write(wordcount_xml)
 
+# Define a pipeline for finding word count in Negative movie comments
 neg_pipeline = [
     {
       "$match": {
@@ -60,6 +63,7 @@ neg_pipeline = [
 ]
 results = list(movie_coll.aggregate(neg_pipeline))
 
+# Generate an XML file from the results of aggregation pipeline query
 wordcount_xml = xmltodict.unparse({"words": {"word": results}}, pretty=True)
 with open("static/wordcount_neg.xml", "w", encoding="utf-8") as f:
     f.write(wordcount_xml)

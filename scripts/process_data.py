@@ -13,7 +13,9 @@ movie_coll = movie_db["movie_coll"]
 # Sentiment classifier object
 classifier = pipeline('sentiment-analysis')
 
-# # Return the sentiment of a given input sentence
+# Returns the sentiment of a given input sentence
+# Parameter:
+#   sentence - a string representing a user comment from Reddit 
 def get_sentiment(sentence):
     sentence = sentence[:1700]
     try:
@@ -25,7 +27,9 @@ def get_sentiment(sentence):
         label = "neutral"
     return label
 
-# # Find the overall sentiment label and score for a given set of comments 
+# Finds the overall sentiment label and score for a given set of comments
+# Parameter:
+#   comments - list of strings, each string represents a user comment
 def get_comment_sentiment(comments):
     total_count = len(comments)
     pos_count = 0
@@ -44,9 +48,15 @@ def get_comment_sentiment(comments):
         score = neg_count/total_count * 100
     return label, score
 
+# Checks if the given word is a stop word in English or not
+# Parameter:
+#   word - string representing a word
 def stop_words_filter(word):
     return word not in stopwords.words('english')
 
+# Determines the POS tag of the given, returns True if it is an adjective
+# Parameter:
+#   word - string representing a word
 def pos_tag_filter(word):
     adj_pos = False
     try:
@@ -57,6 +67,9 @@ def pos_tag_filter(word):
         pass
     return adj_pos
 
+# Cleans the given string by removing emojis, symbols, non-english characters, extra whitespaces
+# Parameter:
+#   text - string representing a user comment from Reddit
 def clean_text(text):
     clean_pattern = re.compile("["
                                u"\U0001F600-\U0001F64F"  # emoticons
@@ -84,6 +97,8 @@ def clean_text(text):
     return text.strip()
 
 # Insert the given list of movie data into the MongoDB collection created
+# Parameter:
+#   movies_list - list of dictionaries, each dict contains data of a movie
 def insert_into_db(movies_list):
     movie_coll.insert_many(movies_list)
 
