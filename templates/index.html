@@ -158,12 +158,12 @@
                 <label for="year">Year:</label>
                 <select id="year">
                     <option value="all">All</option>
-                    <option value="2020">2020</option>
-                    <option value="2019">2019</option>
-                    <option value="2018">2018</option>
-                    <option value="2017">2017</option>
-                    <option value="2016">2016</option>
-                    <option value="2015">2015</option>
+                    <option value="20">2020</option>
+                    <option value="19">2019</option>
+                    <option value="18">2018</option>
+                    <option value="17">2017</option>
+                    <option value="16">2016</option>
+                    <option value="15">2015</option>
                 </select>
             </div> 
             <div class="block">
@@ -273,6 +273,10 @@
             var label = $("#label").val()
             var perc = $("#perc").val()
 
+            if(year != "all"){
+                perc = "all"
+            }
+
             xml_filename = `${label}_movs.xml`
             xsl_filename = `${genre}_${year}_${label}_${perc}.xsl`
 
@@ -297,11 +301,14 @@
         
         $('.results').bind('DOMSubtreeModified', function(){
             console.log('changed');
-            var filterYear = parseInt($("#queryYear").val())
+            var filterYear = $("#queryYear").val()
             console.log(filterYear)
-            $('table > tbody > tr > td:nth-child(3)').each(function(){
-                var year = +$(this).text()
-                $(this).closest('tr').toggle(year == filterYear)})
+            if (filterYear != 'all') {
+                $('table > tbody > tr > td:nth-child(3)').each(function(){
+                    var year = +$(this).text()
+                    $(this).closest('tr').toggle(year == parseInt(filterYear))
+                })
+            }
         });
     });
 </script>
