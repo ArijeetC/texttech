@@ -1,5 +1,7 @@
 # Text Technology Project
 
+Visit [texttech.herokuapp.com](https://texttech.herokuapp.com) to view the query results
+
 ## How to run
 
 1. Create a python virtual env and activate it
