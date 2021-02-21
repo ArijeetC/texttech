@@ -5,6 +5,10 @@
 <head>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <style>
+        /*
+        CSS style definitions
+        */
+        
         * {
             font-family: monospace;
         }
@@ -52,6 +56,7 @@
         label {
             padding: 8px;
         }
+
         .btn {
             position: relative;
 
@@ -199,14 +204,14 @@
         </div>
         <div class="right_inputs">
             <div class="block">
-                <label for="Query">Query:</label>
+                <label for="query">Query:</label>
                 <select id="query">
                     <option value="pos">Most discussed positive movies</option>
                     <option value="neg">Most discussed negative movies</option>
                 </select>
             </div>
             <div class="block">
-                <label for="QueryYear">Year:</label>
+                <label for="queryYear">Year:</label>
                 <select id="queryYear">
                     <option value="all">All</option>
                     <option value="2020">2020</option>
@@ -226,12 +231,13 @@
     <div class="results"></div>
 <script>
 
-    $(document).ready(function(){
+    $(document).ready(function() {
+
+        // Javascript functions to load XML data and display the results in the HTML page
         
         console.log("document loaded");
         
-        function loadXMLDoc(filename)
-        {
+        function loadXMLDoc(filename) {
             xhttp = new XMLHttpRequest();
             xhttp.open("GET", "static/" + filename, false);
             try {xhttp.responseType = "msxml-document"} catch(err) {} // Helping IE11
@@ -241,18 +247,18 @@
         }
 
         function generateHTML(xml_filename, xsl_filename) {
-                xml = loadXMLDoc(xml_filename);
-                xsl = loadXMLDoc(xsl_filename);
-                
-                // code for converting XSLT to HTML.
-                xsltProcessor = new XSLTProcessor();
-                xsltProcessor.importStylesheet(xsl);
-                resultDocument = xsltProcessor.transformToFragment(xml, document);
-                return resultDocument;
+            xml = loadXMLDoc(xml_filename);
+            xsl = loadXMLDoc(xsl_filename);
+            
+            // code for converting XSLT to HTML.
+            xsltProcessor = new XSLTProcessor();
+            xsltProcessor.importStylesheet(xsl);
+            resultDocument = xsltProcessor.transformToFragment(xml, document);
+            return resultDocument;
         }
 
 
-        $("#genButton").click(function(){
+        $("#genButton").click(function() {
             var word_count = $("#word_count").val();
 
             var xml_filename = `wordcount_${word_count}.xml`;
@@ -262,24 +268,24 @@
             $(".results").html(resultDocument);
         });
 
-        $('#submitButton').click(function(){
+        $('#submitButton').click(function() {
+            $("#queryYear").val("all")
+
             var query = $("#query").val();
             var xml_filename;
             var xsl_filename;
-            
-            // var word_count = $("#wc").val()
             
             var genre = $("#genre").val()
             var year = $("#year").val()
             var label = $("#label").val()
             var perc = $("#perc").val()
 
-            if(year != "all" || genre !="all"){
+            if(year != "all" || genre !="all") {
                 perc = "all"
                 $("#perc").val("all")
             }
 
-            if(genre != "all" && year !="all"){
+            if(genre != "all" && year !="all") {
                 year = "all"
                 $("#perc").val("all")
             }
@@ -294,7 +300,7 @@
             $(".results").html(resultDocument);
         });
 
-        $("#queryButton").click(function(){
+        $("#queryButton").click(function() {
             $("#genre").val("all")
             $("#year").val("all")
             $("#perc").val("all")
@@ -310,11 +316,10 @@
             $(".results").html(resultDocument);
         })
         
-        $('.results').bind('DOMSubtreeModified', function(){
-            console.log('changed');
+        $('.results').bind('DOMSubtreeModified', function() {
             var filterYear2 = $("#queryYear").val()
             if (filterYear2 != 'all') {
-                $('table > tbody > tr > td:nth-child(3)').each(function(){
+                $('table > tbody > tr > td:nth-child(3)').each(function() {
                     var year = +$(this).text()
                     $(this).closest('tr').toggle(year == parseInt(filterYear2))
                 })
@@ -322,9 +327,8 @@
 
             var filterGenre = $("#genre").val()
             var filterYear1 = "20"+$("#year").val()
-            console.log("filterYear1 = "+filterYear1)
-            if(filterGenre != "all" && filterYear1 != "all"){
-                $('table > tbody > tr > td:nth-child(3)').each(function(){
+            if(filterGenre != "all" && filterYear1 != "all") {
+                $('table > tbody > tr > td:nth-child(3)').each(function() {
                     var year = +$(this).text()
                     $(this).closest('tr').toggle(year == parseInt(filterYear1))
                 })

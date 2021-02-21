@@ -32,21 +32,33 @@ reddit = praw.Reddit(client_id=client_id,
                     username=username,
                     password=password)
 
-# Fetch all posts data from the Pushshift API
 def get_reddit_posts(**kwargs):
+    """Fetches all posts data from the Pushshift API
+    
+    Args:
+        kwargs (dict): A dictionary of all parameters supported by the Pushshift API, such as subreddit, title, etc.
+
+    Returns:
+        A dictionary containing all data of a post from Pushshift API 
+    """
+
     url = "https://api.pushshift.io/reddit/submission/search/"
     r = requests.get(url, params=kwargs, headers=headers)
     return r.json()["data"]
 
-# Get the post IDs of all the movie discussion posts
-# Uses the Pushshift API to fetch post IDS
-# 
-# Parameters:
-#   after - Get posts after this timestamp
-#   before - Get posts before this timestamp
-#   subreddit - Get posts only from this subreddit
-#   title - Get posts which contain this string in the title
 def get_reddit_post_ids(after, before, subreddit, title):
+    """Gets the post IDs of all the movie discussion posts. Uses the Pushshift API to fetch post IDS
+
+    Args:
+        after (str): Get posts after this timestamp
+        before (str): Get posts before this timestamp
+        subreddit (str): Get posts only from this subreddit
+        title (str): Get posts which contain this string in the title
+    
+    Returns:
+        A list of strings, each string represents the ID of a Reddit post
+
+    """
     post_ids = []
     posts_data = []
     
@@ -80,11 +92,16 @@ def get_reddit_post_ids(after, before, subreddit, title):
             post_ids.append(id)
     return post_ids
 
-# Gets comments from the Pushshift API
-# Some comments get deleted and aren't available from the official Reddit API
-# Parameters:
-#   id - ID of the comment that must be fetched
 def get_comment_from_pushshift(id):
+    """Gets comments from the Pushshift API since some comments get deleted and aren't available from the official Reddit API
+    
+    Args:
+        id (str): ID of the comment that must be fetched
+    
+    Returns:
+        A string which contains the content of the comment
+    """
+
     url = "https://api.pushshift.io/reddit/search/comment/?ids="+str(id)
     r = requests.get(url, headers=headers)
     try:
@@ -95,22 +112,34 @@ def get_comment_from_pushshift(id):
         body = "NULL"
     return body
 
-# Retrieves the body from the Reddit API comment object
-# In case of deleted comments, retrieves it from Pushshift API
-# Parameter:
-#   comment - Reddit API comment object
 def get_comment_body(comment):
+    """Retrieves the body from the Reddit API comment object.
+    In case of deleted comments, retrieves it from Pushshift API
+    
+    Args:
+        comment (object): Reddit API comment object
+
+    Returns:
+        A string which contains the content of the comment
+    """
+
     body = comment.body
     if body == "[deleted]" or body == "[removed]":
         time.sleep(1)
         body = get_comment_from_pushshift(comment.id)
     return body
 
-# Gets information of a movie such as genre, director's name, etc.
-# Uses BeautifulSoup to parse information in the webpage
-# Parameter:
-#   submission - Reddit API submission (or post) object 
 def get_movie_details(submission):
+    """Gets information of a movie such as genre, director's name, etc.
+    Uses BeautifulSoup to parse information in the webpage
+    
+    Args:
+        submission (object): Reddit API submission (or post) object
+    
+    Returns:
+        Strings containing the required information
+    """
+
     text = submission.selftext
     genre, director = "NULL", "NULL"
     try:
@@ -134,29 +163,42 @@ def get_movie_details(submission):
         pass
     return genre, director
 
-
-# Gets the top 150 (or higest no. of comments) for a given Reddit post
-# Parameter:
-#   submission - Reddit API submission (or post) object
 def get_post_comments(submission):
+    """Gets the top 150 (or higest no. of comments) for a given Reddit post
+
+    Args:
+        submission (object): Reddit API submission (or post) object
+
+    Returns:
+        A list of strings, each represents a comment of the submission
+    """
+    
     comments = []
     submission.comment_sort = "top"
     submission.comment_limit = 100
     submission.comments.replace_more(limit=5)
+    
+    # Iterate over each comment in a submission
     for comment in submission.comments:
+        # Fetch more available comments from Reddit API 
         if isinstance(comment, MoreComments):
             continue
+        # Check if comment has minimum score
         if comment.score > 5:
+            # Get content of the comment
             comment_body = get_comment_body(comment)
             if comment_body != "NULL": 
                 comments.append(comment_body)
     comments = comments[:150]
     return comments
 
-# Gets all the posts for given year
-# Parameters:
-#   year - string representing the year for which data must be fetched
+
 def get_posts(year):
+    """Gets all the posts for given year and writes them to a JSON file
+    Args:
+        year (str): string representing the year for which data must be fetched
+    
+    """
 
     print(f"\n Fetching data for {year}")
     # Get posts between start_date and end_date
@@ -200,6 +242,8 @@ def get_posts(year):
 
 
 if __name__ == "__main__":
+    """Runs a loop and fetches data for each year
+    """
 
     years = ["2015", "2016", "2017", "2018", "2019", "2020"]
 

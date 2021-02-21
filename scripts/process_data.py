@@ -13,10 +13,15 @@ movie_coll = movie_db["movie_coll"]
 # Sentiment classifier object
 classifier = pipeline('sentiment-analysis')
 
-# Returns the sentiment of a given input sentence
-# Parameter:
-#   sentence - a string representing a user comment from Reddit 
 def get_sentiment(sentence):
+    """Returns the sentiment of a given input sentence
+    
+    Args:
+        sentence (str): a string representing a user comment from Reddit 
+    Returns:
+        A string containing the label of the sentence ("positive"/"negative"/"neutral")
+    """
+
     sentence = sentence[:1700]
     try:
         label = classifier(sentence)[0]["label"].lower()
@@ -27,10 +32,17 @@ def get_sentiment(sentence):
         label = "neutral"
     return label
 
-# Finds the overall sentiment label and score for a given set of comments
-# Parameter:
-#   comments - list of strings, each string represents a user comment
 def get_comment_sentiment(comments):
+    """Finds the overall sentiment label and score for a given set of comments
+    
+    Args:
+        comments (list): list of strings, each string represents a user comment
+    
+    Returns:
+        A string representing the majority sentiment
+        A float representing the percentage of comments with the majority sentiment 
+    """
+
     total_count = len(comments)
     pos_count = 0
     neg_count = 0
@@ -48,16 +60,28 @@ def get_comment_sentiment(comments):
         score = neg_count/total_count * 100
     return label, score
 
-# Checks if the given word is a stop word in English or not
-# Parameter:
-#   word - string representing a word
 def stop_words_filter(word):
+    """Checks if the given word is a stop word in English or not
+    
+    Args:
+        word (str): string representing a word
+
+    Returns:
+        True if input word is not a stopword, otherwise False
+    """
+
     return word not in stopwords.words('english')
 
-# Determines the POS tag of the given, returns True if it is an adjective
-# Parameter:
-#   word - string representing a word
 def pos_tag_filter(word):
+    """Determines the POS tag of the given word
+    
+    Args:
+        word (str): string representing a word
+    
+    Returns:
+        True if it is an adjective, otherwise False
+    """
+
     adj_pos = False
     try:
         pos_tag = nltk.pos_tag([word])[0][1]
@@ -67,10 +91,16 @@ def pos_tag_filter(word):
         pass
     return adj_pos
 
-# Cleans the given string by removing emojis, symbols, non-english characters, extra whitespaces
-# Parameter:
-#   text - string representing a user comment from Reddit
 def clean_text(text):
+    """Cleans the given string by removing emojis, symbols, non-english characters, extra whitespaces
+    
+    Args:
+        text (str): string representing a user comment from Reddit
+    
+    Returns:
+        A string without any emojis, symbols, etc.
+    """
+
     clean_pattern = re.compile("["
                                u"\U0001F600-\U0001F64F"  # emoticons
                                u"\U0001F300-\U0001F5FF"  # symbols & pictographs
@@ -96,14 +126,19 @@ def clean_text(text):
     text = re.sub(r"\s+\.", ".", text)
     return text.strip()
 
-# Insert the given list of movie data into the MongoDB collection created
-# Parameter:
-#   movies_list - list of dictionaries, each dict contains data of a movie
 def insert_into_db(movies_list):
+    """Inserts the given list of movie data into the MongoDB collection created
+    
+    Args:
+        movies_list (list): list of dictionaries, each dict contains data of a movie
+
+    """
     movie_coll.insert_many(movies_list)
 
 
 if __name__ == "__main__":
+    """Runs a loop and processes data for each year
+    """
     years = ["2015","2016","2017","2018","2019","2020"]
     for year in years:
         print(f"\nProcessing {year} data")
